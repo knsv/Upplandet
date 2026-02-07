@@ -1,0 +1,1647 @@
+{
+  "folder": "yDXMlVqWHGQd9m71",
+  "name": "Finn Olofsson",
+  "type": "character",
+  "img": "resources/tokens/Finn-token.png",
+  "system": {
+    "characteristics": {
+      "brawn": 2,
+      "agility": 2,
+      "intellect": 2,
+      "cunning": 3,
+      "willpower": 2,
+      "presence": 4
+    },
+    "defense": {
+      "melee": 0,
+      "ranged": 0
+    },
+    "soak": 0,
+    "wounds": {
+      "value": 6,
+      "max": 12
+    },
+    "strain": {
+      "value": 12,
+      "max": 12
+    },
+    "illustration": "resources/tokens/Finn-token.png",
+    "details": {
+      "gender": "",
+      "age": "",
+      "height": "",
+      "build": "",
+      "hair": "",
+      "eyes": "",
+      "notableFeatures": ""
+    },
+    "notes": "<p>Finn växte upp på gatorna i den stora staden <strong data-start=\"578\" data-end=\"590\">Gimo</strong>, där han lärde sig att överleva genom att stjäla från andra. Charmig och lögnaktig blev han med åren en skicklig skurk. Tyvärr för honom retade han nyligen upp en adelsman, när han ertappades i säng med dennes dotter – som var trolovad med en rik och välrenommerad handelsman.</p><p data-start=\"869\" data-end=\"889\"><strong data-start=\"869\" data-end=\"889\">Utrustningslista</strong></p><p data-start=\"891\" data-end=\"1218\">På flykt hamnade Finn i <strong data-start=\"917\" data-end=\"928\">Hamnen</strong>. Han vet att det bara är en fråga om timmar, eller som mest en dag, innan den adlige mannens legoknektar hinner ikapp honom. Finley hoppades kunna smyga ombord på ett skepp, men inget skulle avgå förrän i kväll. Han fann sig i att vänta till gryningens första timmar för att ta sig ombord.</p>",
+    "experienceJournal": {
+      "entries": [
+        {
+          "amount": 100,
+          "type": "Starting",
+          "data": {}
+        },
+        {
+          "amount": -30,
+          "type": "Characteristic",
+          "data": {
+            "characteristic": "presence",
+            "rank": 3
+          }
+        },
+        {
+          "amount": -40,
+          "type": "Characteristic",
+          "data": {
+            "characteristic": "presence",
+            "rank": 4
+          }
+        },
+        {
+          "amount": -30,
+          "type": "Characteristic",
+          "data": {
+            "characteristic": "cunning",
+            "rank": 3
+          }
+        },
+        {
+          "amount": -5,
+          "type": "Skill",
+          "data": {
+            "name": "Cool",
+            "id": "aAwWJwIy3sm2XwcR",
+            "rank": 1
+          }
+        },
+        {
+          "amount": -10,
+          "type": "Skill",
+          "data": {
+            "name": "Vigilance",
+            "id": "c5jxNXUuGHdvaN8E",
+            "rank": 1
+          }
+        },
+        {
+          "amount": -5,
+          "type": "Skill",
+          "data": {
+            "name": "Melee (Light)",
+            "id": "Al7VNaptE5GiAoG2",
+            "rank": 1
+          }
+        },
+        {
+          "amount": -5,
+          "type": "Skill",
+          "data": {
+            "name": "Charm",
+            "id": "PFNbnC4B6ExXDQ2k",
+            "rank": 1
+          }
+        },
+        {
+          "amount": -10,
+          "type": "Skill",
+          "data": {
+            "name": "Charm",
+            "id": "PFNbnC4B6ExXDQ2k",
+            "rank": 2
+          }
+        },
+        {
+          "amount": -5,
+          "type": "Skill",
+          "data": {
+            "name": "Deception",
+            "id": "G1OlHHGf93TvPzXA",
+            "rank": 1
+          }
+        },
+        {
+          "amount": 40,
+          "type": "Award",
+          "data": {
+            "reason": ""
+          }
+        },
+        {
+          "amount": -5,
+          "type": "NewTalent",
+          "data": {
+            "name": "Clever Retort",
+            "id": "NlVgGcIdsHu41p4a",
+            "tier": 1,
+            "rank": 1
+          }
+        },
+        {
+          "amount": -5,
+          "type": "NewTalent",
+          "data": {
+            "name": "Proper Upbringing",
+            "id": "uwf6nYhaGydrh3IA",
+            "tier": 1,
+            "rank": 1
+          }
+        },
+        {
+          "amount": -10,
+          "type": "NewTalent",
+          "data": {
+            "name": "Lucky Strike",
+            "id": "Wm9i0UcRUmgMBiKl",
+            "tier": 2,
+            "rank": 1
+          }
+        },
+        {
+          "amount": 20,
+          "type": "Award",
+          "data": {
+            "reason": ""
+          }
+        },
+        {
+          "amount": 14,
+          "type": "Award",
+          "data": {
+            "reason": ""
+          }
+        }
+      ]
+    },
+    "encumbrance": {
+      "value": 0,
+      "threshold": 0
+    },
+    "currency": 105,
+    "superCharacteristics": [],
+    "motivations": {
+      "strength": {
+        "description": "<p>Finn är en färgstark person. Han har alltid rätt skämt, förolämpning eller repliker redo för varje situation han ställs inför. Hans rappa tunga har räddat honom ur många knepiga lägen.</p>",
+        "name": "Wiitty"
+      },
+      "flaw": {
+        "description": "<p>Finn tappar sin charm kring kvinnor han finner attraktiva. Han blir distraherad och klumpig. Det säger sig självt att den här ovanan – som inte är begränsad till ogifta kvinnor – har gett honom sin beskärda del av problem.</p>",
+        "name": "Compulsion"
+      },
+      "desire": {
+        "description": "<p>Efter år av fattigdom vill Finn bara få njuta av den lyx som de ovanför honom i samhällsordningen tar för given varje dag. Alkohol, spel, kvinnor – han längtar efter allt som går att köpa för silverkronor. Hans dröm är att bo i en flott herrgård och spendera pengar som om de aldrig skulle ta slut.</p>",
+        "name": "Wealth"
+      },
+      "fear": {
+        "description": "<p>Trots sin sociala skicklighet förblir Finn en fattig bonde, och han har svårt att hantera när han blir påmind om det. Något av det värsta han kan uppleva är att bli avvisad av en kvinna han kurtiserar på grund av sin plats i samhället. Nästan lika illa är att hamna i underläge i en konflikt inför andra.</p>",
+        "name": "Humiliation"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Inkvisitionen",
+    "displayName": 0,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "resources/tokens/Finn-token.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "wounds"
+    },
+    "bar2": {
+      "attribute": "strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": true,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Coordination",
+      "type": "skill",
+      "img": "icons/skills/targeting/target-glowing-yellow.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.59",
+        "characteristic": "agility",
+        "category": "general",
+        "initiative": false,
+        "career": true,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.v4b8j2Fdgd1yfSZo",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": "0I4XRwDpK0q8REmU",
+        "modifiedTime": 1766389176203
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "8xGamR4X5i71tr4a",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Ranged",
+      "type": "skill",
+      "img": "icons/skills/ranged/arrows-flying-salvo-blue-light.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.68",
+        "characteristic": "agility",
+        "category": "combat",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.pipo6We8DtaxpBeV",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "9Jtykedd2eEWOTGq",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Leadership",
+      "type": "skill",
+      "img": "icons/environment/people/cavalry-heavy.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.56",
+        "characteristic": "presence",
+        "category": "social",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.HN52rmHjxvixDHO5",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "A8MLFiR8YkVExjr7",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Melee (Light)",
+      "type": "skill",
+      "img": "icons/skills/melee/maneuver-sword-katana-yellow.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.68",
+        "characteristic": "brawn",
+        "category": "combat",
+        "initiative": false,
+        "career": true,
+        "rank": 1
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.McYWtt3VolfWr1B5",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": "0I4XRwDpK0q8REmU",
+        "modifiedTime": 1766389459680
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "Al7VNaptE5GiAoG2",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Discipline",
+      "type": "skill",
+      "img": "icons/environment/people/infantry-army.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.60",
+        "characteristic": "willpower",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.W2UO1qQAcDe0Mx7h",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "EFgDj2dSTa1GO61y",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Deception",
+      "type": "skill",
+      "img": "icons/magic/light/orb-hands-humanoid-yellow.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.56",
+        "characteristic": "cunning",
+        "category": "social",
+        "initiative": false,
+        "career": true,
+        "rank": 1
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.70huexFLJ5jnT4B0",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": "0I4XRwDpK0q8REmU",
+        "modifiedTime": 1766389472534
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "G1OlHHGf93TvPzXA",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Melee (Heavy)",
+      "type": "skill",
+      "img": "icons/skills/melee/maneuver-greatsword-yellow.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.68",
+        "characteristic": "brawn",
+        "category": "combat",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.yq9NOmtuc5oXUsCx",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "NSWyHfiv67YtZA4M",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Charm",
+      "type": "skill",
+      "img": "icons/magic/life/heart-red-blue.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.54",
+        "characteristic": "presence",
+        "category": "social",
+        "initiative": false,
+        "career": true,
+        "rank": 2
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.GCBCCjqsfuLhQPzS",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": "0I4XRwDpK0q8REmU",
+        "modifiedTime": 1766389465817
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "PFNbnC4B6ExXDQ2k",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Riding",
+      "type": "skill",
+      "img": "icons/creatures/mammals/deer-antlers-glowing-blue.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.63",
+        "characteristic": "agility",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.KYZB11LQjDOM7vJa",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "WjSY0thcYDj4VKFj",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Coercion",
+      "type": "skill",
+      "img": "icons/skills/social/intimidation-impressing.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.55",
+        "characteristic": "willpower",
+        "category": "social",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.Pk4v52UGPt2PcPc6",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "XfD4gBixSj2MyEnV",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Cool",
+      "type": "skill",
+      "img": "icons/magic/light/explosion-star-blue.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.59",
+        "characteristic": "presence",
+        "category": "general",
+        "initiative": true,
+        "career": true,
+        "rank": 1
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.MYNmxJSySxSqWIZp",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": "0I4XRwDpK0q8REmU",
+        "modifiedTime": 1766389451908
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "aAwWJwIy3sm2XwcR",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Perception",
+      "type": "skill",
+      "img": "icons/magic/perception/eye-ringed-green.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.62",
+        "characteristic": "cunning",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.S3OKZMeXiGpc1joi",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "b2QvOkPhDxRuDxjw",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Vigilance",
+      "type": "skill",
+      "img": "icons/magic/perception/third-eye-blue-red.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.65",
+        "characteristic": "willpower",
+        "category": "general",
+        "initiative": true,
+        "career": false,
+        "rank": 1
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.RFnQeuD4u3iKGcAf",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": "0I4XRwDpK0q8REmU",
+        "modifiedTime": 1766389455931
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "c5jxNXUuGHdvaN8E",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Medicine",
+      "type": "skill",
+      "img": "icons/magic/life/cross-beam-green.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.61",
+        "characteristic": "intellect",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.LLTT8gMT1P81CdDs",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "fFafBSae7OHv7I7p",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Piloting",
+      "type": "skill",
+      "img": "icons/skills/movement/arrow-upward-yellow.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.62",
+        "characteristic": "agility",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.WN4BqyA6fZvgdLd2",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "fv0XwHuNGbmoYzXW",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Brawl",
+      "type": "skill",
+      "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.67",
+        "characteristic": "brawn",
+        "category": "combat",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.8DygCWhQcRcJe4SG",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "gJxGWcS2UQdDHDz1",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Negotiation",
+      "type": "skill",
+      "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.56",
+        "characteristic": "presence",
+        "category": "social",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.37dMlJI0SsTI4MYm",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": "0I4XRwDpK0q8REmU",
+        "modifiedTime": 1766389402294
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "i7himjhn3lHLrr87",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Stealth",
+      "type": "skill",
+      "img": "icons/magic/perception/silhouette-stealth-shadow.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.64",
+        "characteristic": "agility",
+        "category": "general",
+        "initiative": false,
+        "career": true,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.TpCAMJkCamRMgqqw",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": "0I4XRwDpK0q8REmU",
+        "modifiedTime": 1766389194189
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "ktqR5c28XtBQwIRT",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Streetwise",
+      "type": "skill",
+      "img": "icons/skills/social/theft-pickpocket-bribery-brown.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.65",
+        "characteristic": "cunning",
+        "category": "general",
+        "initiative": false,
+        "career": true,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.xDF9IBB2Qa4Teycr",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": "0I4XRwDpK0q8REmU",
+        "modifiedTime": 1766389188398
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "mxRAGPnCavFjiPWi",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Alchemy",
+      "type": "skill",
+      "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.57",
+        "characteristic": "intellect",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.R97GsS6qLkl7En4L",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "qovNwR5dw2aMvq5x",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Survival",
+      "type": "skill",
+      "img": "icons/commodities/flowers/buds-red.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.65",
+        "characteristic": "cunning",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.Hu4p12f9fMjr4G92",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "wgw058jGq8iACIjq",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Resilience",
+      "type": "skill",
+      "img": "icons/magic/defensive/shield-barrier-deflect-teal.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.63",
+        "characteristic": "brawn",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.kHGOlBBrxuTR0jtD",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "x3IxKzevdiXjzPHB",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Athletics",
+      "type": "skill",
+      "img": "icons/skills/movement/feet-winged-boots-glowing-yellow.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.58",
+        "characteristic": "brawn",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.niEkDMJEla2uFC9c",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "xmQPbOVooFQLzPO0",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Skulduggery",
+      "type": "skill",
+      "img": "icons/weapons/daggers/dagger-simple-purple.webp",
+      "system": {
+        "description": "",
+        "source": "Core Rulebook, p.64",
+        "characteristic": "cunning",
+        "category": "general",
+        "initiative": false,
+        "career": true,
+        "rank": 0
+      },
+      "effects": [],
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "compendiumSource": "Item.xhoJPE3BIZp0TFsL",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": "0I4XRwDpK0q8REmU",
+        "modifiedTime": 1766389182680
+      },
+      "folder": null,
+      "sort": 0,
+      "_id": "yajRTEqdiEspxITo",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "folder": "VjrF4AoqOmQ1Fkgb",
+      "name": "Häxkonst",
+      "type": "skill",
+      "_id": "4lKENVt29qaAFrpF",
+      "img": "resources/icons/magic/nature/dreamcatcher-green.webp",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "cunning",
+        "category": "magic",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "sort": 500000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Item.XkdD5Ydb9gMBtLLs",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "folder": "VjrF4AoqOmQ1Fkgb",
+      "name": "Förbjuden Kunskap",
+      "type": "skill",
+      "_id": "hCEFcId6YuV5Fy1D",
+      "img": "resources/icons/skills/trades/academics-study-reading-book.webp",
+      "system": {
+        "description": "<p>Världen är full av okända varelser och mysterier. Den här färdigheten omfattar kunskap om sådant – oavsett om det handlar om att identifiera en mörk varelse eller förstå magiska fenomen. Den täcker också kunskap om häxor och deras ritualer.</p><p data-start=\"266\" data-end=\"324\"><strong data-start=\"266\" data-end=\"322\">Din rollperson bör använda den här färdigheten när …</strong></p><ul data-start=\"325\" data-end=\"594\"><li data-start=\"325\" data-end=\"437\"><p data-start=\"327\" data-end=\"437\">din rollperson försöker identifiera en mörk varelse, som en varulv, vampyr eller annan övernaturlig varelse.</p></li><li data-start=\"438\" data-end=\"534\"><p data-start=\"440\" data-end=\"534\">din rollperson försöker koppla samman föremål, målade symboler och cirklar med häxaktivitet.</p></li><li data-start=\"535\" data-end=\"594\"><p data-start=\"537\" data-end=\"594\">din rollperson försöker tyda skrifter på <strong data-start=\"578\" data-end=\"593\">Mörkerspråk</strong>.</p></li></ul><p data-start=\"596\" data-end=\"659\"><strong data-start=\"596\" data-end=\"657\">Din rollperson bör inte använda den här färdigheten när …</strong></p><ul data-start=\"660\" data-end=\"995\"><li data-start=\"660\" data-end=\"749\"><p data-start=\"662\" data-end=\"749\">din rollperson försöker kasta en häxbesvärjelse. Det kräver färdigheten <strong data-start=\"734\" data-end=\"746\">Häxkonst</strong>.</p></li><li data-start=\"750\" data-end=\"881\"><p data-start=\"752\" data-end=\"881\">din rollperson försöker blanda alkemiska ingredienser för att skapa en dryck eller elixir. Det använder färdigheten <strong data-start=\"868\" data-end=\"878\">Alkemi</strong>.</p></li><li data-start=\"882\" data-end=\"995\"><p data-start=\"884\" data-end=\"995\">din rollperson försöker minnas namnet på en berömd monstjägare. Det kräver ett slag på <strong data-start=\"971\" data-end=\"994\">Kunskap (Tradition)</strong>.</p></li></ul>",
+        "source": "",
+        "characteristic": "intellect",
+        "category": "knowledge",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "sort": 300000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Item.c7z1ftROgxHa0xUo",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "folder": "VjrF4AoqOmQ1Fkgb",
+      "name": "Geografi",
+      "type": "skill",
+      "_id": "FqOfFRkl7edGb4bV",
+      "img": "resources/icons/skills/trades/academics-astronomy-navigation-purple.webp",
+      "system": {
+        "description": "<p>Landet är vidsträckt, och denna kunskap representerar rollpersonens förståelse för geografin, kulturer, seder och lagar. Den omfattar också förmågan att tolka kartor och förstå kartografi.</p><p data-start=\"205\" data-end=\"263\"><strong data-start=\"205\" data-end=\"261\">Din rollperson bör använda den här färdigheten när …</strong></p><ul data-start=\"264\" data-end=\"409\"><li data-start=\"264\" data-end=\"324\"><p data-start=\"266\" data-end=\"324\">din rollperson vill planera en färdväg genom vildmarken.</p></li><li data-start=\"325\" data-end=\"409\"><p data-start=\"327\" data-end=\"409\">din rollperson behöver veta vilka lagar och seder som gäller i ett visst samhälle.</p></li></ul><p data-start=\"411\" data-end=\"474\"><strong data-start=\"411\" data-end=\"472\">Din rollperson bör inte använda den här färdigheten när …</strong></p><ul data-start=\"475\" data-end=\"824\"><li data-start=\"475\" data-end=\"597\"><p data-start=\"477\" data-end=\"597\">din rollperson vill minnas information om en <strong data-start=\"522\" data-end=\"531\">adlig</strong> familj och dess släktlinje. Då används <strong data-start=\"571\" data-end=\"594\">Kunskap (Tradition)</strong>.</p></li><li data-start=\"598\" data-end=\"733\"><p data-start=\"600\" data-end=\"733\">din rollperson behöver slå läger eller hantera andra praktiska frågor kring att färdas genom vildmarken. Då används <strong data-start=\"716\" data-end=\"730\">Överlevnad</strong>.</p></li><li data-start=\"734\" data-end=\"824\"><p data-start=\"736\" data-end=\"824\">din rollperson försöker minnas historien om en ruin. Då används <strong data-start=\"800\" data-end=\"823\">Kunskap (Tradition)</strong>.</p></li></ul>",
+        "source": "",
+        "characteristic": "intellect",
+        "category": "knowledge",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "sort": 100000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Item.7Ojllwx2QX4iXi8e",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "folder": "VjrF4AoqOmQ1Fkgb",
+      "name": "Tradition",
+      "type": "skill",
+      "_id": "3WqGoaw01QPwMLda",
+      "img": "resources/icons/skills/trades/academics-book-study-purple.webp",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "intellect",
+        "category": "knowledge",
+        "initiative": false,
+        "career": false,
+        "rank": 0
+      },
+      "effects": [],
+      "sort": 400000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Item.XGeS1V9FqAFyrYZg",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "folder": "OR1OPZwXdXR9zF2T",
+      "name": "Ofrälse",
+      "type": "archetype",
+      "_id": "QUtNMZ0RYNQ4ZQFW",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<blockquote data-start=\"134\" data-end=\"284\"><p data-start=\"136\" data-end=\"284\"><em data-start=\"136\" data-end=\"284\">Arketypen Ofrälse representerar den genomsnittliga personen i Uppland. Den här arketypen är balanserad och kan fungera i vilken karriär som helst.</em></p></blockquote><p data-start=\"286\" data-end=\"331\">En <strong data-start=\"25\" data-end=\"36\">Ofrälse</strong> börjar med <strong data-start=\"48\" data-end=\"59\" data-is-only-node=\"\">en rang</strong> i <strong data-start=\"62\" data-end=\"93\">två icke-karriärfärdigheter</strong> när du skapar din karaktär. Du får dessa rang(er) <strong data-start=\"144\" data-end=\"153\">innan</strong> du spenderar erfarenhetspoäng, och du får <strong data-start=\"196\" data-end=\"204\">inte</strong> höja dessa färdigheter över <strong data-start=\"233\" data-end=\"243\">rang 2</strong> under karaktärsskapandet.</p><p data-start=\"271\" data-end=\"603\"><strong data-start=\"271\" data-end=\"298\">Hjältemodigt ögonblick:</strong> <strong data-start=\"299\" data-end=\"323\">En gång per spelmöte</strong>, som en <strong data-start=\"332\" data-end=\"370\" data-is-only-node=\"\">incidentell åtgärd utanför din tur</strong>, får du skapa <strong data-start=\"385\" data-end=\"414\">en tillfällig Story Point</strong> som du eller en annan spelare kan spendera <strong data-start=\"458\" data-end=\"485\">innan spelmötet är slut</strong>. En tillfällig Story Point tas bort från poolen när den används, men den flyttas <strong data-start=\"567\" data-end=\"575\">inte</strong> till SL:s Story Point-pool.</p>",
+        "source": "",
+        "characteristics": {
+          "brawn": 2,
+          "agility": 2,
+          "intellect": 2,
+          "cunning": 2,
+          "willpower": 2,
+          "presence": 2
+        },
+        "woundThreshold": 10,
+        "strainThreshold": 10,
+        "startingXP": 100,
+        "grantedItems": []
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Item.vuglCU6MPFy0EJ51",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1766389151341,
+        "modifiedTime": 1766389151341,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "folder": "qA5RfIoYQ8L8yOmt",
+      "name": "Skurk",
+      "type": "career",
+      "img": "icons/skills/trades/profession-sailing-pirate.webp",
+      "system": {
+        "description": "<p>Tiderna är hårda för den stora majoriteten av befolkningen. De <strong>adliga</strong> är rika, medan resten av folket är utfattigt. Vissa som antingen saknar förmågan att försörja sig på ett hederligt sätt, eller som är för giriga för att leva efter sin samhällsställning, blir skurkar och lever på andras ansträngningar. Tjuvar, bedragare, stråtrövare – de här människorna lever i konflikt med lagen och försöker samtidigt hålla huvudet kvar på axlarna.</p><p><strong>Karriärfärdigheter:</strong> Skurken räknar följande färdigheter som karriärfärdigheter: <strong>Charm, Cool, Koordination, Bedrägeri, Närstrid (Lätt), Skumrask, Smyga, Gatukännedom</strong>.</p><p><strong>Startfärdigheter:</strong> Innan du spenderar erfarenhetspoäng under karaktärsskapandet får en Skurk välja <strong>fyra</strong> av sina karriärfärdigheter och få <strong>en rang</strong> i var och en av dem.</p><p><strong>Startutrustning:</strong> Spelare med en Skurk får välja att börja med följande utrustning i stället för att spendera valuta under <strong>Steg 7</strong> i karaktärsskapandet:</p><ul><li><p><strong>Ett par dolkar</strong> eller <strong>morgonstjärna</strong></p></li><li><p><strong>Fin mantel</strong> eller <strong>tjuvverktyg</strong></p></li><li><p><strong>Läderrustning</strong> eller <strong>tunga kåpor</strong></p></li><li><p><strong>Två rökbombsflaskor</strong> eller <strong>en uthållighetsdryck</strong></p></li><li><p><strong>Hälsoelixir</strong></p></li><li><p><strong>175 silverkronor</strong></p></li></ul>",
+        "source": "",
+        "careerSkills": [],
+        "selectedSkillIDs": []
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": "Item.ZPvII8dmhTXQslum",
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1766389159353,
+        "modifiedTime": 1766389159353,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "mQH9X99apZKCZyoP",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Axe",
+      "type": "weapon",
+      "img": "icons/creatures/unholy/demon-fanged-horned-yellow.webp",
+      "system": {
+        "description": "<p>Though originally a simple woodcutter's tool, in skilled (or desperate) hands, an axe can be a vicious weapon. The curved and heavy blade of the axe-head takes brutal bites out of flesh as well as timber, and many cultures have crafted axes designed specifically for war. The Orcs of the Broken Plains prefer stone axes that land pulverizing blows, for example, while the Dwarves of the Dunwarr Mountains forge double-bladed axes with long beards and a keen bite.</p>",
+        "source": "RoT p.92",
+        "rarity": 1,
+        "encumbrance": 2,
+        "price": 150,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "equipped",
+        "baseDamage": 3,
+        "critical": 3,
+        "range": "engaged",
+        "skills": [
+          "Melee (Light)"
+        ],
+        "qualities": [
+          {
+            "name": "vicious",
+            "rating": 1,
+            "description": "",
+            "isRated": true
+          }
+        ],
+        "damageCharacteristic": "brawn"
+      },
+      "effects": [],
+      "folder": "s05eo3Rv0dIYEfGU",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Realms of Terrinoth",
+          "page": 92
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.weapons.Item.88ee9b49f666771e",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1766389522079,
+        "modifiedTime": 1766410088153,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "EM7mQNEFLr6sTMUR",
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Dagger",
+      "type": "weapon",
+      "img": "icons/magic/fire/projectile-embers-orange.webp",
+      "system": {
+        "description": "<p>Nearly everyone in Terrinoth carries a knife at their belt; it is a useful tool for any number of mundane tasks. Daggers, on the other hand, are designed purely for killing. Their thin, razor-sharp blades tend to be perfectly balanced so they can be thrown with the flick of a wrist just as easily as they can slit an unwary throat.</p>\n<p>Your character can stab or slash with a dagger using the profile in {@table 2-5: Melee Weapons} on page 94, or they can throw one using the following profile:</p>\n<p>[object Object]</p>",
+        "source": "RoT p.92",
+        "rarity": 1,
+        "encumbrance": 1,
+        "price": 60,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "equipped",
+        "baseDamage": 2,
+        "critical": 3,
+        "range": "engaged",
+        "skills": [
+          "Melee (Light)"
+        ],
+        "qualities": [
+          {
+            "name": "accurate",
+            "rating": 1,
+            "description": "",
+            "isRated": true
+          }
+        ],
+        "damageCharacteristic": "-"
+      },
+      "effects": [],
+      "folder": "s05eo3Rv0dIYEfGU",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Realms of Terrinoth",
+          "page": 92
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.weapons.Item.9897814d1f5f9991",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1766389523851,
+        "modifiedTime": 1766389549008,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "DyG8pUfhv1pU5tzx",
+      "sort": 150000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Dagger",
+      "type": "weapon",
+      "img": "icons/magic/fire/projectile-embers-orange.webp",
+      "system": {
+        "description": "<p>Nearly everyone in Terrinoth carries a knife at their belt; it is a useful tool for any number of mundane tasks. Daggers, on the other hand, are designed purely for killing. Their thin, razor-sharp blades tend to be perfectly balanced so they can be thrown with the flick of a wrist just as easily as they can slit an unwary throat.</p>\n<p>Your character can stab or slash with a dagger using the profile in {@table 2-5: Melee Weapons} on page 94, or they can throw one using the following profile:</p>\n<p>[object Object]</p>",
+        "source": "RoT p.92",
+        "rarity": 1,
+        "encumbrance": 1,
+        "price": 60,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "equipped",
+        "baseDamage": 2,
+        "critical": 3,
+        "range": "engaged",
+        "skills": [
+          "Melee (Light)"
+        ],
+        "qualities": [
+          {
+            "name": "accurate",
+            "rating": 1,
+            "description": "",
+            "isRated": true
+          }
+        ],
+        "damageCharacteristic": "-"
+      },
+      "effects": [],
+      "folder": "s05eo3Rv0dIYEfGU",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Realms of Terrinoth",
+          "page": 92
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.weapons.Item.9897814d1f5f9991",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1766389525014,
+        "modifiedTime": 1766389585064,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "C3ACFsOJzmLMpzb0",
+      "sort": 125000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Padded Armor",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-leather-stitched.webp",
+      "system": {
+        "description": "<p>Padded armor consists of thick, quilted layers of cloth, and resembles a winter coat more than a piece of armor. However, the thick padding can blunt blows and offer some protection for the wearer. Padded armor is most common in the northern realms of Isheim and in Daqan's poorest baronies, where warriors can afford little better.</p>",
+        "source": "RoT p.96",
+        "rarity": 2,
+        "encumbrance": 2,
+        "price": 35,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "equipped",
+        "defense": 0,
+        "soak": 1,
+        "qualities": []
+      },
+      "effects": [],
+      "folder": "oT9WYOjKy0zByj87",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Realms of Terrinoth",
+          "page": 96
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.armor.Item.b2e9576ee7ee5afb",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1766389608687,
+        "modifiedTime": 1766389621004,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "JGNMRVhpLk0kZeEu",
+      "sort": 250000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Clever Retort",
+      "type": "talent",
+      "img": "icons/magic/light/projectile-smoke-yellow.webp",
+      "system": {
+        "description": "<p>Once per encounter, your character may use this talent to add automatic {@symbols hh} to another character's social skill check.</p>",
+        "source": "CRB p.73",
+        "tier": 1,
+        "activation": {
+          "type": "active",
+          "detail": "incidental, out of turn"
+        },
+        "ranked": "no",
+        "scalesWithRank": "no",
+        "rank": 1
+      },
+      "effects": [],
+      "folder": "fG64jADubH4kT5cs",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Genesys Core Rulebook",
+          "page": 73
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.talents.Item.484fc2e954f102b1",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1766390545402,
+        "modifiedTime": 1766390545402,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "NlVgGcIdsHu41p4a",
+      "sort": 115625,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "uwf6nYhaGydrh3IA",
+      "name": "Proper Upbringing",
+      "type": "talent",
+      "img": "icons/magic/nature/wolf-paw-glow-teal-blue.webp",
+      "system": {
+        "description": "<p>When your character makes a social skill check in polite company (as determined by your GM), they may suffer a number of strain to use this talent to add an equal number of {@symbols a} to the check. The number may not exceed your character's ranks in Proper Upbringing.</p>",
+        "source": "CRB p.74",
+        "tier": 1,
+        "activation": {
+          "type": "active",
+          "detail": "incidental"
+        },
+        "ranked": "yes",
+        "scalesWithRank": "no",
+        "rank": 1
+      },
+      "effects": [],
+      "folder": "fG64jADubH4kT5cs",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Genesys Core Rulebook",
+          "page": 74
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.talents.Item.e9b3e183e2bc8d13",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1766390553269,
+        "modifiedTime": 1766390553269,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "sort": 105860,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Wm9i0UcRUmgMBiKl",
+      "name": "Lucky Strike",
+      "type": "talent",
+      "img": "icons/magic/control/fear-fright-monster-grin-purple-blue.webp",
+      "system": {
+        "description": "<p>When your character purchases this talent, choose one characteristic. After your character makes a successful combat check, you may spend one Story Point to use this talent to add damage equal to your character's ranks in that characteristic to one hit of the combat check.</p>",
+        "source": "CRB p.76",
+        "tier": 2,
+        "activation": {
+          "type": "active",
+          "detail": "incidental"
+        },
+        "ranked": "no",
+        "scalesWithRank": "no",
+        "rank": 1
+      },
+      "effects": [],
+      "folder": "TrbULqoyzGdvAl8O",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Genesys Core Rulebook",
+          "page": 76
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.talents.Item.7dae36d1be2f9a87",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1766390577507,
+        "modifiedTime": 1766390577507,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "sort": 78125,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "Actor.7GtQBzxQhdEk3i70",
+    "exportSource": {
+      "worldId": "genesys-test",
+      "uuid": "Actor.XkOxVhzaNZ7XB7d8",
+      "coreVersion": "13.351",
+      "systemId": "genesys",
+      "systemVersion": "0.2.18"
+    },
+    "coreVersion": "13.351",
+    "systemId": "genesys",
+    "systemVersion": "0.2.18",
+    "createdTime": 1766389118042,
+    "modifiedTime": 1768157249755,
+    "lastModifiedBy": "W4BXgVsfWa7TcKzh"
+  },
+  "ownership": {
+    "default": 3
+  }
+}
