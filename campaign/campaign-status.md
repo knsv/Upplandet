@@ -1,7 +1,7 @@
 # Upplandet - Kampanjstatus
 
-**Senast uppdaterad:** Efter Session 2 (11 januari 2026)
-**Nuvarande äventyr:** Döende Ljus (avslutat) → Resa mot Tierp
+**Senast uppdaterad:** Session 3-planering (februari 2026)
+**Nuvarande äventyr:** Offerlunden (session 3, planerad)
 **Nästa session:** TBD
 
 ---
@@ -17,13 +17,16 @@
 │         │                                                   │
 │         │ (Flyr Östhammar med Emma)                        │
 │         ▼                                                   │
-│  [02] INKVISITIONENS FRÅGOR ←── DU ÄR HÄR                 │
+│  [02] OFFERLUNDEN ←── PLANERAD (session 3)                 │
+│         │  Resa genom skogen, stråtrövare,                 │
+│         │  urgammal offerlund, ankomst Tierp               │
 │         │                                                   │
-│         │ (Hook: Astrid i Öregrund)                        │
+│         │ (Inkvisitionen som bakgrundshot)                  │
 │         ▼                                                   │
-│  [03] SILVERVÄGEN                                           │
+│  [03] TIERP-ÄVENTYRET (arbetsnamn)                          │
+│         │  Mor Greta, Ulf Grönlöv, skogen vaknar           │
 │         │                                                   │
-│         │ (Hook: Dannemora-ryktena)                        │
+│         │ (Hook: Dannemora, Det som vaknade)                │
 │         ▼                                                   │
 │  [04] DET SOM VAKNADE I DJUPET                              │
 │         │                                                   │
@@ -38,9 +41,12 @@
 | # | Äventyr | Status | Platser | Sessioner |
 |---|---------|--------|---------|-----------|
 | 01 | Döende Ljus | **Avslutat** | Östhammar, Fyrön | 2 |
-| 02 | Inkvisitionens frågor | **Pågår** | Östhammar → Tierp | - |
-| 03 | Silvervägen | Förberedd | Öregrund → Tierp → Sigtuna | 2-3 |
-| 04 | Det som vaknade i djupet | Planerad | Öregrund, Dannemora | 3-4 |
+| 02 | Offerlunden | **Planerad** | Kolvägen, Östhammar → Tierp | 1 |
+| 03 | Tierp-äventyret | Skiss | Tierp, norra skogen | 2-3 |
+| 04 | Det som vaknade i djupet | Planerad | Tierp, Dannemora | 3-4 |
+| — | Silvervägen | Förberedd (vilar) | Öregrund → Sigtuna | 2-3 |
+
+**Notering:** Kampanjens riktning har ändrats. Spelarna flydde Östhammar istället för att vänta på Inkvisitionens kallelse. Tierp-spåret (skogens krafter, Det som vaknade) är nu huvudriktningen. Inkvisitionen kvarstår som orosmoment. Silvervägen kan vävas in senare.
 
 ---
 
@@ -48,12 +54,12 @@
 
 | Karaktär | Spelare | Klass | Sår | Belastning | XP | Anteckningar |
 |----------|---------|-------|-----|------------|-----|--------------|
-| Sören Larsson | Mattias | Tempelriddare | ~13/13 | 14/14 | +15 | Helade 5 sår + dubbelbonus under natten |
-| Lusse | Per | Monsterjägare | ~7/14 | 14/14 | +15 | Tog 8 sår av Livia, helade 1 |
-| Finn | Fredrik | Skurk | ~6/? | 14/14 | +15 | Tog 8 sår + krit av Livia, helade 2 |
+| Sören Larsson | Mattias | Tempelriddare | ~13/13 | 14/14 | +15 | Fullhälad. Har sitt spjut, sköld, ringbrynja |
+| Lusse | Per | Monsterjägare | ~7/14 | 14/14 | +15 | Allvarligt skadad (tog 8 sår av Livia, helade 1) |
+| Finn | Fredrik | Skurk | ~6/? | 14/14 | +15 | Allvarligt skadad (tog 8 sår + krit, helade 2) |
 
 ### Resande
-- **Emma Brun** — Under sällskapets beskydd. Magiska förmågor. Ångerfullt.
+- **Emma Brun** — Under sällskapets beskydd. Magiska förmågor. Tyst och rädd.
 
 ### XP-belöning Session 1
 
@@ -68,7 +74,45 @@
 *Session 2 XP ej utdelat ännu.*
 
 ## Nuvarande plats
-**Östhammar** — Dansande Krabban. Planerar att smyga ut nästa morgon mot Tierp med Emma.
+**Östhammar** — Dansande Krabban. Smyger ut i gryningen mot Tierp med Emma.
+
+---
+
+## Session 3: Offerlunden (PLANERAD)
+
+### Koncept
+Sällskapet flyr genom djup skog mot Tierp. Fångas av stråtrövare — som själva är fångade av en urgammal offerlund som vaknat. Dubbel fångenskap, pussel och flykt.
+
+### Struktur (5 akter)
+
+| Akt | Tid | Händelse |
+|-----|-----|----------|
+| 1 | Gryning | Flykt ur Östhammar, tre inkvisitionsryttare på vägen |
+| 2 | Middag | Stråtrövarna (Torkel Halvhand) fångar sällskapet |
+| 3 | Kväll | Skogen stänger sig, Nils försvinner, alla stigar leder till lunden |
+| 4 | Natt | Offerlunden — skräck, pussel, dubbel flykt (rep + trolldom) |
+| 5 | Gryning | Efterspel, ankomst Tierp |
+
+### Nya NSC:er (session 3)
+
+| NSC | Roll | Beskrivning |
+|-----|------|-------------|
+| Torkel Halvhand | Rövarledare | Ex-soldat, pragmatisk, saknar tre fingrar. Potentiell återkommande kontakt |
+| Maja Svart | Rövare, skytt | Senig, tyst, Torkels förtrogna |
+| Unge Bror | Rövare, 17 år | Nervös, visar medlidande med Emma |
+| Halte Gunnar | Rövare, äldre | Cynisk humor, kokar maten |
+| Erik Tre-Öron | Rövare, stor | Lojal, inte snabb i tanken |
+| Nils | Rövare, ny | Tystlåten, redan påverkad av skogen. *Försvinner först* |
+
+### Nyckelfrågor att lösa under sessionen
+- Hur tar sig sällskapet loss från rövarna?
+- Hur bryter de offerlundens grepp? (frivilligt offer, Emmas kommunikation, eller brute force)
+- Hur eskalerar Emmas krafter?
+- Sörens troskris: hans böner fungerar inte i lunden
+
+### Förberedda filer
+- `adventures/02-after-dying-light/session-03-offerlunden.md` — Fullständig sessionsförberedelse
+- `adventures/02-after-dying-light/encounters-resan.md` — 18 encounters för resor i skogen
 
 ---
 
@@ -120,9 +164,10 @@
 
 ### Politisk situation
 - Fader Daniel har skrivit till Inkvisitionen i Sigtuna
-- Biskop Marcus och Inquisitor Ragnar förväntas komma till Östhammar
-- Sällskapet är kallade till förhör men planerar att fly
+- Biskop Marcus och Inquisitor Ragnar förväntas skicka folk till Östhammar
+- Sällskapet var kallade till förhör men **flydde istället**
 - Sällskapets berättelse till myndigheterna är inkonsekvent
+- Tre inkvisitionsryttare på väg till Östhammar (session 3, Akt 1)
 
 ---
 
@@ -149,7 +194,7 @@
 | Baronens vakter (3) | Elitgardister | Döda på Fyrön | Ej begravda, baronen ska skicka folk |
 | Emma Brun | Tonårsflicka med magi | Reser med sällskapet | Under Sörens beskydd, ångerfullt |
 | Livia (banshee) | Varelse av drivved/bark | Förstörd | Exploderade i mörk rök |
-| Fader Daniel | Präst | Östhammar | Misstänksam, skriver till Inkvisitionen |
+| Fader Daniel | Präst | Östhammar | Misstänksam, skrev till Inkvisitionen |
 
 ---
 
@@ -159,22 +204,42 @@
 
 ---
 
-## Anteckningar för spelledaren
+## Kampanjens riktning
 
-### Nästa sessions öppning
+### Huvudspår: Tierp och skogen
+Spelarna rör sig mot Tierp och de djupa skogarna. Den övernaturliga aktiviteten i skogen (offerlunden, döda träd, flyende djur) kopplar till **Det som vaknade i djupet** — urgamla krafter under Upplands berg som rört sig sedan gruvarbetarna i Dannemora bröt igenom en vägg.
+
+### Bakgrundshot: Inkvisitionen
+Inkvisitionen är inte nästa äventyr utan ett pågående orosmoment:
+- Tre ryttare på väg till Östhammar (session 3)
+- Om sällskapet blev sedda: folk skickas till Tierp inom dagar
+- Sörens lojalitetskonflikt (tempelriddare som flyr sin orden)
+- Fader Anders i Tierp — inkvisitionens potentiella kontakt i byn
+
+### Emmas utvecklingsbåge
+Emmas krafter eskalerar gradvis:
+- Session 2: Ånger, korstecken, vill omvändas
+- Session 3: Krafter reagerar på gammal magi (offerlunden), möjlig kommunikation med urgamla makter
+- Framtida: Mor Greta i Tierp kan hjälpa — eller utnyttja — henne
+
+### Anteckningar för spelledaren
+
+**Nästa sessions öppning (session 3):**
 - Sällskapet smyger ut ur Östhammar i gryningen
-- Resa genom medeltida skog mot Tierp
-- Emma följer med — hur beter hon sig på resan?
-- Lusse och Finn fortfarande skadade
+- 40 km genom djup skog till fots (1,5 dag)
+- Oktober, höst — kort dagsljus, kallt
+- Lusse och Finn fortfarande allvarligt skadade
+- Se `session-03-offerlunden.md` för fullständig prep
 
-### Aktiva hot
-- Inkvisitionen är på väg till Östhammar — hur snabbt kan de komma?
-- Fader Daniels rapport nämner demonisk aktivitet och häxkonst
-- Sällskapets historia var inkonsekvent — kan skapa problem vid eventuellt förhör
-- Sören som tempelriddare kan komma i svår sits mellan sin lojalitet och sitt löfte till Emma
+**Aktiva hot:**
+- Inkvisitionen skickar folk till Östhammar
+- Offerlunden / urgamla krafter i skogen
+- Stråtrövare på kolvägen
+- Emmas krafter som eskalerar utom kontroll
 
-### Emmas situation
-- Har magiska förmågor men vill "se ljuset"
-- Sören tror hon kan omvändas
-- Finn har byggt en relation med henne (charmed henne framgångsrikt)
-- Hon är 15-16 år, ensam i världen, föräldrar döda
+**Efter session 3 (Tierp):**
+- Mor Greta — kan hon hjälpa Emma?
+- Ulf Grönlöv — hans hemligheter om skogen
+- Fader Anders — ung präst, potentiell konflikt kring Emma
+- Det Gamla Trädet — hedniska seder, gammal magi
+- Kolarbetare som rapporterar ljus i norra skogen

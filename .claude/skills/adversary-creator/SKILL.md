@@ -1,12 +1,16 @@
 ---
 name: adversary-creator
-description: Skapar balanserade motståndare för Genesys RPG med stöd för Inquisition-settingen. Genererar fullständiga stat blocks med egenskaper, färdigheter, talanger, utrustning och förmågor.
-allowed-tools: [Read, Write, Glob, Grep]
+description: Skapar balanserade motståndare för Genesys RPG med stöd för Inquisition-settingen. Genererar fullständiga stat blocks med egenskaper, färdigheter, talanger, utrustning och förmågor. Kan även generera Foundry VTT-kompatibla JSON-filer.
+allowed-tools: [Read, Write, Glob, Grep, Bash]
 ---
 
 # Genesys Adversary Creator
 
 Denna skill skapar balanserade motståndare för Genesys-systemet, optimerad för Inquisition-settingen.
+
+Motståndare kan skapas i två format:
+1. **Markdown stat block** — för kampanjdokumentation och sessionsförberedelser
+2. **Foundry VTT JSON** — för direkt import till Foundry VTT (Genesys-systemet)
 
 ---
 
@@ -365,6 +369,304 @@ Inga.
 
 ---
 
+## JSON-format (Foundry VTT)
+
+När användaren begär en motståndare i JSON-format (eller för import till Foundry VTT), generera en JSON-fil som exakt följer schemat i referenstemplates. **Avvik ALDRIG från templatens schema** — lägg inte till fält som saknas i templaten och utelämna inte fält som finns.
+
+### Arbetsflöde
+
+1. **Läs in rätt template** från `.claude/skills/adversary-creator/references/`:
+   - `minion-template.json` för minions
+   - `rival-template.json` för rivals
+   - `nemesis-template.json` för nemesis
+2. **Kopiera hela templatens struktur** — alla fält, inklusive `prototypeToken`, `_stats`, `ownership`
+3. **Fyll i motståndarens värden** i `system`-blocket och `items`-arrayen
+4. **Generera unika ID:n** för alla `_id`-fält (16 tecken alfanumeriska)
+5. **Validera JSON** med `python3 -c "import json; json.load(open('filnamn'))"`
+6. **Spara filen** i `campaign/characters/npcs/` med namnkonventionen `npc-[namn]-[_id].json`
+
+### Kritiska schemaskillnader mellan typer
+
+| Fält | Minion | Rival | Nemesis |
+|------|--------|-------|---------|
+| `type` | `"minion"` | `"rival"` | `"nemesis"` |
+| `system.groupSize` | **Finns** (number) | Saknas | Saknas |
+| `system.wounds` | `{ value, threshold }` | `{ value, max }` | `{ value, max }` |
+| `system.strain` | **Saknas** | **Saknas** | `{ value, max }` |
+| `prototypeToken.actorLink` | `false` | `false` | `true` |
+| `prototypeToken.bar2.attribute` | `"members"` | `null` | `"strain"` |
+
+**VIKTIGT:** Minions använder `"threshold"` i wounds, medan Rival och Nemesis använder `"max"`. Blanda ALDRIG ihop dessa.
+
+### Fält att anpassa
+
+Följande fält ska sättas per motståndare (resten kopieras rakt från templaten):
+
+**Aktör-nivå:**
+
+| Fält | Beskrivning |
+|------|-------------|
+| `name` | Motståndarens namn |
+| `type` | `"minion"`, `"rival"`, eller `"nemesis"` |
+| `img` | Ikon-sökväg (default: `"icons/svg/mystery-man.svg"`) |
+| `system.characteristics` | Brawn, Agility, Intellect, Cunning, Willpower, Presence |
+| `system.soak` | Beräknat: Brawn + rustningsbonus |
+| `system.defense` | `{ melee, ranged }` — från utrustning/talanger |
+| `system.description` | HTML-beskrivning av förmågor och speciella regler |
+| `system.wounds` | Minion: `{ value: 0, threshold: X }`. Rival/Nemesis: `{ value: 0, max: X }` |
+| `system.strain` | **Bara nemesis:** `{ value: 0, max: X }` |
+| `system.groupSize` | **Bara minion:** Standardstorlek på gruppen |
+| `system.motivations` | `strength`, `flaw`, `desire`, `fear` — vardera med `name` och `description` |
+| `prototypeToken.name` | Samma som aktörens namn |
+| `_id` | Generera 16 tecken alfanumeriskt ID |
+
+### Item-typer i `items`-arrayen
+
+Alla items läggs i `items`-arrayen. Det finns tre typer:
+
+#### Skill-item
+
+Lägg **bara till skills som har rank > 0**. Inkludera INTE skills med rank 0.
+
+```json
+{
+  "name": "Coercion",
+  "type": "skill",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": "",
+    "source": "",
+    "characteristic": "willpower",
+    "category": "social",
+    "initiative": false,
+    "career": false,
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "genesys",
+    "systemVersion": "0.2.18",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_id": "XXXXXXXXXXXXXXXX",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}
+```
+
+Giltiga värden för `characteristic`: `"brawn"`, `"agility"`, `"intellect"`, `"cunning"`, `"willpower"`, `"presence"`
+
+Giltiga värden för `category`: `"general"`, `"combat"`, `"social"`, `"knowledge"`, `"magic"`
+
+Vanliga skills och deras characteristic/category:
+
+| Skill | Characteristic | Category |
+|-------|---------------|----------|
+| Athletics | brawn | general |
+| Brawl | brawn | combat |
+| Coercion | willpower | social |
+| Cool | presence | general |
+| Coordination | agility | general |
+| Deception | cunning | social |
+| Discipline | willpower | general |
+| Melee | brawn | combat |
+| Melee (Light) | brawn | combat |
+| Melee (Heavy) | brawn | combat |
+| Perception | cunning | general |
+| Ranged | agility | combat |
+| Ranged (Light) | agility | combat |
+| Ranged (Heavy) | agility | combat |
+| Resilience | brawn | general |
+| Skulduggery | cunning | general |
+| Stealth | agility | general |
+| Streetwise | cunning | general |
+| Survival | cunning | general |
+| Vigilance | willpower | general |
+| Charm | presence | social |
+| Leadership | presence | social |
+| Negotiation | presence | social |
+| Medicine | intellect | general |
+| Knowledge | intellect | knowledge |
+| Häxkonst | cunning | magic |
+| Arcana | intellect | magic |
+| Divine | willpower | magic |
+| Primal | cunning | magic |
+
+#### Weapon-item
+
+```json
+{
+  "name": "Dagger",
+  "type": "weapon",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": "",
+    "source": "",
+    "rarity": 1,
+    "encumbrance": 1,
+    "price": 60,
+    "damage": "undamaged",
+    "container": "",
+    "quantity": 1,
+    "state": "carried",
+    "baseDamage": 2,
+    "critical": 3,
+    "range": "engaged",
+    "skills": [
+      "Melee (Light)"
+    ],
+    "qualities": [
+      {
+        "name": "accurate",
+        "rating": 1,
+        "description": "",
+        "isRated": true
+      }
+    ],
+    "damageCharacteristic": "brawn"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "genesys",
+    "systemVersion": "0.2.18",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_id": "XXXXXXXXXXXXXXXX",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}
+```
+
+Giltiga värden för `range`: `"engaged"`, `"short"`, `"medium"`, `"long"`, `"extreme"`
+
+Giltiga värden för `damageCharacteristic`: `"brawn"`, `"agility"`, `"intellect"`, `"cunning"`, `"willpower"`, `"presence"`, `"-"` (för vapen med fast skada)
+
+Giltiga vapenegenskaper (`qualities`): `"accurate"`, `"blast"`, `"burn"`, `"cumbersome"`, `"defensive"`, `"disorient"`, `"ensnare"`, `"knockdown"`, `"pierce"`, `"prepare"`, `"stun"`, `"sunder"`, `"unwieldy"`, `"vicious"`
+
+Vapenprofiler:
+
+| Vapen | baseDamage | critical | range | skills | damageCharacteristic | qualities |
+|-------|-----------|----------|-------|--------|---------------------|-----------|
+| Dagger | 2 | 3 | engaged | Melee (Light) | brawn | accurate 1 |
+| Sword | 2 | 2 | engaged | Melee | brawn | defensive 1 |
+| Axe | 3 | 3 | engaged | Melee (Light) | - | vicious 1 |
+| Mace | 3 | 4 | engaged | Melee (Light) | brawn | — |
+| Greatsword | 4 | 2 | engaged | Melee (Heavy) | - | defensive 1, pierce 1, unwieldy 3 |
+| Spear | 3 | 3 | engaged | Melee | brawn | defensive 1 |
+| Bow | 7 | 3 | medium | Ranged | - | unwieldy 2 |
+| Crossbow | 7 | 2 | medium | Ranged | - | pierce 2, prepare 1 |
+
+#### Armor-item
+
+```json
+{
+  "name": "Leather Armor",
+  "type": "armor",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": "",
+    "source": "",
+    "rarity": 3,
+    "encumbrance": 2,
+    "price": 50,
+    "damage": "undamaged",
+    "container": "",
+    "quantity": 1,
+    "state": "carried",
+    "defense": 0,
+    "soak": 1,
+    "qualities": []
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "genesys",
+    "systemVersion": "0.2.18",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_id": "XXXXXXXXXXXXXXXX",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}
+```
+
+Rustningsprofiler:
+
+| Rustning | soak | defense | rarity | encumbrance | price |
+|----------|------|---------|--------|-------------|-------|
+| Leather Armor | 1 | 0 | 3 | 2 | 50 |
+| Chain Mail | 2 | 0 | 4 | 4 | 500 |
+| Plate Armor | 3 | 1 | 5 | 5 | 2500 |
+| Shield* | 0 | +1 melee | 2 | 2 | 50 |
+
+*Sköld läggs till som armor-item med `soak: 0` och `defense: 1`.
+
+### ID-generering
+
+Alla `_id`-fält ska vara **exakt 16 tecken** alfanumeriska strängar (a-z, A-Z, 0-9). Generera unika ID:n för:
+- Aktörens rot-`_id`
+- Varje item i `items`-arrayen
+
+### Filnamn och placering
+
+Spara genererade NPC JSON-filer som:
+```
+campaign/characters/npcs/npc-[namn-lowercase]-[aktörens-_id].json
+```
+
+Exempel: `campaign/characters/npcs/npc-torkel-halvhand-Abc123DefGhi456.json`
+
+### Verifikation
+
+**OBLIGATORISKT** efter att JSON-filen skapats:
+
+1. Validera JSON-syntax:
+   ```bash
+   python3 -c "import json; json.load(open('filnamn.json')); print('JSON valid!')"
+   ```
+
+2. Kontrollera att:
+   - `type` matchar rätt template (minion/rival/nemesis)
+   - Minion har `groupSize` och `wounds.threshold`, saknar `strain`
+   - Rival har `wounds.max`, saknar `strain` och `groupSize`
+   - Nemesis har `wounds.max` och `strain`, saknar `groupSize`
+   - `prototypeToken.bar2.attribute` matchar typen
+   - `prototypeToken.actorLink` matchar typen
+   - Alla `_id` är exakt 16 tecken
+   - `system.soak` = Brawn + rustningsbonus (manuellt beräknad)
+   - Bara skills med rank > 0 finns som items
+
+---
+
 ## Balanseringsguide
 
 ### Hotbedömning
@@ -516,10 +818,16 @@ Inga.
 
 ## Referensfiler
 
-För mer detaljerade regler, se:
+### JSON-templates (Foundry VTT)
+- `.claude/skills/adversary-creator/references/minion-template.json` — Minion-schema
+- `.claude/skills/adversary-creator/references/rival-template.json` — Rival-schema
+- `.claude/skills/adversary-creator/references/nemesis-template.json` — Nemesis-schema
+
+### Regler
 - `.claude/skills/genesys-rpg/reference/rules/08_ch08_the_game_master.md`
 - `.claude/skills/upplandet-campaign/references/invisitionen/chapter_6_adversaries.md`
 
-För existerande NSC:er att referera:
+### Existerande NSC:er
+- `campaign/characters/npcs/*.json` — Foundry VTT JSON-filer
+- `campaign/characters/npcs/*.md` — Markdown-beskrivningar
 - `campaign/adventures/01-dying-light/npcs.md`
-- `campaign/characters/npcs/*.md`

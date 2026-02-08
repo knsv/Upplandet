@@ -1,0 +1,249 @@
+{
+  "folder": "z6Dje3SR1hLQYWH8",
+  "name": "Myrgastar",
+  "type": "minion",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "characteristics": {
+      "brawn": 2,
+      "agility": 1,
+      "intellect": 1,
+      "cunning": 2,
+      "willpower": 1,
+      "presence": 1
+    },
+    "soak": 2,
+    "defense": {
+      "melee": 0,
+      "ranged": 0
+    },
+    "description": "<p><strong>Myrgastar</strong> — Ett dött par som stigit ur en myr i skogen. De gör inga ljud — dyn har fyllt deras strupar. Dy rinner ur dem istället för blod. De ger aldrig upp och kan inte fly. Rötterna av deras existens är sorg, inte ondska.</p><p><strong>Undead:</strong> Behöver inte andas, äta eller dricka. Immun mot gift.</p><p><strong>Tyst jakt:</strong> Myrgastarna gör inga ljud. De kan inte provoceras eller skrämmas. De slutar aldrig jaga förrän de förstörs.</p>",
+    "source": "Upplandet — Session 3: Offerlunden",
+    "superCharacteristics": [],
+    "groupSize": 2,
+    "wounds": {
+      "value": 0,
+      "threshold": 4
+    },
+    "motivations": {
+      "strength": {
+        "description": "",
+        "name": "Ihärdighet"
+      },
+      "flaw": {
+        "description": "",
+        "name": "Kan inte kommunicera"
+      },
+      "desire": {
+        "description": "",
+        "name": "Dra ner de levande i dyn"
+      },
+      "fear": {
+        "description": "",
+        "name": "Eld"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Myrgastar",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "wounds"
+    },
+    "bar2": {
+      "attribute": "members"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Brawl",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "brawn",
+        "category": "combat",
+        "initiative": false,
+        "career": false,
+        "rank": 1
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "bRwL5kM3nTy8pQ2x",
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Kalla händer",
+      "type": "weapon",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<p>Bleka, kalla händer som greppar och drar. Dy rinner mellan fingrarna.</p>",
+        "source": "Upplandet",
+        "rarity": 0,
+        "encumbrance": 0,
+        "price": 0,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 1,
+        "critical": 5,
+        "range": "engaged",
+        "skills": [
+          "Brawl"
+        ],
+        "qualities": [
+          {
+            "name": "ensnare",
+            "rating": 1,
+            "description": "",
+            "isRated": true
+          }
+        ],
+        "damageCharacteristic": "brawn"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "kLdH4nDeR9mYr1Wx",
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "genesys-test",
+      "uuid": "Actor.Myr8gAsTpL2kW9Fn",
+      "coreVersion": "13.351",
+      "systemId": "genesys",
+      "systemVersion": "0.2.18"
+    },
+    "coreVersion": "13.351",
+    "systemId": "genesys",
+    "systemVersion": "0.2.18",
+    "createdTime": 1766312124711,
+    "modifiedTime": 1770481613557,
+    "lastModifiedBy": "0I4XRwDpK0q8REmU"
+  },
+  "_id": "Myr8gAsTpL2kW9Fn",
+  "ownership": {
+    "default": 0
+  }
+}

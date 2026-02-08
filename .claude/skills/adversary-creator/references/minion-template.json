@@ -1,0 +1,779 @@
+{
+  "folder": "z6Dje3SR1hLQYWH8",
+  "name": "Name",
+  "type": "minion",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "characteristics": {
+      "brawn": 3,
+      "agility": 3,
+      "intellect": 3,
+      "cunning": 3,
+      "willpower": 3,
+      "presence": 3
+    },
+    "soak": 0,
+    "defense": {
+      "melee": 0,
+      "ranged": 0
+    },
+    "description": "<p>Description this is</p>",
+    "source": "",
+    "superCharacteristics": [],
+    "groupSize": 4,
+    "wounds": {
+      "value": 0,
+      "threshold": 0
+    },
+    "motivations": {
+      "strength": {
+        "description": "",
+        "name": "Good ad running"
+      },
+      "flaw": {
+        "description": "",
+        "name": "afreaiid of water"
+      },
+      "desire": {
+        "description": "",
+        "name": "Cant resist strawberries"
+      },
+      "fear": {
+        "description": "",
+        "name": ""
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "A minion",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "wounds"
+    },
+    "bar2": {
+      "attribute": "members"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Leather Armor",
+      "type": "armor",
+      "img": "icons/equipment/chest/breastplate-layered-leather-brown-silver.webp",
+      "system": {
+        "description": "<p>Armor made from boiled leather is stiff and tough enough to offer modest protection, and relatively inexpensive as well. Leather armor ranges from the rancid and reeking leathers worn by bandits, to the cured and dust-stained hide favored by nomadic Orcs, to the supple and finely decorated armor of the Latari Elves.</p>",
+        "source": "RoT p.96",
+        "rarity": 3,
+        "encumbrance": 2,
+        "price": 50,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "defense": 0,
+        "soak": 1,
+        "qualities": []
+      },
+      "effects": [],
+      "folder": "oT9WYOjKy0zByj87",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Realms of Terrinoth",
+          "page": 96
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.armor.Item.db17a5e29e0c8b65",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1770481397910,
+        "modifiedTime": 1770481397910,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "QmFcYJ5xMEVLLOYW",
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Crossbow",
+      "type": "weapon",
+      "img": "icons/weapons/crossbows/crossbow-blue.webp",
+      "system": {
+        "description": "<p>Crossbows pack a more powerful punch than bows, though they take longer to load and ready for firing. Just as importantly, they only require the wielder to point the crossbow at the target and pull the trigger. The wealthy Free City of Riverwatch has long been able to afford keeping a company of city guards armed with crossbows, and those who hunt cultists and other dark creatures in the sewers of Nerekhall find them easier to use in tight spaces than a bow.</p>",
+        "source": "RoT p.94",
+        "rarity": 4,
+        "encumbrance": 3,
+        "price": 600,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 7,
+        "critical": 2,
+        "range": "medium",
+        "skills": [
+          "Ranged"
+        ],
+        "qualities": [
+          {
+            "name": "pierce",
+            "rating": 2,
+            "description": "",
+            "isRated": true
+          },
+          {
+            "name": "prepare",
+            "rating": 1,
+            "description": "",
+            "isRated": true
+          }
+        ],
+        "damageCharacteristic": "-"
+      },
+      "effects": [],
+      "folder": "n61Jcd9EsYWdHZIK",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Realms of Terrinoth",
+          "page": 94
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.weapons.Item.c831a7c8eeeb99a2",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1770481405457,
+        "modifiedTime": 1770481405457,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "aXSvdxVgy1uCtcxO",
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Bow",
+      "type": "weapon",
+      "img": "icons/weapons/bows/bow-ornamental-carved-brown.webp",
+      "system": {
+        "description": "<p>Bows can be found throughout Mennara and are used for hunting and warfare alike. The desert riders of Al-Kalim use their bows from horseback, and nearly every forester cabin in the woodlands of Terrinoth has a bow hanging above the door. The pirates of Torue Albes pepper the ships they are about to board with bowfire, and up along the cold, haunted border between the baronies and the Mistlands, an attack out of the fog is often preceded by a silent, deadly hail of arrows.</p>",
+        "source": "RoT p.95",
+        "rarity": 2,
+        "encumbrance": 2,
+        "price": 275,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 7,
+        "critical": 3,
+        "range": "medium",
+        "skills": [
+          "Ranged"
+        ],
+        "qualities": [
+          {
+            "name": "unwieldy",
+            "rating": 2,
+            "description": "",
+            "isRated": true
+          }
+        ],
+        "damageCharacteristic": "-"
+      },
+      "effects": [],
+      "folder": "n61Jcd9EsYWdHZIK",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Realms of Terrinoth",
+          "page": 95
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.weapons.Item.b8cb4622680a4615",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1770481407453,
+        "modifiedTime": 1770481407453,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "6CIwKk0FeIZ9mTEc",
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Axe",
+      "type": "weapon",
+      "img": "icons/creatures/unholy/demon-fanged-horned-yellow.webp",
+      "system": {
+        "description": "<p>Though originally a simple woodcutter's tool, in skilled (or desperate) hands, an axe can be a vicious weapon. The curved and heavy blade of the axe-head takes brutal bites out of flesh as well as timber, and many cultures have crafted axes designed specifically for war. The Orcs of the Broken Plains prefer stone axes that land pulverizing blows, for example, while the Dwarves of the Dunwarr Mountains forge double-bladed axes with long beards and a keen bite.</p>",
+        "source": "RoT p.92",
+        "rarity": 1,
+        "encumbrance": 2,
+        "price": 150,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 3,
+        "critical": 3,
+        "range": "engaged",
+        "skills": [
+          "Melee (Light)"
+        ],
+        "qualities": [
+          {
+            "name": "vicious",
+            "rating": 1,
+            "description": "",
+            "isRated": true
+          }
+        ],
+        "damageCharacteristic": "-"
+      },
+      "effects": [],
+      "folder": "s05eo3Rv0dIYEfGU",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Realms of Terrinoth",
+          "page": 92
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.weapons.Item.88ee9b49f666771e",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1770481412836,
+        "modifiedTime": 1770481412836,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "dIV7Qe6ZD4Jz4xsg",
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Cestus",
+      "type": "weapon",
+      "img": "icons/magic/fire/dagger-rune-enchant-flame-green.webp",
+      "system": {
+        "description": "<p>Some say that cestuses came from the fighting pits of the Torue Albes, where brawlers still bludgeon each other senseless to the delight of drunken spectators. Though these weapons are no match for a proper sword, some adventurers prefer these heavy leather gloves with iron-studded knuckles. A wellthrown punch can still break bones and lay out an opponent, and wearing a pair of cestus draws a lot less attention than carrying a naked blade.</p>",
+        "source": "RoT p.92",
+        "rarity": 1,
+        "encumbrance": 2,
+        "price": 150,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 1,
+        "critical": 4,
+        "range": "engaged",
+        "skills": [
+          "Brawl"
+        ],
+        "qualities": [
+          {
+            "name": "disorient",
+            "rating": 3,
+            "description": "",
+            "isRated": true
+          }
+        ],
+        "damageCharacteristic": "-"
+      },
+      "effects": [],
+      "folder": "s05eo3Rv0dIYEfGU",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Realms of Terrinoth",
+          "page": 92
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.weapons.Item.e268cc52e40b5262",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1770481414179,
+        "modifiedTime": 1770481414179,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "xWeRGH4dPOIgCdU6",
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Flail",
+      "type": "weapon",
+      "img": "icons/weapons/maces/flail-ball-grey.webp",
+      "system": {
+        "description": "<p>Another weapon that originated as a peasant's tool, a flail has a long, two-handed haft linked to a heavy striking head with a length of leather or chain. Although it hits hard, this implement makes a better grain thresher than a weapon. Still, farmers across Terrinoth may take up a flail when they have nothing better to wield.</p>",
+        "source": "RoT p.92",
+        "rarity": 3,
+        "encumbrance": 4,
+        "price": 150,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 4,
+        "critical": 3,
+        "range": "engaged",
+        "skills": [
+          "Melee (Heavy)"
+        ],
+        "qualities": [
+          {
+            "name": "cumbersome",
+            "rating": 3,
+            "description": "",
+            "isRated": true
+          },
+          {
+            "name": "pierce",
+            "rating": 2,
+            "description": "",
+            "isRated": true
+          },
+          {
+            "name": "vicious",
+            "rating": 1,
+            "description": "",
+            "isRated": true
+          }
+        ],
+        "damageCharacteristic": "-"
+      },
+      "effects": [],
+      "folder": "s05eo3Rv0dIYEfGU",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Realms of Terrinoth",
+          "page": 92
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.weapons.Item.eef53d22866dfab3",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1770481417745,
+        "modifiedTime": 1770481417745,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "01FAEPiEfNnDbtpa",
+      "sort": 125000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Dagger",
+      "type": "weapon",
+      "img": "icons/magic/fire/projectile-embers-orange.webp",
+      "system": {
+        "description": "<p>Nearly everyone in Terrinoth carries a knife at their belt; it is a useful tool for any number of mundane tasks. Daggers, on the other hand, are designed purely for killing. Their thin, razor-sharp blades tend to be perfectly balanced so they can be thrown with the flick of a wrist just as easily as they can slit an unwary throat.</p>\n<p>Your character can stab or slash with a dagger using the profile in {@table 2-5: Melee Weapons} on page 94, or they can throw one using the following profile:</p>\n<p>[object Object]</p>",
+        "source": "RoT p.92",
+        "rarity": 1,
+        "encumbrance": 1,
+        "price": 60,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 2,
+        "critical": 3,
+        "range": "engaged",
+        "skills": [
+          "Melee (Light)"
+        ],
+        "qualities": [
+          {
+            "name": "accurate",
+            "rating": 1,
+            "description": "",
+            "isRated": true
+          }
+        ],
+        "damageCharacteristic": "brawn"
+      },
+      "effects": [],
+      "folder": "s05eo3Rv0dIYEfGU",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Realms of Terrinoth",
+          "page": 92
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.weapons.Item.9897814d1f5f9991",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1770481420160,
+        "modifiedTime": 1770481420160,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "0gysXUgcA0ELYRdL",
+      "sort": 150000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Long Axe",
+      "type": "weapon",
+      "img": "icons/weapons/axes/axe-broad-worn-blue.webp",
+      "system": {
+        "description": "<p>The long axe is simply a longer two-handed version of the regular axe, with a longer haft and larger head. It takes a strong warrior to wield one in battle, but a single blow from a greataxe can shatter shields and rip through leather armor. Some Dwarves favor these weapons, and claim the heirloom axes of their ancestors were crafted to cleave through dragon hide.</p>",
+        "source": "Inq",
+        "rarity": 4,
+        "encumbrance": 4,
+        "price": 225,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 4,
+        "critical": 3,
+        "range": "engaged",
+        "skills": [
+          "Melee (Heavy)"
+        ],
+        "qualities": [
+          {
+            "name": "cumbersome",
+            "description": "",
+            "isRated": true,
+            "rating": 2
+          },
+          {
+            "name": "pierce",
+            "description": "",
+            "isRated": true,
+            "rating": 1
+          },
+          {
+            "name": "vicious",
+            "description": "",
+            "isRated": true,
+            "rating": 1
+          }
+        ],
+        "damageCharacteristic": "-"
+      },
+      "effects": [],
+      "folder": "s05eo3Rv0dIYEfGU",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Realms of Terrinoth",
+          "page": 92
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.weapons.Item.0a02fd2c5aa3e49b",
+        "duplicateSource": "Item.sX8xGgyDMYusyaeO",
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1770481425690,
+        "modifiedTime": 1770481425690,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "sort": 112500,
+      "_id": "YmOjpa695btokK46",
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "folder": "s05eo3Rv0dIYEfGU",
+      "name": "Lance",
+      "type": "weapon",
+      "_id": "V6x9AZRFqb7YJ3x9",
+      "img": "icons/weapons/polearms/pike-flared-red.webp",
+      "system": {
+        "description": "<p>The iconic weapon of the knights of the nine kingdom,</p><p class=\"p1\">these weapons are too heavy to be used while standing</p><p class=\"p1\">on the ground. The knights use these weapons when</p><p class=\"p1\">riding on horseback and making use of the speed of</p><p class=\"p1\">their mount to land a devastating blow. Once the ini-</p><p class=\"p1\">tial charge has been made, knights better sheathe their</p><p class=\"p1\">lance and draw their smaller weapons to continue to</p><p class=\"p1\">fight.</p><p class=\"p1\">Beside their lethal usage, lances are also used in joust,</p><p class=\"p1\">where two knights engage in a mock fight where the</p><p class=\"p1\">goal is to knock the other off their horse. While joist</p><p class=\"p1\">are normally non lethal fights, death is not inevitable as</p><p class=\"p1\">these weapons, even with a blunt head, remain danger-</p><p class=\"p1\">ously effective.<br><br>Special effect: Knockdown</p><p class=\"p1\">A lance can only be used while mounted and can</p><p class=\"p1\">only be used to attack immediately after performing a</p><p class=\"p1\">maneuver to engage the target.<br><br></p>",
+        "source": "Inq",
+        "rarity": 3,
+        "encumbrance": 5,
+        "price": 250,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 6,
+        "critical": 3,
+        "range": "engaged",
+        "skills": [],
+        "qualities": [],
+        "damageCharacteristic": "-"
+      },
+      "effects": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Item.Xlk4CiNh986WMmFO",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1770481427427,
+        "modifiedTime": 1770481427427,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Greatsword",
+      "type": "weapon",
+      "img": "icons/weapons/swords/greatsword-blue.webp",
+      "system": {
+        "description": "<p>Greatswords are some of the most difficult weapons to wield effectively, and thus one usually sees them in the hands of knights or other highly trained warriors. These lengthy blades are precisely balanced and crafted to be both strong and flexible. Proper greatsword fighting emphasizes precise control of the pommel to send the tip of the blade into an unarmored chink in an opponent's armor. Without that hand-eye coordination, the wielder is left making clumsy swings that are easily blocked or dodged.</p>\n<p>Nobles and warriors of the baronies prefer greatswords with straight blades and crossguard hilts. Most greatswords in Terrinoth follow this design, but the Latari Elves often craft greatswords with long hilts and even longer curved blades. These blades are perfect for wide, sweeping cuts and slashes.</p>",
+        "source": "RoT p.92",
+        "rarity": 4,
+        "encumbrance": 3,
+        "price": 300,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 4,
+        "critical": 2,
+        "range": "engaged",
+        "skills": [
+          "Melee (Heavy)"
+        ],
+        "qualities": [
+          {
+            "name": "defensive",
+            "rating": 1,
+            "description": "",
+            "isRated": true
+          },
+          {
+            "name": "pierce",
+            "rating": 1,
+            "description": "",
+            "isRated": true
+          },
+          {
+            "name": "unwieldy",
+            "rating": 3,
+            "description": "",
+            "isRated": true
+          }
+        ],
+        "damageCharacteristic": "-"
+      },
+      "effects": [],
+      "folder": "s05eo3Rv0dIYEfGU",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Realms of Terrinoth",
+          "page": 92
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.weapons.Item.ad282c586fcfcbec",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1770481429172,
+        "modifiedTime": 1770481429172,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "r5kanzyWQJsZ5vWs",
+      "sort": 106250,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Mace",
+      "type": "weapon",
+      "img": "icons/weapons/maces/mace-cube-spiked-steel.webp",
+      "system": {
+        "description": "<p>One step up from a simple club, a mace is a wooden haft topped off with a heavy studded or spiked head. There's nothing subtle or elegant about this weapon. However, it is simple and cheap to make, so nearly every culture in Mennara has its own form of mace.</p>",
+        "source": "RoT p.93",
+        "rarity": 1,
+        "encumbrance": 2,
+        "price": 75,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 3,
+        "critical": 4,
+        "range": "engaged",
+        "skills": [
+          "Melee (Light)"
+        ],
+        "qualities": [],
+        "damageCharacteristic": "brawn"
+      },
+      "effects": [],
+      "folder": "s05eo3Rv0dIYEfGU",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Realms of Terrinoth",
+          "page": 93
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.weapons.Item.3fdad6aded4fa06a",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1770481432588,
+        "modifiedTime": 1770481432588,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "eJ8hPLOfWu51KVBl",
+      "sort": 100782,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "genesys-test",
+      "uuid": "Actor.h66o6WlnZFeTKal8",
+      "coreVersion": "13.351",
+      "systemId": "genesys",
+      "systemVersion": "0.2.18"
+    },
+    "coreVersion": "13.351",
+    "systemId": "genesys",
+    "systemVersion": "0.2.18",
+    "createdTime": 1766312124711,
+    "modifiedTime": 1770481613557,
+    "lastModifiedBy": "0I4XRwDpK0q8REmU"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

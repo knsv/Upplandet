@@ -1,0 +1,370 @@
+{
+  "folder": "5W3s74Pq9Dq7UeZG",
+  "name": "Emma",
+  "type": "nemesis",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "characteristics": {
+      "brawn": 1,
+      "agility": 2,
+      "intellect": 2,
+      "cunning": 3,
+      "willpower": 3,
+      "presence": 2
+    },
+    "soak": 1,
+    "defense": {
+      "melee": 0,
+      "ranged": 0
+    },
+    "description": "<p>Silver Anathema: This adversary is vulnerable to alchemical silver (see “Alchemical Silver” on page 74 of the Inquisition document).</p><p>Witch Blood: Once per encounter, the GM may spend a Story Point as an incidental. If they do so, Emma may voluntarily suffer up to 2 Wounds to heal twice that number in Strain.</p>",
+    "source": "",
+    "superCharacteristics": [],
+    "wounds": {
+      "value": 0,
+      "max": 10
+    },
+    "strain": {
+      "value": 7,
+      "max": 14
+    },
+    "motivations": {
+      "strength": {
+        "description": "",
+        "name": ""
+      },
+      "flaw": {
+        "description": "",
+        "name": ""
+      },
+      "desire": {
+        "description": "",
+        "name": ""
+      },
+      "fear": {
+        "description": "",
+        "name": ""
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Emma",
+    "displayName": 0,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "wounds"
+    },
+    "bar2": {
+      "attribute": "strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Coercion",
+      "type": "skill",
+      "img": "icons/magic/control/buff-flight-wings-runes-blue-white.webp",
+      "system": {
+        "description": "<p>Some people believe that the only way to maintain respect is to be feared. Others have learned that the best way to get what they want is through screaming and the threat of violence. When your character attempts to instill obedience in a target through the use of threats or acts of physical intimidation, they use the Coercion skill. Characters with multiple ranks in Coercion are often intimidating, scary, or even evil individuals. However, even goodhearted people may use Coercion to intimidate opponents so they can win a fight without bloodshed.</p>",
+        "source": "CRB p.55",
+        "characteristic": "willpower",
+        "category": "social",
+        "initiative": false,
+        "career": false,
+        "rank": 1
+      },
+      "effects": [],
+      "folder": "VjrF4AoqOmQ1Fkgb",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Genesys Core Rulebook",
+          "page": 55
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.skills.Item.8616b12774fb47e6",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1766841715706,
+        "modifiedTime": 1766841715725,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "JQ2iwlDtvCleMmkL",
+      "sort": 325000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Deception",
+      "type": "skill",
+      "img": "icons/magic/symbols/symbol-lightning-bolt.webp",
+      "system": {
+        "description": "<p>When your character needs to lie to someone, they use Deception. In fact, the Deception skill covers most attempts to fool or deceive someone, which makes the skill one of the more straightforward skills to use. One thing you should keep in mind, though, is that although lying is one of the most common ways to deceive someone, it's not the only way. Your character may attempt to trick someone by only telling them certain facts and omitting others, or by using a misleading phrase. But even if you argue that your character technically told the truth, their actions still fall into the category of Deception.</p>",
+        "source": "CRB p.56",
+        "characteristic": "cunning",
+        "category": "social",
+        "initiative": false,
+        "career": false,
+        "rank": 1
+      },
+      "effects": [],
+      "folder": "VjrF4AoqOmQ1Fkgb",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Genesys Core Rulebook",
+          "page": 56
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.skills.Item.8cd54509a6b3a0c3",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1766841718389,
+        "modifiedTime": 1766841718408,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "172RDKCFWOVpa0ux",
+      "sort": 450000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Vigilance",
+      "type": "skill",
+      "img": "icons/magic/nature/plant-sprout-hand-blue.webp",
+      "system": {
+        "description": "<p>Vigilance represents the ability to be constantly aware of your surroundings, often without consciously making the effort. Characters with ranks in Vigilance are more likely to spot threats in their environment, notice important clues out of the corner of their eye, and catch lies as they're being told.</p>\n<p>You probably noticed from the description that Vigilance, more than most other skills, is a bit of a passive skill. In fact, Vigilance is supposed to be used when your character doesn't expect a threat, isn't looking for a clue, or is otherwise unaware of something important. This is why we use it to {@rule determine Initiative} in combat when a character is surprised, to see how much that character was paying attention. It also means that when your GM asks you to make a Vigilance check, you may suspect that something is up. Your character, however, shouldn't be suspicious (unless they pass the check!) Vigilance is also one of skills that you use to oppose certain social skill checks (primarily {@skill Deception}) when those checks target your character.</p>",
+        "source": "CRB p.65",
+        "characteristic": "willpower",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 1
+      },
+      "effects": [],
+      "folder": "VjrF4AoqOmQ1Fkgb",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Genesys Core Rulebook",
+          "page": 65
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.skills.Item.e069de3de8662f92",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1766841727892,
+        "modifiedTime": 1766841727921,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "GXcbhXTTNoIZ1wTo",
+      "sort": 120607,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "folder": "VjrF4AoqOmQ1Fkgb",
+      "name": "Häxkonst",
+      "type": "skill",
+      "_id": "HSgnJRKNATh0UIZQ",
+      "img": "resources/icons/magic/nature/dreamcatcher-green.webp",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "cunning",
+        "category": "magic",
+        "initiative": false,
+        "career": false,
+        "rank": 1
+      },
+      "effects": [],
+      "sort": 500000,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1766841738342,
+        "modifiedTime": 1766841738360,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Dagger",
+      "type": "weapon",
+      "img": "icons/magic/fire/projectile-embers-orange.webp",
+      "system": {
+        "description": "<p>Nearly everyone in Terrinoth carries a knife at their belt; it is a useful tool for any number of mundane tasks. Daggers, on the other hand, are designed purely for killing. Their thin, razor-sharp blades tend to be perfectly balanced so they can be thrown with the flick of a wrist just as easily as they can slit an unwary throat.</p>\n<p>Your character can stab or slash with a dagger using the profile in {@table 2-5: Melee Weapons} on page 94, or they can throw one using the following profile:</p>\n<p>[object Object]</p>",
+        "source": "RoT p.92",
+        "rarity": 1,
+        "encumbrance": 1,
+        "price": 60,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 2,
+        "critical": 3,
+        "range": "engaged",
+        "skills": [
+          "Melee (Light)"
+        ],
+        "qualities": [
+          {
+            "name": "accurate",
+            "rating": 1,
+            "description": "",
+            "isRated": true
+          }
+        ],
+        "damageCharacteristic": "brawn"
+      },
+      "effects": [],
+      "folder": "s05eo3Rv0dIYEfGU",
+      "flags": {
+        "genesys-compendiums": {
+          "sourceBook": "Realms of Terrinoth",
+          "page": 92
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.genesys-compendiums.weapons.Item.9897814d1f5f9991",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": 1766841813915,
+        "modifiedTime": 1766841813915,
+        "lastModifiedBy": "0I4XRwDpK0q8REmU"
+      },
+      "_id": "PM01Scd3UBCP8R0t",
+      "sort": 150000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "genesys-test",
+      "uuid": "Actor.GmqpIzXdKKzbF8Yi",
+      "coreVersion": "13.351",
+      "systemId": "genesys",
+      "systemVersion": "0.2.18"
+    },
+    "coreVersion": "13.351",
+    "systemId": "genesys",
+    "systemVersion": "0.2.18",
+    "createdTime": 1766841620833,
+    "modifiedTime": 1768152964044,
+    "lastModifiedBy": "0I4XRwDpK0q8REmU"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

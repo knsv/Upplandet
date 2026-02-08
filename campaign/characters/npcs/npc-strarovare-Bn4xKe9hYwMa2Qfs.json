@@ -1,0 +1,383 @@
+{
+  "folder": "5W3s74Pq9Dq7UeZG",
+  "name": "Stråtrövare",
+  "type": "minion",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "characteristics": {
+      "brawn": 3,
+      "agility": 2,
+      "intellect": 1,
+      "cunning": 2,
+      "willpower": 2,
+      "presence": 1
+    },
+    "soak": 3,
+    "defense": {
+      "melee": 0,
+      "ranged": 0
+    },
+    "description": "<p><b>Torkels rövarband.</b> Desperata skogsmän som lever på vad de kan röva. Beväpnade med korta bågar och yxor.</p><p><b>Maja Svart:</b> Senig kvinna, 30, tyst, bäst skytt i gruppen. Torkel litar mest på henne.</p><p><b>Unge Bror:</b> 17 år, nervös, vill egentligen hem. Visar medlidande med Emma.</p><p><b>Halte Gunnar:</b> Äldre, halt, kokar maten, cynisk humor. Har varit med längst.</p><p><b>Erik Tre-Öron:</b> Stor, stark, inte snabb i tanken, lojal. Gör vad Torkel säger.</p><p><b>Nils:</b> Ny i gänget, tystlåten, ser sig om konstant. <i>Han försvinner först.</i></p>",
+    "source": "",
+    "superCharacteristics": [],
+    "groupSize": 5,
+    "wounds": {
+      "value": 0,
+      "threshold": 5
+    },
+    "motivations": {
+      "strength": {
+        "description": "",
+        "name": "Överlevnadsinstinkt"
+      },
+      "flaw": {
+        "description": "",
+        "name": "Desperata"
+      },
+      "desire": {
+        "description": "",
+        "name": "Överleva vintern"
+      },
+      "fear": {
+        "description": "",
+        "name": "Skogen"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Stråtrövare",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "wounds"
+    },
+    "bar2": {
+      "attribute": "members"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Melee",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "brawn",
+        "category": "combat",
+        "initiative": false,
+        "career": false,
+        "rank": 1
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Tn3yLf7iZxNb5Rgt",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Ranged",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "agility",
+        "category": "combat",
+        "initiative": false,
+        "career": false,
+        "rank": 1
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Uo4zMg8jAvOc6Shu",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Survival",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "cunning",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 1
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Vp5aNh9kBwPd7Tiv",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Stealth",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "agility",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 1
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Wq6bOi0lCxQe8Ujw",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Short Bow",
+      "type": "weapon",
+      "img": "icons/weapons/bows/bow-ornamental-carved-brown.webp",
+      "system": {
+        "description": "<p>Kort jaktbåge, vanlig bland skogsmän och rövare.</p>",
+        "source": "",
+        "rarity": 2,
+        "encumbrance": 1,
+        "price": 100,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 5,
+        "critical": 5,
+        "range": "medium",
+        "skills": [
+          "Ranged"
+        ],
+        "qualities": [],
+        "damageCharacteristic": "-"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Xr7cPjAlDyRf9Vkx",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Hatchet",
+      "type": "weapon",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<p>Enkel yxa eller stor kniv. Rövarvapen.</p>",
+        "source": "",
+        "rarity": 1,
+        "encumbrance": 1,
+        "price": 25,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 2,
+        "critical": 4,
+        "range": "engaged",
+        "skills": [
+          "Melee"
+        ],
+        "qualities": [],
+        "damageCharacteristic": "brawn"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Ys8dQkBmEzSgAWly",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "genesys-test",
+      "uuid": "Actor.Bn4xKe9hYwMa2Qfs",
+      "coreVersion": "13.351",
+      "systemId": "genesys",
+      "systemVersion": "0.2.18"
+    },
+    "coreVersion": "13.351",
+    "systemId": "genesys",
+    "systemVersion": "0.2.18",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}
