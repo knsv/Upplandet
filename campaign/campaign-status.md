@@ -1,7 +1,7 @@
 # Upplandet - Kampanjstatus
 
-**Senast uppdaterad:** Session 3-planering (februari 2026)
-**Nuvarande äventyr:** Offerlunden (session 3, planerad)
+**Senast uppdaterad:** Efter session 3 (8 februari 2026)
+**Nuvarande äventyr:** Tierp-äventyret (session 4, planeras)
 **Nästa session:** TBD
 
 ---
@@ -17,7 +17,7 @@
 │         │                                                   │
 │         │ (Flyr Östhammar med Emma)                        │
 │         ▼                                                   │
-│  [02] OFFERLUNDEN ←── PLANERAD (session 3)                 │
+│  [02] OFFERLUNDEN ←── AVSLUTAT ✓ (session 3)               │
 │         │  Resa genom skogen, stråtrövare,                 │
 │         │  urgammal offerlund, ankomst Tierp               │
 │         │                                                   │
@@ -40,8 +40,8 @@
 
 | # | Äventyr | Status | Platser | Sessioner |
 |---|---------|--------|---------|-----------|
-| 01 | Döende Ljus | **Avslutat** | Östhammar, Fyrön | 2 |
-| 02 | Offerlunden | **Planerad** | Kolvägen, Östhammar → Tierp | 1 |
+| 01 | Döende Ljus | **Avslutat** | Öregrund, Fyrön | 2 |
+| 02 | Offerlunden | **Avslutat** | Kolvägen, Öregrund → Tierp | 1 |
 | 03 | Tierp-äventyret | Skiss | Tierp, norra skogen | 2-3 |
 | 04 | Det som vaknade i djupet | Planerad | Tierp, Dannemora | 3-4 |
 | — | Silvervägen | Förberedd (vilar) | Öregrund → Sigtuna | 2-3 |
@@ -54,12 +54,12 @@
 
 | Karaktär | Spelare | Klass | Sår | Belastning | XP | Anteckningar |
 |----------|---------|-------|-----|------------|-----|--------------|
-| Sören Larsson | Mattias | Tempelriddare | ~13/13 | 14/14 | +15 | Fullhälad. Har sitt spjut, sköld, ringbrynja |
-| Lusse | Per | Monsterjägare | ~7/14 | 14/14 | +15 | Allvarligt skadad (tog 8 sår av Livia, helade 1) |
-| Finn | Fredrik | Skurk | ~6/? | 14/14 | +15 | Allvarligt skadad (tog 8 sår + krit, helade 2) |
+| Sören Larsson | Mattias | Tempelriddare | ~13/13 | 14/14 | 25 | Fullhälad. Silverspjutet offrat i lunden. Har svärd, sköld, ringbrynja |
+| Lusse | Per | Monsterjägare | ~7/14 | 14/14 | 25 | Allvarligt skadad (oförändrad under session 3) |
+| Finn | Fredrik | Skurk | ~4/12 | 14/14 | 25 | Allvarligt skadad (tog 2 sår av myrgast) |
 
 ### Resande
-- **Emma Brun** — Under sällskapets beskydd. Magiska förmågor. Tyst och rädd.
+- **Emma Brun** — Under sällskapets beskydd. Magiska förmågor. Kommunicerade med offerlunden. Mer pratsam efter lunden.
 
 ### XP-belöning Session 1
 
@@ -71,48 +71,37 @@
 | Kreativ problemlösning (öronvax mot banshee-skrik) | 2 |
 | **Totalt per spelare** | **15** |
 
-*Session 2 XP ej utdelat ännu.*
+### XP-belöning Session 3
+
+| Anledning | XP |
+|-----------|-----|
+| Sessionsbelöning | 10 |
+| **Totalt per spelare** | **10** |
+
+*Totalt hittills: 25 XP per spelare.*
 
 ## Nuvarande plats
-**Östhammar** — Dansande Krabban. Smyger ut i gryningen mot Tierp med Emma.
+**Tierp** — Nyanlända. Såg Det Gamla Trädet vid ankomst.
 
 ---
 
-## Session 3: Offerlunden (PLANERAD)
+## Session 3: Offerlunden (AVSLUTAT)
 
-### Koncept
-Sällskapet flyr genom djup skog mot Tierp. Fångas av stråtrövare — som själva är fångade av en urgammal offerlund som vaknat. Dubbel fångenskap, pussel och flykt.
+### Sammanfattning
+Sällskapet flydde Öregrund, gömde sig för inkvisitionsryttare, kämpade mot myrgastar i en myr, fångades av Torkel Halvhands stråtrövare, och leddes av skogen till en urgammal offerlund. Sören offrade sitt silverspjut, Emma kommunicerade med den urgamla makten, och de släpptes fria. Förlorade ~900 silver men fick 110 tillbaka av Torkel. Anlände till Tierp.
 
-### Struktur (5 akter)
+### Nyckelutfall
+- Sören offrade silverspjutet — troskris (böner hade ingen makt i lunden)
+- Emma kommunicerade med urgammal makt (ögon blev svarta) — krafter eskalerar
+- Sällskapet och rövarna samarbetade mot gemensamt hot
+- Torkel Halvhand — potentiell framtida kontakt (gav silver vid avsked)
+- Finn misstror Emma efter hennes kommunikation med lunden
+- Kolarbetaren Evert berättade om ljus i norra skogen
 
-| Akt | Tid | Händelse |
-|-----|-----|----------|
-| 1 | Gryning | Flykt ur Östhammar, tre inkvisitionsryttare på vägen |
-| 2 | Middag | Stråtrövarna (Torkel Halvhand) fångar sällskapet |
-| 3 | Kväll | Skogen stänger sig, Nils försvinner, alla stigar leder till lunden |
-| 4 | Natt | Offerlunden — skräck, pussel, dubbel flykt (rep + trolldom) |
-| 5 | Gryning | Efterspel, ankomst Tierp |
-
-### Nya NSC:er (session 3)
-
-| NSC | Roll | Beskrivning |
-|-----|------|-------------|
-| Torkel Halvhand | Rövarledare | Ex-soldat, pragmatisk, saknar tre fingrar. Potentiell återkommande kontakt |
-| Maja Svart | Rövare, skytt | Senig, tyst, Torkels förtrogna |
-| Unge Bror | Rövare, 17 år | Nervös, visar medlidande med Emma |
-| Halte Gunnar | Rövare, äldre | Cynisk humor, kokar maten |
-| Erik Tre-Öron | Rövare, stor | Lojal, inte snabb i tanken |
-| Nils | Rövare, ny | Tystlåten, redan påverkad av skogen. *Försvinner först* |
-
-### Nyckelfrågor att lösa under sessionen
-- Hur tar sig sällskapet loss från rövarna?
-- Hur bryter de offerlundens grepp? (frivilligt offer, Emmas kommunikation, eller brute force)
-- Hur eskalerar Emmas krafter?
-- Sörens troskris: hans böner fungerar inte i lunden
-
-### Förberedda filer
-- `adventures/02-after-dying-light/session-03-offerlunden.md` — Fullständig sessionsförberedelse
-- `adventures/02-after-dying-light/encounters-resan.md` — 18 encounters för resor i skogen
+### Filer
+- `sessions/session-03-summary.md` — Sessionssammanfattning
+- `sessions/session-03-transcript.md` — Transkript
+- `adventures/02-after-dying-light/session-03-offerlunden.md` — Sessionsförberedelse
 
 ---
 
@@ -161,13 +150,19 @@ Sällskapet flyr genom djup skog mot Tierp. Fångas av stråtrövare — som sj�
 - Magisk kunskap som "kom till henne" — inneboende förmågor
 - Utförde nekromantisk ritual utan extern undervisning
 - Har gjort korstecknet och bett på latin (visar vilja till omvändelse)
+- **Session 3:** Kände offerlundens "hunger" — kommunicerade med urgammal makt
+- Ögon blev svarta under kommunikationen (inte onda, men djupa)
+- Berättade att hon känt en "dragning" som inte var hennes egen
+- Rötterna undvek henne (möjlig koppling till hennes kraft)
+- Mer pratsam efter lunden — frågade om hon skulle träffa Unge Bror igen
 
 ### Politisk situation
 - Fader Daniel har skrivit till Inkvisitionen i Sigtuna
-- Biskop Marcus och Inquisitor Ragnar förväntas skicka folk till Östhammar
+- Biskop Marcus och Inquisitor Ragnar förväntas skicka folk till Öregrund
 - Sällskapet var kallade till förhör men **flydde istället**
 - Sällskapets berättelse till myndigheterna är inkonsekvent
-- Tre inkvisitionsryttare på väg till Östhammar (session 3, Akt 1)
+- **Session 3:** Tre inkvisitionsryttare passerade sällskapet på vägen (korsridare i formation)
+- Sällskapet gömde sig men vet inte om ryttarna söker dem eller åker till Öregrund
 
 ---
 
@@ -179,7 +174,9 @@ Sällskapet flyr genom djup skog mot Tierp. Fångas av stråtrövare — som sj�
 - Finns stulna silver: 5
 - Spenderat totalt: 51 silver (session 1)
 - Deposition: 30 silver (oklart om återbetald)
-- **Uppskattad kassa: ~1 054–1 084 silver**
+- Förlorat till stråtrövare: ~900 silver (session 3)
+- Torkel gav tillbaka: 110 silver (session 3)
+- **Uppskattad kassa: ~210–260 silver**
 
 ---
 
@@ -194,7 +191,11 @@ Sällskapet flyr genom djup skog mot Tierp. Fångas av stråtrövare — som sj�
 | Baronens vakter (3) | Elitgardister | Döda på Fyrön | Ej begravda, baronen ska skicka folk |
 | Emma Brun | Tonårsflicka med magi | Reser med sällskapet | Under Sörens beskydd, ångerfullt |
 | Livia (banshee) | Varelse av drivved/bark | Förstörd | Exploderade i mörk rök |
-| Fader Daniel | Präst | Östhammar | Misstänksam, skrev till Inkvisitionen |
+| Fader Daniel | Präst | Öregrund | Misstänksam, skrev till Inkvisitionen |
+| Torkel Halvhand | Rövarledare | Kolvägen | Ex-soldat. Rånade sällskapet men gav silver till nytt spjut vid avsked |
+| Unge Bror | Rövare, 17 år | Kolvägen | Visade vänlighet mot Emma |
+| Nils Tyste | Rövare | Kolvägen | Försvann i skogen, räddades ur lundens grepp |
+| Kolare Evert | Kolarbetare | Utanför Tierp | Berättade om ljus i norra skogen |
 
 ---
 

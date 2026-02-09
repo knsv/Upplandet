@@ -27,12 +27,12 @@ Sällskapet flyr Östhammar i gryningen med Emma, skadade och tunga av silver. P
 
 ## Sällskapets utgångsläge
 
-| Karaktär | Sår    | Belastning | Utrustning                     | Notering                                            |
-| -------- | ------ | ---------- | ------------------------------ | --------------------------------------------------- |
-| Sören    | ~13/13 | 14/14      | Spjut, sköld, ringbrynja       | Fullhälad. Plockade upp spjutet innan de lämnade ön |
-| Lusse    | ~7/14  | 14/14      | Långbåge, pilar, läderrustning | Allvarligt skadad                                   |
-| Finn     | ~6/12  | 14/14      | Yxa, kniv, dyrkar              | Allvarligt skadad                                   |
-| Emma     | Oskadd | —          | Brun kåpa, barfota             | Tyst, rädd                                          |
+| Karaktär | Wounds | Strain | Utrustning                     | Notering                                            |
+| -------- | ------ | ------ | ------------------------------ | --------------------------------------------------- |
+| Sören    | ~13/13 | 14/14  | Spjut, sköld, ringbrynja       | Fullhälad. Plockade upp spjutet innan de lämnade ön |
+| Lusse    | ~7/14  | 14/14  | Långbåge, pilar, läderrustning | Allvarligt skadad                                   |
+| Finn     | ~6/12  | 14/14  | Yxa, kniv, dyrkar              | Allvarligt skadad                                   |
+| Emma     | Oskadd | —      | Brun kåpa, barfota             | Tyst, rädd                                          |
 
 **Kassa:** ~1 054–1 084 silver
 **Proviant:** Minimal (vad de hann plocka ihop i gryningen)
