@@ -15,7 +15,7 @@
 │                                                             │
 │  [01] DÖENDE LJUS ←── AVSLUTAT ✓                           │
 │         │                                                   │
-│         │ (Flyr Östhammar med Emma)                        │
+│         │ (Flyr Öregrund med Emma)                        │
 │         ▼                                                   │
 │  [02] OFFERLUNDEN ←── AVSLUTAT ✓ (session 3)               │
 │         │  Resa genom skogen, stråtrövare,                 │
@@ -211,36 +211,44 @@ Sällskapet flydde Öregrund, gömde sig för inkvisitionsryttare, kämpade mot 
 Spelarna rör sig mot Tierp och de djupa skogarna. Den övernaturliga aktiviteten i skogen (offerlunden, döda träd, flyende djur) kopplar till **Det som vaknade i djupet** — urgamla krafter under Upplands berg som rört sig sedan gruvarbetarna i Dannemora bröt igenom en vägg.
 
 ### Bakgrundshot: Inkvisitionen
-Inkvisitionen är inte nästa äventyr utan ett pågående orosmoment:
-- Tre ryttare på väg till Östhammar (session 3)
-- Om sällskapet blev sedda: folk skickas till Tierp inom dagar
-- Sörens lojalitetskonflikt (tempelriddare som flyr sin orden)
+Inkvisitionen är ett pågående orosmoment:
+- Tre ryttare sågs på vägen (session 3) — på väg till Öregrund
+- Om sällskapet blev sedda av någon i Öregrund: Inkvisitionen kan följa efter till Tierp
+- Sörens lojalitetskonflikt (tempelriddare som flyr sin orden) — förvärrad av lunden
 - Fader Anders i Tierp — inkvisitionens potentiella kontakt i byn
+
+### Sörens troskris (NY — session 3)
+I offerlunden upptäckte Sören att hans böner absorberades men inte besvarades. Platsen var "äldre än hans Gud — inte ond, bara likgiltig." Han offrade sitt silverspjut på ett hedniskt altare. Mattias noterade att Sören behöver bikta sig för Fader Anders.
 
 ### Emmas utvecklingsbåge
 Emmas krafter eskalerar gradvis:
 - Session 2: Ånger, korstecken, vill omvändas
-- Session 3: Krafter reagerar på gammal magi (offerlunden), möjlig kommunikation med urgamla makter
+- Session 3: Kommunicerade med offerlunden, ögon blev svarta, kände "hunger" som inte var hennes
+- Session 3: Mer pratsam efter lunden, frågade om Unge Bror
 - Framtida: Mor Greta i Tierp kan hjälpa — eller utnyttja — henne
+
+### Finns misstro mot Emma (NY — session 3)
+Finn knuffade Sören bort från Emma i lunden och hävdade att hon "försöker förtrolla" honom. En ny spänning inom sällskapet.
 
 ### Anteckningar för spelledaren
 
-**Nästa sessions öppning (session 3):**
-- Sällskapet smyger ut ur Östhammar i gryningen
-- 40 km genom djup skog till fots (1,5 dag)
-- Oktober, höst — kort dagsljus, kallt
-- Lusse och Finn fortfarande allvarligt skadade
-- Se `session-03-offerlunden.md` för fullständig prep
+**Nästa session (session 4 — Tierp):**
+- Sällskapet har anlänt till Tierp, såg Det Gamla Trädet
+- Lusse och Finn fortfarande allvarligt skadade — behöver läkning
+- Sällskapet är fattigt (~210-260 silver)
+- Sören saknar sitt spjut, behöver nytt vapen eller återfå spjutet
+- Sören bör bikta sig för Fader Anders — vad berättar han?
 
 **Aktiva hot:**
-- Inkvisitionen skickar folk till Östhammar
-- Offerlunden / urgamla krafter i skogen
-- Stråtrövare på kolvägen
-- Emmas krafter som eskalerar utom kontroll
+- Inkvisitionen — tre ryttare i Öregrund, kan följa spåret
+- Emmas krafter eskalerar — vad händer vid nästa magisk kontakt?
+- Ljus i norra skogen — vad är det? (kolarbetaren Evert)
+- Det som vaknade i djupet (bakgrundshot kopplat till Dannemora)
 
-**Efter session 3 (Tierp):**
+**Nya frågor efter session 3:**
 - Mor Greta — kan hon hjälpa Emma?
 - Ulf Grönlöv — hans hemligheter om skogen
-- Fader Anders — ung präst, potentiell konflikt kring Emma
-- Det Gamla Trädet — hedniska seder, gammal magi
-- Kolarbetare som rapporterar ljus i norra skogen
+- Fader Anders — ung präst, potentiell konflikt kring Emma och hedniska seder
+- Det Gamla Trädet — hedniska seder mitt i Tierp
+- Vad händer om Sören biktar lund-offret?
+- Finns misstro mot Emma — hur utvecklas den?
