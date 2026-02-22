@@ -1,0 +1,164 @@
+{
+  "folder": "5W3s74Pq9Dq7UeZG",
+  "name": "Marta Svensdotter",
+  "type": "minion",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "characteristics": {
+      "brawn": 1,
+      "agility": 1,
+      "intellect": 2,
+      "cunning": 2,
+      "willpower": 2,
+      "presence": 2
+    },
+    "soak": 1,
+    "defense": {
+      "melee": 0,
+      "ranged": 0
+    },
+    "description": "<p><b>Bondfru i Eskilsta, nyckelvittne.</b> Medelålders bondfru med skarpa ögon och nervösa händer. Observant — ser allt men sällan säger något utan att bli tillfrågad. Har sett ljus i skogen nattetid och hört vad som lät som ett barn som grät.</p><p><b>Roll i äventyret:</b> Charm (Lätt, 🟣) för att få henne att berätta. Med Fördel: \"Jag tror jag hörde ett barn gråta. Men det kan ha varit en räv.\" Pekar mot sydost — mot Frebo.</p>",
+    "source": "Tierps hemligheter — Session 4",
+    "superCharacteristics": [],
+    "groupSize": 1,
+    "wounds": {
+      "value": 0,
+      "threshold": 4
+    },
+    "motivations": {
+      "strength": {
+        "description": "",
+        "name": "Observant"
+      },
+      "flaw": {
+        "description": "",
+        "name": "Tystlåten"
+      },
+      "desire": {
+        "description": "",
+        "name": "Trygghet"
+      },
+      "fear": {
+        "description": "",
+        "name": "Häxeri"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Marta Svensdotter",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "wounds"
+    },
+    "bar2": {
+      "attribute": "members"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "genesys-test",
+      "uuid": "Actor.Ms0rUv4wXz9Ya2Bd",
+      "coreVersion": "13.351",
+      "systemId": "genesys",
+      "systemVersion": "0.2.18"
+    },
+    "coreVersion": "13.351",
+    "systemId": "genesys",
+    "systemVersion": "0.2.18",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

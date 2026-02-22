@@ -1,0 +1,259 @@
+{
+  "folder": "5W3s74Pq9Dq7UeZG",
+  "name": "Gunnar Fors",
+  "type": "minion",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "characteristics": {
+      "brawn": 3,
+      "agility": 3,
+      "intellect": 1,
+      "cunning": 2,
+      "willpower": 2,
+      "presence": 2
+    },
+    "soak": 3,
+    "defense": {
+      "melee": 0,
+      "ranged": 0
+    },
+    "description": "<p><b>Flottare vid Tämnaråns lastageplats.</b> Muskulös, vädersliten man med korta ben och starka armar. Högljudd, direkt och förbannad — någon har stulit hans eka och tjugo alnar rep. Vet allt som händer längs ån.</p><p><b>Roll i äventyret:</b> Nyckelvittne i Gryttjom — såg en skugga vid ån i gryningen. Informationskälla om rykten och transporter längs Tämnarån.</p>",
+    "source": "Tierps hemligheter — Session 4",
+    "superCharacteristics": [],
+    "groupSize": 1,
+    "wounds": {
+      "value": 0,
+      "threshold": 5
+    },
+    "motivations": {
+      "strength": {
+        "description": "",
+        "name": "Stark"
+      },
+      "flaw": {
+        "description": "",
+        "name": "Hetsig"
+      },
+      "desire": {
+        "description": "",
+        "name": "Hitta sin eka"
+      },
+      "fear": {
+        "description": "",
+        "name": "Att förlora sitt levebröd"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Gunnar Fors",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "wounds"
+    },
+    "bar2": {
+      "attribute": "members"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Athletics",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "brawn",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 1
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": { "compendiumSource": null, "duplicateSource": null, "exportSource": null, "coreVersion": "13.351", "systemId": "genesys", "systemVersion": "0.2.18", "createdTime": null, "modifiedTime": null, "lastModifiedBy": null },
+      "_id": "Gf1aTu2bWy3cXz4d",
+      "sort": 0,
+      "ownership": { "default": 0 }
+    },
+    {
+      "name": "Brawl",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "brawn",
+        "category": "combat",
+        "initiative": false,
+        "career": false,
+        "rank": 1
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": { "compendiumSource": null, "duplicateSource": null, "exportSource": null, "coreVersion": "13.351", "systemId": "genesys", "systemVersion": "0.2.18", "createdTime": null, "modifiedTime": null, "lastModifiedBy": null },
+      "_id": "Gf2bUv3cXz4dYa5e",
+      "sort": 0,
+      "ownership": { "default": 0 }
+    },
+    {
+      "name": "Survival",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "cunning",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 1
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": { "compendiumSource": null, "duplicateSource": null, "exportSource": null, "coreVersion": "13.351", "systemId": "genesys", "systemVersion": "0.2.18", "createdTime": null, "modifiedTime": null, "lastModifiedBy": null },
+      "_id": "Gf3cVw4dYa5eZb6f",
+      "sort": 0,
+      "ownership": { "default": 0 }
+    },
+    {
+      "name": "Båtshake",
+      "type": "weapon",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<p>Improviserat vapen. Lång stav med järnkrok.</p>",
+        "source": "",
+        "rarity": 0,
+        "encumbrance": 2,
+        "price": 15,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 2,
+        "critical": 5,
+        "range": "engaged",
+        "skills": [
+          "Melee"
+        ],
+        "qualities": [],
+        "damageCharacteristic": "brawn"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": { "compendiumSource": null, "duplicateSource": null, "exportSource": null, "coreVersion": "13.351", "systemId": "genesys", "systemVersion": "0.2.18", "createdTime": null, "modifiedTime": null, "lastModifiedBy": null },
+      "_id": "Gf4dWx5eZb6fAc7g",
+      "sort": 0,
+      "ownership": { "default": 0 }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "genesys-test",
+      "uuid": "Actor.Gf9qTu3vWy8Xz1Ac",
+      "coreVersion": "13.351",
+      "systemId": "genesys",
+      "systemVersion": "0.2.18"
+    },
+    "coreVersion": "13.351",
+    "systemId": "genesys",
+    "systemVersion": "0.2.18",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

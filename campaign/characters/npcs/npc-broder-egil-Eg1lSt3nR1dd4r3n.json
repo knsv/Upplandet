@@ -1,0 +1,434 @@
+{
+  "folder": "5W3s74Pq9Dq7UeZG",
+  "name": "Broder Egil, Stenriddaren",
+  "type": "rival",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "characteristics": {
+      "brawn": 4,
+      "agility": 1,
+      "intellect": 1,
+      "cunning": 1,
+      "willpower": 4,
+      "presence": 1
+    },
+    "soak": 6,
+    "defense": {
+      "melee": 1,
+      "ranged": 1
+    },
+    "description": "<h2>Broder Egil, Stenriddaren</h2><p>En munk från <i>Ljusets Bröder</i> som för 200 år sedan frivilligt lät sig förvandlas till sten för att vakta helgedomens skattkammare. Hans kropp är av grå sten — kåpa, bälte, sandaler, allt hugget med omänsklig precision. Runt hans hals hänger ett rostigt järnkors, det enda som inte är sten.</p><h3>Förmågor</h3><p><b>Stenkropp:</b> Soak 6. Immun mot gift, fear och sinneseffekter.</p><p><b>Bunden väktare:</b> Kan inte lämna kammaren. Om fiender flyr återgår han till sin position.</p><p><b>Långsam:</b> Kan bara använda en förflyttningsmanöver per runda. Kan inte springa.</p><p><b>Kasta sten:</b> Kan rycka loss bitar ur väggarna och kasta (Athletics/Brawn). Skada 5; Krit 5; Short; Limited Ammo 3. Kammaren är max short range.</p><p><b>Järnkorset (svaghet):</b> Om någon sliter loss järnkorset (Melee eller Athletics, Svår ◆◆◆): Soak sjunker med 2 (till 4), Staggered 1 runda. <i>\"Varför... bär jag fortfarande detta?\"</i></p><p><b>Befrielse:</b> Kan befrias istället för att besegras. Steg 1: Discipline (Svår ◆◆◆). Steg 2: Charm/Leadership/Cool (Svår ◆◆◆). Om Egil tagit 9+ sår sänks svårigheten till Medel ◆◆.</p><p><b>Initiativ:</b> Discipline (🟡🟡🟡🟢).</p>",
+    "source": "Brödernas Grav (event-brodernas-grav.md)",
+    "superCharacteristics": [],
+    "wounds": {
+      "value": 0,
+      "max": 18
+    },
+    "motivations": {
+      "strength": {
+        "name": "Trofast",
+        "description": "Egil höll sin ed i 200 år. Hans lojalitet till sina bröder och sin plikt är absolut."
+      },
+      "flaw": {
+        "name": "Bunden",
+        "description": "Kan inte tänka bortom sin ed. Hans vilja är fängslad i sten."
+      },
+      "desire": {
+        "name": "Vila",
+        "description": "Djupt inne vill Egil bara vila. Hans ed håller honom fången."
+      },
+      "fear": {
+        "name": "Att ha väntat förgäves",
+        "description": "Att hans bröders offer och hans egen vakt var meningslös."
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Broder Egil, Stenriddaren",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "wounds"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Melee (Heavy)",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "brawn",
+        "category": "combat",
+        "initiative": false,
+        "career": false,
+        "rank": 3
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Mh3SkBrdrEg1l001",
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Resilience",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "brawn",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 3
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Rs3SkBrdrEg1l002",
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Discipline",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "willpower",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 3
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Dc3SkBrdrEg1l003",
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Athletics",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "Används för Kasta sten-attacken.",
+        "source": "",
+        "characteristic": "brawn",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 1
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "At1SkBrdrEg1l004",
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Stennävar",
+      "type": "weapon",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "Egils massiva stennävar. Kan slå ner motståndare (Knockdown med ⚡) och desorientera dem (Disorient med ⚡⚡).",
+        "source": "",
+        "rarity": 0,
+        "encumbrance": 0,
+        "price": 0,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 2,
+        "critical": 4,
+        "range": "engaged",
+        "skills": [
+          "Melee (Heavy)"
+        ],
+        "qualities": [
+          {
+            "name": "knockdown",
+            "rating": 0,
+            "description": "Aktiveras med ⚡. Målet slås omkull.",
+            "isRated": false
+          },
+          {
+            "name": "disorient",
+            "rating": 1,
+            "description": "Aktiveras med ⚡⚡. Målet får setback-tärning.",
+            "isRated": true
+          }
+        ],
+        "damageCharacteristic": "brawn"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "StNvWpBrdrEg1l01",
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Kasta sten",
+      "type": "weapon",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "Egil rycker loss bitar ur väggarna och kastar. Använder Athletics (Brawn). Begränsat till 3 användningar per encounter.",
+        "source": "",
+        "rarity": 0,
+        "encumbrance": 0,
+        "price": 0,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 3,
+        "state": "carried",
+        "baseDamage": 5,
+        "critical": 5,
+        "range": "short",
+        "skills": [
+          "Athletics"
+        ],
+        "qualities": [],
+        "damageCharacteristic": "-"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "KsStWpBrdrEg1l02",
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Stenkropp",
+      "type": "armor",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "Egils kropp är av solid sten. Ger hög soak och försvar. Immun mot gift, fear och sinneseffekter. Om järnkorset slits loss: soak sjunker med 2, Staggered 1 runda.",
+        "source": "",
+        "rarity": 0,
+        "encumbrance": 0,
+        "price": 0,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "defense": 1,
+        "soak": 2,
+        "qualities": []
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "StKrArBrdrEg1l01",
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "genesys-test",
+      "uuid": "Actor.Eg1lSt3nR1dd4r3n",
+      "coreVersion": "13.351",
+      "systemId": "genesys",
+      "systemVersion": "0.2.18"
+    },
+    "coreVersion": "13.351",
+    "systemId": "genesys",
+    "systemVersion": "0.2.18",
+    "createdTime": 1770481995620,
+    "modifiedTime": 1770482012294,
+    "lastModifiedBy": "0I4XRwDpK0q8REmU"
+  },
+  "_id": "Eg1lSt3nR1dd4r3n",
+  "ownership": {
+    "default": 0
+  }
+}

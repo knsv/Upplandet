@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Skill(genesys-rpg)",
+      "WebSearch",
+      "WebFetch(domain:genesysref.netlify.app)",
+      "Skill(adversary-creator)",
+      "Bash(ls:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

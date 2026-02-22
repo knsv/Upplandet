@@ -48,11 +48,70 @@ De gamla skogarna runt Tierp sägs vara hemsökta av naturandar och varelser fr�
 
 ### Timmerflottens Start
 
-- Platsen där stockar samlas för flottning nedströms mot Dalälven
+- Platsen där stockar samlas för flottning nedströms via Tämnarån
 - Säsongsarbete på våren
 - Farligt arbete, många olyckor
-- Virket går till bruken vid Söderfors och Lövsta
 - **Äventyrsroll:** Transport nedströms
+
+---
+
+## Tämnarån och transportvägen
+
+Tämnarån rinner genom nejden och är bygdens livpulsåder. Säd, timmer och träkol fraktas nedströms, via **drag** (portage-platser där varor bärs över land mellan vattendrag) till Fyrisån och vidare till Uppsala. Handeln gör Tierp-nejden ekonomiskt viktig trots det avlägsna läget.
+
+Samma väg som varor tar söderut tar nyheter — och inkvisitorer — norrut.
+
+### Transportrutt
+
+```
+  Tierp / Gryttjom
+       │
+    Tämnarån (nedströms)
+       │
+    [Drag vid Frebo]
+       │
+    Fyrisån
+       │
+    Uppsala
+```
+
+---
+
+## Omgivande byar
+
+### Eskilsta (~4 km söder)
+
+- Jordbruksby, levererar säd till Uppsala-handeln
+- Gårdarna vetter mot öppna fält i söder, skog i norr
+- Drabbad av stölder (session 4)
+- **Nyckel-NSC:** Henrik Bågskansen (bonde, bestulen)
+
+### Gryttjom (~5 km öster, vid Tämnarån)
+
+- Transportknut där varor lastas för flottning
+- Lastageplatsen är byns hjärta — rep, tunnor, flottare
+- Rykten färdas snabbt längs ån
+- **Nyckel-NSC:** Gunnar Fors (flottare, förlorat en båt)
+
+### Munga (~3 km väster, vid skogskanten)
+
+- Liten by, mest kolarbetare och skogsfolk
+- Mor Greta har kontakter här — gamla seder lever
+- Tillbakadragen stämning, byborna pratar inte gärna med främlingar
+
+### Hals (~6 km nordväst)
+
+- Avlägsen by där de gamla traditionerna lever starkast
+- Vinterblotet hålls troligen här, inte i Tierp
+- Byborna är misstänksamma mot kyrkans folk
+- Potentiellt gömställe för den som vill undkomma kyrkans ögon
+
+### Frebo (~7 km sydost, vid ett drag)
+
+- Liten by vid en portage-plats längs Tämnarån
+- Strategisk punkt för varutransport
+- En övergiven kolarstuga i skogen söder om byn
+- **Äventyrsroll:** Märta och Sigrids gömställe (session 4)
 
 ### Vägen till Lövsta
 

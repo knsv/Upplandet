@@ -1,7 +1,7 @@
 # Upplandet - Kampanjstatus
 
-**Senast uppdaterad:** Efter session 3 (8 februari 2026)
-**Nuvarande äventyr:** Tierp-äventyret (session 4, planeras)
+**Senast uppdaterad:** Efter session 3 (22 februari 2026)
+**Nuvarande äventyr:** Tierps hemligheter (session 4, planeras)
 **Nästa session:** TBD
 
 ---
@@ -23,8 +23,9 @@
 │         │                                                   │
 │         │ (Inkvisitionen som bakgrundshot)                  │
 │         ▼                                                   │
-│  [03] TIERP-ÄVENTYRET (arbetsnamn)                          │
-│         │  Mor Greta, Ulf Grönlöv, skogen vaknar           │
+│  [03] TIERPS HEMLIGHETER                                    │
+│         │  Stölder, Greta vs Anders, helning,              │
+│         │  Inkvisitionen, Brödernas Grav                   │
 │         │                                                   │
 │         │ (Hook: Dannemora, Det som vaknade)                │
 │         ▼                                                   │
@@ -42,7 +43,7 @@
 |---|---------|--------|---------|-----------|
 | 01 | Döende Ljus | **Avslutat** | Öregrund, Fyrön | 2 |
 | 02 | Offerlunden | **Avslutat** | Kolvägen, Öregrund → Tierp | 1 |
-| 03 | Tierp-äventyret | Skiss | Tierp, norra skogen | 2-3 |
+| 03 | Tierps hemligheter | **Förbered** | Tierp, Eskilsta, Gryttjom, Frebo, Hals, Munga | 2-3 |
 | 04 | Det som vaknade i djupet | Planerad | Tierp, Dannemora | 3-4 |
 | — | Silvervägen | Förberedd (vilar) | Öregrund → Sigtuna | 2-3 |
 
@@ -232,18 +233,50 @@ Finn knuffade Sören bort från Emma i lunden och hävdade att hon "försöker f
 
 ### Anteckningar för spelledaren
 
-**Nästa session (session 4 — Tierp):**
-- Sällskapet har anlänt till Tierp, såg Det Gamla Trädet
-- Lusse och Finn fortfarande allvarligt skadade — behöver läkning
-- Sällskapet är fattigt (~210-260 silver)
-- Sören saknar sitt spjut, behöver nytt vapen eller återfå spjutet
-- Sören bör bikta sig för Fader Anders — vad berättar han?
+**Nästa session (session 4 — Tierps hemligheter):**
+- Helning hos Mor Greta — Emma lär sig hela (dag 1-5)
+- Stöldutredning — Märta Frisk och dottern Sigrid gömmer sig vid Frebo
+- Sörens bikt — tryckt från Greta, Anders, mardrömmar och Emma
+- Greta vs Fader Anders — byn splittras
+- Inkvisitionens cirkulärbrev — Anders har redan fått det
+- Bybor kopplar ihop sällskapet med Inkvisitionens eftersökta beskrivning
+- **Brödernas Grav** — prövning i gammal ruin (se nedan)
+
+**Förberett event: Brödernas Grav (~90 min)**
+Fader Anders och Mor Greta samarbetar i hemlighet för att testa sällskapet. Anders vill veta om de är häxjägare eller häxvänner; Greta vill se om de är värdiga att vistas i hennes by. De leder sällskapet till en gammal ruin i skogen — en hednisk helgedom som kristna munkar ("Ljusets Bröder") försökte rena för ~200 år sedan.
+
+*Struktur:*
+1. **Portens Prov** — Discipline-slag (fear) vid ingången
+2. **Fällgången** — Tre fällor: klyfta (Athletics/rep), dubbelknappar (Coordination + Resilience/Discipline), och giftgas (Perception → Survival/Athletics)
+3. **Gåtans Kammare** — Gåta på latin om Tro, Mod och Sanning (riktig gåta för spelarna)
+4. **Väktaren** — Broder Egil, Stenriddaren (Rival, 18 wounds, Soak 6). Kan besegras eller befrias
+5. **Skattkammaren** — Tre artefakter som belöning
+
+*Artefakter:*
+| Artefakt | Mottagare | Typ | Nyckeleffekt |
+|----------|-----------|-----|--------------|
+| Ljusbringaren | Sören | Svärd (Melee Heavy) | Brawn+3, Pierce 1, Silver, 🟦 mot övernaturliga |
+| Jägarens Öga | Lusse | Amulett | 🟦 Perception + 🟦 strid mot övernaturliga |
+| Skuggklingan | Finn | Dolk (Melee Light) | Brawn+2, Krit 2, Accurate 1, Pierce 1 |
+
+*Filer:* `adventures/03-tierp/event-brodernas-grav.md`, `characters/npcs/npc-broder-egil-Eg1lSt3nR1dd4r3n.json`
+
+**Nya NSC:er:**
+| NSC | Roll | Plats |
+|-----|------|-------|
+| Märta Frisk | Mor som gömmer magisk dotter, tjuv av nöd | Kolarstuga vid Frebo |
+| Sigrid Frisk | 10-årig flicka med okontrollerad magi | Med Märta |
+| Henrik Bågskansen | Bonde, bestulen, misstänksam mot sällskapet | Eskilsta |
+| Gunnar Fors | Flottare, förlorat en båt | Gryttjom |
+| Broder Egil, Stenriddaren | Stenvakt i Brödernas Grav (Rival) | Ruin i skogen |
 
 **Aktiva hot:**
 - Inkvisitionen — tre ryttare i Öregrund, kan följa spåret
 - Emmas krafter eskalerar — vad händer vid nästa magisk kontakt?
 - Ljus i norra skogen — vad är det? (kolarbetaren Evert)
 - Det som vaknade i djupet (bakgrundshot kopplat till Dannemora)
+- Sällskapet är misstänkta för stölder i Tierp-nejden
+- Fader Anders har cirkulärbrev från biskopen med sällskapets beskrivning
 
 **Nya frågor efter session 3:**
 - Mor Greta — kan hon hjälpa Emma?
@@ -252,3 +285,18 @@ Finn knuffade Sören bort från Emma i lunden och hävdade att hon "försöker f
 - Det Gamla Trädet — hedniska seder mitt i Tierp
 - Vad händer om Sören biktar lund-offret?
 - Finns misstro mot Emma — hur utvecklas den?
+- Vad händer med Märta och Sigrid? (beroende av spelarnas val)
+- Skickar Anders brevet till Sigtuna?
+- Hur löser Sören sitt silvervapenproblem? → **Ljusbringaren (om Brödernas Grav klaras)**
+- Anders och Gretas hemliga samarbete — hur påverkar det spelarna om de upptäcker det?
+- Befrias Broder Egil eller besegras han? (påverkar Anders/Gretas reaktion)
+
+### Äventyrsfiler
+
+| Äventyr | Fil |
+|---------|-----|
+| Döende Ljus | `adventures/01-dying-light/` |
+| Offerlunden | `adventures/02-after-dying-light/session-03-offerlunden.md` |
+| Tierps hemligheter | `adventures/03-tierp/session-04-prep.md` |
+| Brödernas Grav (event) | `adventures/03-tierp/event-brodernas-grav.md` |
+| Broder Egil (NPC JSON) | `characters/npcs/npc-broder-egil-Eg1lSt3nR1dd4r3n.json` |
