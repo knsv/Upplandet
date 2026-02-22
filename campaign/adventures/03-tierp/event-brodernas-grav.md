@@ -19,13 +19,14 @@ Platsen bär spår av båda världarna: runor bredvid kors, hedniska altarstenar
 
 ### Varför det händer
 
-**Fader Anders** har cirkulärbrevet från biskop Marcus i Sigtuna. Han vet vilka sällskapet är och vad de anklagas för. Men Anders är en ung lantpräst som:
+**Fader Anders** fick cirkulärbrevet från biskop Marcus dag 3 i Tierp (se `session-04-prep.md`, Akt 3). Brevet tvingar honom att välja: rapportera sällskapet eller bryta mot en direkt order. Men Anders är en ung lantpräst som:
 
-- Inte litar på Inkvisitionen (han har sett hur de bränner oskyldiga)
-- Vill **själv avgöra** om sällskapet är farligt
+- Inte litar på Inkvisitionen (han skickades till Tierp som straff för att ifrågasätta deras metoder)
+- Vill **själv avgöra** om sällskapet är farligt — inte överlåta det till byråkrater i Sigtuna
 - Tar sin tro på allvar — Gud kan pröva människor, inte bara inkvisitorer
+- Redan tvivlar på sin egen dogmatik (hemlig dagbok full av frågor)
 
-Anders och **Mor Greta** är offentliga rivaler men delar i hemlighet en övertygelse: att skydda byn kommer före dogm. Greta vet var ruinen finns. Anders ger motivet.
+Anders söker upp **Mor Greta** natten efter att brevet anlänt. Offentligt är de rivaler — prästen mot den kloka kvinnan. Men Anders respekterar Greta mer än han vill erkänna, och Greta vet att Anders inte är en fanatiker. Tillsammans beslutar de: **testa sällskapet**. Om de klarar prövningen bränner Anders brevet. Greta vet var ruinen finns. Anders ger motivet.
 
 ---
 
@@ -485,12 +486,14 @@ Han sönderfaller till stoft och blått ljus. Järnkorset klirrar mot golvet.
 
 ## XP-belöning
 
+*Dessa XP ingår i session 4b-totalen i `session-04-prep.md`. Dubbelräkna inte.*
+
 | Anledning | XP |
 |-----------|-----|
 | Slutfört prövningen | 5 |
 | Befrielse av Broder Egil | +2 (bonus) |
 | Kreativ problemlösning i fällorna | 0–2 |
-| **Totalt** | **5–9** |
+| **Totalt från Brödernas Grav** | **5–9** |
 
 ---
 
@@ -508,7 +511,8 @@ Han sönderfaller till stoft och blått ljus. Järnkorset klirrar mot golvet.
 - Stärker kopplingen mellan sällskapet och skogens urgamla makt
 
 ### Emmas reaktion
-- Emma känner artefakterna — särskilt Ljusbringaren. Hon frågar om hon får hålla i den, men drar tillbaka handen. *"Den vill inte ha mig."*
+- Emma känner artefakterna — särskilt Ljusbringaren. Hon sträcker ut handen men hejdar sig. *"Den... ger. Jag känner det. Den ger ljus, den tar inte."* En paus. *"Jag vet inte om jag kan hålla i något sådant ännu."*
+- Om friktionsscenen med Greta redan skett (dag 2): Detta är ett eko. Emma börjar förstå skillnaden mellan Gretas väg och den väg hon gick med ritualen för sin mor. Ljusbringaren *ger* — Emmas ritual *tog*
 - Skattkammaren ligger under Det Gamla Trädets rötter — detta kopplar hela eventet till kampanjens övergripande mysterium
 
 ### Om sällskapet misslyckas
@@ -522,11 +526,20 @@ Om sällskapet besegras (TPK mot Egil, alla svimmar av strain i fällorna, eller
 - Artefakterna förblir i ruinen — möjligen tillgängliga vid ett senare tillfälle, om sällskapet bevisar sig på annat sätt
 - Prövningen kan inte göras om
 
+### Kopplingar till övriga sessionen
+
+**Anders troskris:** Om sällskapet berättar om Egils befrielse, konfronteras Anders med att kristna munkar frivilligt offrade sig i en hednisk helgedom — och att deras tro *och* de gamla krafterna existerade sida vid sida i tvåhundra år. Hans dagbok-tvivel djupnar. *"Kanske hade Ljusets Bröder rätt — tro handlar inte om att välja sida utan om att stå fast oavsett."* Detta kan bli den slutgiltiga övertygelsen som får Anders att bränna cirkulärbrevet.
+
+**Sigrid-parallellen:** Om sällskapet redan hittat Märta och Sigrid: Gåtans kammare ("Ljus utan låga = Tro, Sköld utan järn = Mod, Nyckel utan metall = Sanning") speglar deras eget dilemma. Att beskydda Sigrid kräver just tro, mod och sanning — samma dygder som munkarna testade.
+
+**Ljusen i skogen:** Under prövningen kan sällskapet märka att rötterna i Väktarens kammare pulserar i samma rytm som Det Gamla Trädet — *Perception (Genomsnittlig):* Det svaga ljuset djupt nere i rötterna rör sig i samma riktning som Gretas "ljus som rör sig söderut." Ruinen, Trädet och ljusen i norra skogen är delar av samma urgamla nätverk.
+
 ### Nya frågor
 - Vad var Ljusets Bröder egentligen? Varför kom de hit?
-- Finns det fler platser som denna i skogarna?
-- Vad innebär det att artefakterna "väntade"?
+- Finns det fler platser som denna i skogarna? (Greta: "Minst två till, om berättelserna stämmer.")
+- Vad innebär det att artefakterna "väntade"? Kopplar till Det som vaknade i djupet
 - Hur reagerar byborna om de ser silverspjutet/amuletten/dolken?
+- Rötterna pulserar söderut — vad händer i söder? (Hook mot Dannemora)
 
 ---
 

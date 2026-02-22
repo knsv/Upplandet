@@ -216,7 +216,7 @@ Inkvisitionen är ett pågående orosmoment:
 - Tre ryttare sågs på vägen (session 3) — på väg till Öregrund
 - Om sällskapet blev sedda av någon i Öregrund: Inkvisitionen kan följa efter till Tierp
 - Sörens lojalitetskonflikt (tempelriddare som flyr sin orden) — förvärrad av lunden
-- Fader Anders i Tierp — inkvisitionens potentiella kontakt i byn
+- Fader Anders i Tierp — mottar cirkulärbrevet dag 3, tvingas välja mellan plikt och samvete
 
 ### Sörens troskris (NY — session 3)
 I offerlunden upptäckte Sören att hans böner absorberades men inte besvarades. Platsen var "äldre än hans Gud — inte ond, bara likgiltig." Han offrade sitt silverspjut på ett hedniskt altare. Mattias noterade att Sören behöver bikta sig för Fader Anders.
@@ -238,8 +238,8 @@ Finn knuffade Sören bort från Emma i lunden och hävdade att hon "försöker f
 - Stöldutredning — Märta Frisk och dottern Sigrid gömmer sig vid Frebo
 - Sörens bikt — tryckt från Greta, Anders, mardrömmar och Emma
 - Greta vs Fader Anders — byn splittras
-- Inkvisitionens cirkulärbrev — Anders har redan fått det
-- Bybor kopplar ihop sällskapet med Inkvisitionens eftersökta beskrivning
+- Inkvisitionens cirkulärbrev — anländer dag 3 via handlare, Anders vändpunkt
+- Bybor kan koppla ihop sällskapet med beskrivningen om Anders läcker information
 - **Brödernas Grav** — prövning i gammal ruin (se nedan)
 
 **Förberett event: Brödernas Grav (~90 min)**
@@ -255,7 +255,7 @@ Fader Anders och Mor Greta samarbetar i hemlighet för att testa sällskapet. An
 *Artefakter:*
 | Artefakt | Mottagare | Typ | Nyckeleffekt |
 |----------|-----------|-----|--------------|
-| Ljusbringaren | Sören | Svärd (Melee Heavy) | Brawn+3, Pierce 1, Silver, 🟦 mot övernaturliga |
+| Ljusbringaren | Sören | Spjut (Melee Heavy) | Brawn+3, Pierce 1, Silver, 🟦 mot övernaturliga |
 | Jägarens Öga | Lusse | Amulett | 🟦 Perception + 🟦 strid mot övernaturliga |
 | Skuggklingan | Finn | Dolk (Melee Light) | Brawn+2, Krit 2, Accurate 1, Pierce 1 |
 
@@ -276,19 +276,19 @@ Fader Anders och Mor Greta samarbetar i hemlighet för att testa sällskapet. An
 - Ljus i norra skogen — vad är det? (kolarbetaren Evert)
 - Det som vaknade i djupet (bakgrundshot kopplat till Dannemora)
 - Sällskapet är misstänkta för stölder i Tierp-nejden
-- Fader Anders har cirkulärbrev från biskopen med sällskapets beskrivning
+- Fader Anders mottar cirkulärbrev från biskopen dag 3 — vändpunkt som triggar Anders/Greta-samarbete och Brödernas Grav
 
 **Nya frågor efter session 3:**
 - Mor Greta — kan hon hjälpa Emma?
 - Ulf Grönlöv — hans hemligheter om skogen
-- Fader Anders — ung präst, potentiell konflikt kring Emma och hedniska seder
+- Fader Anders — ung tvivlande präst, pressas av cirkulärbrevet, hemlig allians med Greta
 - Det Gamla Trädet — hedniska seder mitt i Tierp
 - Vad händer om Sören biktar lund-offret?
 - Finns misstro mot Emma — hur utvecklas den?
 - Vad händer med Märta och Sigrid? (beroende av spelarnas val)
-- Skickar Anders brevet till Sigtuna?
+- Svarar Anders på cirkulärbrevet eller bränner han det?
 - Hur löser Sören sitt silvervapenproblem? → **Ljusbringaren (om Brödernas Grav klaras)**
-- Anders och Gretas hemliga samarbete — hur påverkar det spelarna om de upptäcker det?
+- Anders och Gretas hemliga samarbete (triggas av cirkulärbrevet dag 3) — hur påverkar det spelarna om de upptäcker det?
 - Befrias Broder Egil eller besegras han? (påverkar Anders/Gretas reaktion)
 
 ### Äventyrsfiler

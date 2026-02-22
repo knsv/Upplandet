@@ -113,7 +113,7 @@ Krokryggig gumma på 72 år med ögon skarpa som en örns och händer alltid fyl
 | **Brist** | Förakt för kyrkan gör henne oförsiktig |
 
 ### Hemlighet
-Mor Greta är inte häxa, men hennes mor var det. Hon ärvde kunskap men inte kraften. Hon vet hur man känner igen häxor - och hur man gömmer dem. Två gånger har hon hjälpt unga flickor fly innan inkvisitionen kom.
+Mor Greta är inte häxa, men hennes mor var det. Hon ärvde kunskap men inte kraften. Hon vet hur man känner igen flickor med Gåvan — inte genom magi utan genom erfarenhet: rastlöshet i händerna, hetta i blicken, samma tecken hon såg hos sin mor. Två gånger har hon hjälpt unga flickor fly innan Inkvisitionen kom. Hon odlar medvetet en mystisk aura ("Skogen berättade...") som skydd — folk som tror att hon vet allt lämnar henne ifred.
 
 ### Användning i spelet
 - Bättre helning än vanlig läkare
@@ -172,11 +172,15 @@ Ung man på 32 år med idealistiska ögon och oerfarna händer. Han skickades ti
 ### Hemlighet
 Fader Anders har börjat tvivla. Mor Gretas örter helar. Det Gamla Trädet verkar verkligen skydda byn. Jägareden fungerar. Han skriver ner sina tvivel i en dagbok som skulle förstöra honom om den hittades.
 
+### Relation till Mor Greta
+Offentligt: rivaler. Prästen som fördömer de gamla sederna mot den kloka kvinnan som utövar dem. Men under ytan finns en obekväm ömsesidig respekt. Anders vet att Gretas medicin fungerar bättre än hans böner. Greta vet att Anders inte är en fanatiker som de inkvisitorer hon sett förut. Under press (t.ex. om sällskapets öde står på spel) kan de samarbeta i hemlighet — men ingen av dem vill erkänna det.
+
 ### Användning i spelet
-- Representerar kyrkans närvaro (svag)
-- Hans tvivel kan göra honom till oväntad allierad
-- Moraliskt komplex präst, inte fanatiker
-- Kan utvecklas åt olika håll beroende på spelarna
+- Representerar kyrkans närvaro — men en kyrka i kris, inte en monolitisk makt
+- Hans tvivel gör honom till potentiell allierad *eller* fiende beroende på hur spelarna behandlar honom
+- **Inte en antagonist** — en man som pressas mellan plikt och samvete
+- Kan utvecklas: mot djupare tro, mot de gamla vägarna, eller mot pragmatisk allians med sällskapet
+- Nyckelscen: hans reaktion på cirkulärbrevet (session 4) definierar hans framtida roll
 
 ---
 

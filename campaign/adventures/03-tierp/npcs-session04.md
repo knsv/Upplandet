@@ -231,7 +231,7 @@ Sigrid är en spegel av Emma — samma gåva, samma rädsla, men yngre och utan 
 | Intellect | 2 |
 | Cunning | 2 |
 | Willpower | 1 |
-| Presence | 3 |
+| Presence | 2 |
 
 | Stat | Värde |
 |------|-------|
@@ -241,8 +241,11 @@ Sigrid är en spegel av Emma — samma gåva, samma rädsla, men yngre och utan 
 | Försvar (N/A) | 0/0 |
 
 ### Färdigheter
-- Charm 1 (🟢🟡🟡) — barnslig oskuld
+- Charm 1 (🟢🟡) — barnslig oskuld
 - Vigilance 2 (🟢) — ett alert, skrämt barn
+
+### Speciell egenskap
+- **Barnets oskuld:** 🟦 (boost-tärning) på Charm-slag som baseras på sympati eller empati
 
 ### Speciella förmågor — Okontrollerad magi
 
