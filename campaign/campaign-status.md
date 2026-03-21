@@ -1,8 +1,8 @@
 # Upplandet - Kampanjstatus
 
-**Senast uppdaterad:** Efter session 3 (22 februari 2026)
-**Nuvarande äventyr:** Tierps hemligheter (session 4, planeras)
-**Nästa session:** TBD
+**Senast uppdaterad:** Efter session 4 (22 februari 2026)
+**Nuvarande äventyr:** Tierps hemligheter (pågående — session 4 av uppskattningsvis 3)
+**Nästa session:** 8 mars 2026
 
 ---
 
@@ -23,9 +23,9 @@
 │         │                                                   │
 │         │ (Inkvisitionen som bakgrundshot)                  │
 │         ▼                                                   │
-│  [03] TIERPS HEMLIGHETER                                    │
-│         │  Stölder, Greta vs Anders, helning,              │
-│         │  Inkvisitionen, Brödernas Grav                   │
+│  [03] TIERPS HEMLIGHETER ←── PÅGÅENDE (session 4+)         │
+│         │  Helning ✓, stölder (pågår),                     │
+│         │  Greta vs Anders, Brödernas Grav (väntar)        │
 │         │                                                   │
 │         │ (Hook: Dannemora, Det som vaknade)                │
 │         ▼                                                   │
@@ -43,11 +43,11 @@
 |---|---------|--------|---------|-----------|
 | 01 | Döende Ljus | **Avslutat** | Öregrund, Fyrön | 2 |
 | 02 | Offerlunden | **Avslutat** | Kolvägen, Öregrund → Tierp | 1 |
-| 03 | Tierps hemligheter | **Förbered** | Tierp, Eskilsta, Gryttjom, Frebo, Hals, Munga | 2-3 |
+| 03 | Tierps hemligheter | **Pågående** | Tierp, Eskilsta, Gryttjom, Frebo, Hals, Munga | 2-3 (uppskattning) |
 | 04 | Det som vaknade i djupet | Planerad | Tierp, Dannemora | 3-4 |
 | — | Silvervägen | Förberedd (vilar) | Öregrund → Sigtuna | 2-3 |
 
-**Notering:** Kampanjens riktning har ändrats. Spelarna flydde Östhammar istället för att vänta på Inkvisitionens kallelse. Tierp-spåret (skogens krafter, Det som vaknade) är nu huvudriktningen. Inkvisitionen kvarstår som orosmoment. Silvervägen kan vävas in senare.
+**Notering:** Tierps hemligheter tog längre tid än planerat — session 4 täckte dag 1-2 av planerade dag 1-7. Social interaktion på värdshuset och byns dynamik tog mer speltid än förväntat. Stöldutredningen, cirkulärbrevet och Brödernas Grav väntar fortfarande.
 
 ---
 
@@ -55,14 +55,14 @@
 
 | Karaktär | Spelare | Klass | Sår | Belastning | XP | Anteckningar |
 |----------|---------|-------|-----|------------|-----|--------------|
-| Sören Larsson | Mattias | Tempelriddare | ~13/13 | 14/14 | 25 | Fullhälad. Silverspjutet offrat i lunden. Har svärd, sköld, ringbrynja |
-| Lusse | Per | Monsterjägare | ~7/14 | 14/14 | 25 | Allvarligt skadad (oförändrad under session 3) |
-| Finn | Fredrik | Skurk | ~4/12 | 14/14 | 25 | Allvarligt skadad (tog 2 sår av myrgast) |
+| Sören Larsson | Mattias | Tempelriddare | 13/13 | 14/14 | 33 | Fullhälad. Höjde Coercion. Har svärd, sköld, ringbrynja. Silverspjut offrat i lunden |
+| Lusse | Per | Monsterjägare | 12/12 | 14/14 | 33 | Fullhälad (via Emmas helande). Pilbåge stulen på värdshuset |
+| Finn | Fredrik | Skurk | ~8/12 | 14/14 | 33 | Helad +4 sår, stridsduglig men ej fullhälad. Knivar stulna på värdshuset |
 
 ### Resande
-- **Emma Brun** — Under sällskapets beskydd. Magiska förmågor. Kommunicerade med offerlunden. Mer pratsam efter lunden.
+- **Emma Brun** — Bor hos Mor Greta. Lär sig hela under Gretas handledning. Avslöjat: kan ge och ta liv. Första helningen gick snett (blått sken, "hunger"), men normaliserades. Greta korrigerar hennes instinkter.
 
-### XP-belöning Session 1
+### XP-belöning Session 1-2
 
 | Anledning | XP |
 |-----------|-----|
@@ -79,10 +79,52 @@
 | Sessionsbelöning | 10 |
 | **Totalt per spelare** | **10** |
 
-*Totalt hittills: 25 XP per spelare.*
+### XP-belöning Session 4
+
+| Anledning | XP |
+|-----------|-----|
+| Sessionsbelöning | 7 |
+| Bonus för bra rollspel | 1 |
+| **Totalt per spelare** | **8** |
+
+*Totalt hittills: 33 XP per spelare.*
 
 ## Nuvarande plats
-**Tierp** — Nyanlända. Såg Det Gamla Trädet vid ankomst.
+**Tierp** — Dag 2-3. Bor i kyrkan (utslängda från Skogens Krona). På väg till Björn Eriksson i Börde för att följa stöldspåren mot Frebo.
+
+---
+
+## Session 4: Skogens Krona (PÅGÅENDE)
+
+### Sammanfattning
+Sällskapet etablerade sig i Tierp. Helning hos Mor Greta — Emma avslöjades kunna ge och ta liv (blått sken vid helning). Greta korrigerar Emmas instinkter. Besökte Skogens Krona där Sören prutade ner rumspriset men skrämde bort gäster. Ida (värdens dotter) orsakade kaos genom nattliga besök, vilket ledde till utslängning och 30 silver i "straffavgift". Ulf Grönlöv gav uppdraget att hitta tjuven (50 silver + fri kost). Fader Anders försvarade sällskapet i predikan. Sören lade sig prostrat framför altaret och vann goodwill.
+
+### Nyckelutfall
+- Emmas krafter avslöjade: kan ge och ta liv, Greta lär henne kontroll
+- Greta: "Om jag bott i Sigtuna hade jag varit bränd på bål"
+- Sören höjde Coercion — hans predikningar funkar mekaniskt nu
+- Utslängda från Skogens Krona — bor nu i kyrkan
+- Stölduppdrag accepterat: 50 silver + fri kost + heder
+- Fotspår mot Frebo (Björn Eriksson)
+- Sörens triumf på Forbidden Knowledge — kopplade Ulf till Oden (offrat ett öga)
+- Lusses pilbåge och Finns knivar stulna under natten
+- Ljusen i skogen rör sig söderut (Greta bekräftar)
+
+### Filer
+- `sessions/session-04-summary.md` — Sessionssammanfattning
+- `sessions/session-04-transcript.md` — Transkript
+- `adventures/03-tierp/session-04-prep.md` — Sessionsförberedelse
+
+### Kvarstår från prep (ej nått i session 4)
+- [ ] Stöldutredning i Eskilsta och Gryttjom
+- [ ] Hitta Märta & Sigrid vid Frebo
+- [ ] Moraliskt val: hjälpa, ange eller blunda?
+- [ ] Cirkulärbrevet anländer (dag 3) — Anders vändpunkt
+- [ ] Anders konfrontation/ultimatum
+- [ ] Brödernas Grav (event ~90 min)
+- [ ] Gretas hemliga "tjänst"
+- [ ] Sörens bikt hos Anders
+- [ ] Lusses pilbåge och Finns knivar — var är de?
 
 ---
 
@@ -156,6 +198,7 @@ Sällskapet flydde Öregrund, gömde sig för inkvisitionsryttare, kämpade mot 
 - Berättade att hon känt en "dragning" som inte var hennes egen
 - Rötterna undvek henne (möjlig koppling till hennes kraft)
 - Mer pratsam efter lunden — frågade om hon skulle träffa Unge Bror igen
+- **Session 4:** Kan ge och ta liv (Gretas ord). Första helningsförsök blev "hunger" (blått sken, sår svartnade). Greta korrigerar: "Helande är att ge, inte ta." Emma accepterar gradvis — andra helningen gick bättre
 
 ### Politisk situation
 - Fader Daniel har skrivit till Inkvisitionen i Sigtuna
@@ -164,6 +207,7 @@ Sällskapet flydde Öregrund, gömde sig för inkvisitionsryttare, kämpade mot 
 - Sällskapets berättelse till myndigheterna är inkonsekvent
 - **Session 3:** Tre inkvisitionsryttare passerade sällskapet på vägen (korsridare i formation)
 - Sällskapet gömde sig men vet inte om ryttarna söker dem eller åker till Öregrund
+- **Session 4:** Cirkulärbrev förväntas nå Tierp (ej skett ännu i spelet)
 
 ---
 
@@ -177,7 +221,15 @@ Sällskapet flydde Öregrund, gömde sig för inkvisitionsryttare, kämpade mot 
 - Deposition: 30 silver (oklart om återbetald)
 - Förlorat till stråtrövare: ~900 silver (session 3)
 - Torkel gav tillbaka: 110 silver (session 3)
-- **Uppskattad kassa: ~210–260 silver**
+- Förlorat till värdshusvärlden: 30 silver (session 4, "straffavgift")
+- Logi Skogens Krona: 2 silver (session 4)
+- Erhållit från Ulf Grönlöv: 50 silver (session 4, förskott)
+- **Uppskattad kassa: ~230–280 silver**
+
+### Stulna/saknade föremål (session 4)
+- Lusses pilbåge och pilar — stulet från rummet på Skogens Krona
+- Finns knivar — stulet från rummet på Skogens Krona
+- Oklart vem som tog dem (värdshusvärlden? den riktiga tjuven?)
 
 ---
 
@@ -190,13 +242,20 @@ Sällskapet flydde Öregrund, gömde sig för inkvisitionsryttare, kämpade mot 
 | Johan Andersson | Fiskare | I stan | Båt återlämnad |
 | Remillard Brun | Fyrvaktare | Begravd på Fyrön | Begravd av sällskapet |
 | Baronens vakter (3) | Elitgardister | Döda på Fyrön | Ej begravda, baronen ska skicka folk |
-| Emma Brun | Tonårsflicka med magi | Reser med sällskapet | Under Sörens beskydd, ångerfullt |
+| Emma Brun | Tonårsflicka med magi | Hos Mor Greta i Tierp | Lär sig hela, kan ge/ta liv |
 | Livia (banshee) | Varelse av drivved/bark | Förstörd | Exploderade i mörk rök |
 | Fader Daniel | Präst | Öregrund | Misstänksam, skrev till Inkvisitionen |
 | Torkel Halvhand | Rövarledare | Kolvägen | Ex-soldat. Rånade sällskapet men gav silver till nytt spjut vid avsked |
 | Unge Bror | Rövare, 17 år | Kolvägen | Visade vänlighet mot Emma |
 | Nils Tyste | Rövare | Kolvägen | Försvann i skogen, räddades ur lundens grepp |
 | Kolare Evert | Kolarbetare | Utanför Tierp | Berättade om ljus i norra skogen |
+| Mor Greta | Helare, klok kvinna | Stuga vid skogskanten, Tierp | Helar sällskapet. Mentorskapar Emma. Bitter mot kyrkan. "Bränd på bål i Sigtuna" |
+| Fader Anders | Ung präst | Skogskyrkan, Tierp | Försvarade sällskapet i predikan. Orolig men inte fientlig (ännu) |
+| Ulf Grönlöv | Jägmästare, byns ledare | Tierp | Enögd (Sören kopplade till Oden — triumf). Gav stölduppdrag + 50 silver |
+| Henrik Bågskansen | Bonde, bestulen | Eskilsta | Arg, berusad, misstänksam. Bestulen tre gånger |
+| Ida | Värdens dotter | Skogens Krona, Tierp | Intresserad av Finn/Lusse. Orsakade kaos och utslängning |
+| Världshusvärlden | Värd, Skogens Krona | Tierp | Fientlig. Kastade ut sällskapet, tog 30 silver. Beskyddande av Ida |
+| Björn Eriksson | Bonde | Börde | Hittade fotspår mot Frebo (ej träffad ännu) |
 
 ---
 
@@ -208,49 +267,48 @@ Sällskapet flydde Öregrund, gömde sig för inkvisitionsryttare, kämpade mot 
 
 ## Kampanjens riktning
 
-### Huvudspår: Tierp och skogen
-Spelarna rör sig mot Tierp och de djupa skogarna. Den övernaturliga aktiviteten i skogen (offerlunden, döda träd, flyende djur) kopplar till **Det som vaknade i djupet** — urgamla krafter under Upplands berg som rört sig sedan gruvarbetarna i Dannemora bröt igenom en vägg.
+### Huvudspår: Tierp och stölderna
+Sällskapet har fått i uppdrag att utreda stölderna i Tierp-nejden. Spåren pekar mot Frebo. Detta ger dem legitimitet i byn och en väg att rentvå sig.
 
 ### Bakgrundshot: Inkvisitionen
 Inkvisitionen är ett pågående orosmoment:
 - Tre ryttare sågs på vägen (session 3) — på väg till Öregrund
-- Om sällskapet blev sedda av någon i Öregrund: Inkvisitionen kan följa efter till Tierp
+- Cirkulärbrev på väg till alla prästgårdar — ännu ej anlänt till Tierp i spelet
 - Sörens lojalitetskonflikt (tempelriddare som flyr sin orden) — förvärrad av lunden
 - Fader Anders i Tierp — mottar cirkulärbrevet dag 3, tvingas välja mellan plikt och samvete
 
-### Sörens troskris (NY — session 3)
-I offerlunden upptäckte Sören att hans böner absorberades men inte besvarades. Platsen var "äldre än hans Gud — inte ond, bara likgiltig." Han offrade sitt silverspjut på ett hedniskt altare. Mattias noterade att Sören behöver bikta sig för Fader Anders.
+### Sörens troskris (session 3-4, pågående)
+I offerlunden offrade Sören sitt silverspjut på ett hedniskt altare. Bönerna absorberades men besvarades inte. I session 4 fördjupades krisen: han valde kompisarna framför kvällsbön, kunde inte be koncentrerat under sin vakt, och Gretas helande utan Gud utmanar hans världsbild. Han höjde Coercion — hans "predikningar" är nu mer tvång än tro.
 
 ### Emmas utvecklingsbåge
 Emmas krafter eskalerar gradvis:
 - Session 2: Ånger, korstecken, vill omvändas
 - Session 3: Kommunicerade med offerlunden, ögon blev svarta, kände "hunger" som inte var hennes
-- Session 3: Mer pratsam efter lunden, frågade om Unge Bror
-- Framtida: Mor Greta i Tierp kan hjälpa — eller utnyttja — henne
+- Session 4: Avslöjat att hon kan ge och ta liv. Greta lär henne kontroll. Första försöket misslyckades (hunger), andra gången fungerade
 
-### Finns misstro mot Emma (NY — session 3)
-Finn knuffade Sören bort från Emma i lunden och hävdade att hon "försöker förtrolla" honom. En ny spänning inom sällskapet.
+### Finns utvecklingsbåge (NY — session 4)
+Finn har existentiella tankar efter nära döden-upplevelsen. Under sin vakt reflekterade han över sitt liv som skurk. "Är det här livet jag lever nu, det jag vill?" Hans munläder var inte lika smort som förr (missade i samtalet med Henrik). Ida väckte tankar om en annan framtid. Samtidigt somnade han på vakt och sällskapets grejer stals — verkligheten biter tillbaka.
 
 ### Anteckningar för spelledaren
 
-**Nästa session (session 4 — Tierps hemligheter):**
-- Helning hos Mor Greta — Emma lär sig hela (dag 1-5)
-- Stöldutredning — Märta Frisk och dottern Sigrid gömmer sig vid Frebo
-- Sörens bikt — tryckt från Greta, Anders, mardrömmar och Emma
-- Greta vs Fader Anders — byn splittras
-- Inkvisitionens cirkulärbrev — anländer dag 3 via handlare, Anders vändpunkt
-- Bybor kan koppla ihop sällskapet med beskrivningen om Anders läcker information
-- **Brödernas Grav** — prövning i gammal ruin (se nedan)
+**Nästa session (session 5):**
+- Stöldutredning: Björn Eriksson i Börde → Eskilsta → Gryttjom → Frebo
+- Hitta Märta & Sigrid — moraliskt val som speglar Emmas situation
+- Cirkulärbrevet anländer (dag 3) — Anders vändpunkt
+- Gretas hemliga "tjänst" — vad vill hon?
+- Anders konfrontation/ultimatum → Brödernas Grav
+- Lusses pilbåge & Finns knivar — olöst subplot (var det tjuven Märta, eller världshusvärlden?)
+- Sörens bikt (om spelaren väljer det)
 
 **Förberett event: Brödernas Grav (~90 min)**
-Fader Anders och Mor Greta samarbetar i hemlighet för att testa sällskapet. Anders vill veta om de är häxjägare eller häxvänner; Greta vill se om de är värdiga att vistas i hennes by. De leder sällskapet till en gammal ruin i skogen — en hednisk helgedom som kristna munkar ("Ljusets Bröder") försökte rena för ~200 år sedan.
+Fader Anders och Mor Greta samarbetar i hemlighet för att testa sällskapet. De leder sällskapet till en gammal ruin i skogen.
 
 *Struktur:*
 1. **Portens Prov** — Discipline-slag (fear) vid ingången
-2. **Fällgången** — Tre fällor: klyfta (Athletics/rep), dubbelknappar (Coordination + Resilience/Discipline), och giftgas (Perception → Survival/Athletics)
-3. **Gåtans Kammare** — Gåta på latin om Tro, Mod och Sanning (riktig gåta för spelarna)
-4. **Väktaren** — Broder Egil, Stenriddaren (Rival, 18 wounds, Soak 6). Kan besegras eller befrias
-5. **Skattkammaren** — Tre artefakter som belöning
+2. **Fällgången** — Tre fällor
+3. **Gåtans Kammare** — Gåta på latin
+4. **Väktaren** — Broder Egil, Stenriddaren (Rival)
+5. **Skattkammaren** — Tre artefakter
 
 *Artefakter:*
 | Artefakt | Mottagare | Typ | Nyckeleffekt |
@@ -259,37 +317,21 @@ Fader Anders och Mor Greta samarbetar i hemlighet för att testa sällskapet. An
 | Jägarens Öga | Lusse | Amulett | 🟦 Perception + 🟦 strid mot övernaturliga |
 | Skuggklingan | Finn | Dolk (Melee Light) | Brawn+2, Krit 2, Accurate 1, Pierce 1 |
 
-*Filer:* `adventures/03-tierp/event-brodernas-grav.md`, `characters/npcs/npc-broder-egil-Eg1lSt3nR1dd4r3n.json`
-
-**Nya NSC:er:**
-| NSC | Roll | Plats |
-|-----|------|-------|
-| Märta Frisk | Mor som gömmer magisk dotter, tjuv av nöd | Kolarstuga vid Frebo |
-| Sigrid Frisk | 10-årig flicka med okontrollerad magi | Med Märta |
-| Henrik Bågskansen | Bonde, bestulen, misstänksam mot sällskapet | Eskilsta |
-| Gunnar Fors | Flottare, förlorat en båt | Gryttjom |
-| Broder Egil, Stenriddaren | Stenvakt i Brödernas Grav (Rival) | Ruin i skogen |
-
 **Aktiva hot:**
-- Inkvisitionen — tre ryttare i Öregrund, kan följa spåret
-- Emmas krafter eskalerar — vad händer vid nästa magisk kontakt?
-- Ljus i norra skogen — vad är det? (kolarbetaren Evert)
+- Inkvisitionen — tre ryttare i Öregrund, cirkulärbrev på väg
+- Emmas krafter eskalerar — men Greta lär henne kontroll
+- Ljus i norra skogen rör sig söderut
 - Det som vaknade i djupet (bakgrundshot kopplat till Dannemora)
-- Sällskapet är misstänkta för stölder i Tierp-nejden
-- Fader Anders mottar cirkulärbrev från biskopen dag 3 — vändpunkt som triggar Anders/Greta-samarbete och Brödernas Grav
+- Sällskapet misstänkta för stölder — rentvås om de löser uppdraget
+- Världshusvärlden fientlig — kan läcka info om Inkvisitionen kommer
 
-**Nya frågor efter session 3:**
-- Mor Greta — kan hon hjälpa Emma?
-- Ulf Grönlöv — hans hemligheter om skogen
-- Fader Anders — ung tvivlande präst, pressas av cirkulärbrevet, hemlig allians med Greta
-- Det Gamla Trädet — hedniska seder mitt i Tierp
-- Vad händer om Sören biktar lund-offret?
-- Finns misstro mot Emma — hur utvecklas den?
-- Vad händer med Märta och Sigrid? (beroende av spelarnas val)
-- Svarar Anders på cirkulärbrevet eller bränner han det?
-- Hur löser Sören sitt silvervapenproblem? → **Ljusbringaren (om Brödernas Grav klaras)**
-- Anders och Gretas hemliga samarbete (triggas av cirkulärbrevet dag 3) — hur påverkar det spelarna om de upptäcker det?
-- Befrias Broder Egil eller besegras han? (påverkar Anders/Gretas reaktion)
+**Nya frågor efter session 4:**
+- Vem stal Lusses pilbåge och Finns knivar? (Märta? Världshusvärlden? Ida?)
+- Gretas hemliga "tjänst" — kopplar den till Brödernas Grav?
+- Hur reagerar spelarna på Märta & Sigrid — ännu ett magiskt barn?
+- Sörens troskris — Coercion höjd, böner fungerar inte. Vart leder det?
+- Finns nya livsfunderingar — lämnar han skurklivet?
+- Ulf Grönlöv och Oden-kopplingen — vad döljer han?
 
 ### Äventyrsfiler
 

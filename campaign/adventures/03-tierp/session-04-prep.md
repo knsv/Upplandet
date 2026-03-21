@@ -104,11 +104,11 @@ Tämnarån rinner genom nejden och är livpulsådern för handel. Säd och timme
 
 *Sällskapet har sett Det Gamla Trädet och är inne i byn.*
 
-- Lusse: ~7/14 sår — allvarligt skadad
+- Lusse: ~7/12 sår — allvarligt skadad
 - Finn: ~4/12 sår — allvarligt skadad
 - Sören: hel men utan silverspjut (se **Referens: Troskris-situationen**)
 - Emma: oskadd men förändrad efter offerlunden
-- Kassa: ~210–260 silver
+- Kassa: ~245 silver
 
 ### Var söker de hjälp?
 
@@ -119,12 +119,60 @@ Fader Anders tar emot dem vänligt. Han kan erbjuda:
 - Böner och välsignelser (ingen mekanisk effekt)
 - Ingen riktig läkekonst
 
-> "Guds vilja helar de rättfärdiga. Men sårens djup... jag är präst, inte läkare. Det finns en kvinna i byn som folk går till. Mor Greta. Men jag varnar er — hennes metoder är inte av Gud."
+> *Anders reser sig från knäbänken när dörren öppnas. Ljuset från de få talgljusen fladdrar.*
+>
+> **"Pax vobiscum."** *Han gör korstecknet.* **"Fred vare med er."**
+>
+> *Han ser på dem — rustningen, såren, flickan.*
+>
+> **"Benedicite, resande. Guds hus står öppet för alla som söker skydd. Jag är Anders, Guds ringaste tjänare i denna församling."**
+>
+> *Han pekar mot en bänk.*
+>
+> **"Sitta. Vila. Ni bär märken av prövning — det syns på era ansikten lika väl som på era kroppar."**
+>
+> *Han hämtar en tillbringare med vatten och en brödbricka.*
+>
+> **"Kyrkans gästrätt är helig — *hospitium sacrum*. Mat och tak kan jag erbjuda. Men era sår..."** *Han tveksamt betraktar Lusses skador.* **"...jag kan be för er, och bönen har kraft, det tvivlar jag inte på. Men Herrens vilja verkar genom olika händer."**
+>
+> *En paus. Han väljer sina ord.*
+>
+> **"Det finns en kvinna vid skogskanten. Mor Greta. Folk går till henne med det som böner inte botar. Hennes metoder är inte... av kanonisk ordning. Men jag vore en dålig herde om jag lät mina får lida av stolthet."**
+>
+> *Han gör korstecknet igen, nästan reflexmässigt.*
+>
+> **"*Dominus providebit* — Herren skall försörja. Berätta nu: varifrån kommer ni, och vad driver er till Tierps socken?"**
 
 *Anders noterar om Emma är med — en ung flicka i sällskap med beväpnade män.*
 
+**Anders latinska fraser — snabbreferens vid bordet:**
+
+| Situation | Anders säger |
+|-----------|-------------|
+| Välsignelse | *"In nomine Patris, et Filii, et Spiritus Sancti"* |
+| Tack/godkännande | *"Deo gratias"* — Gud vare tack |
+| Lovprisning | *"Laudetur Deus"* — Lovad vare Gud |
+| Förvåning/oro | *"Domine, miserere"* — Herre, förbarma dig |
+| Avsked/god natt | *"Pax Christi sit semper vobiscum"* — Kristi frid vare alltid med er |
+| Vid måltid | *"Benedic, Domine, nos et haec tua dona"* — Välsigna oss, Herre, och dessa dina gåvor |
+| När han tvivlar (till sig själv) | *"Da mihi intellectum"* — Ge mig förstånd |
+| Om Emma frågas om | *"Flickan... har hon konfirmerats? Har hon döpts i den rätta ordningen?"* |
+
 **Alternativ B: Skogens Krona (värdshuset)**
-Värden hänvisar dem direkt till Greta:
+
+> *Skogens Krona är mer ladugård än värdshus — lågt i tak, tjärade timmerväggar, lukt av rök och sur öl och vått ull. Viltskinn hänger över bjälkarna: varg, lodjur, en björnfäll så stor att den täcker halva väggen. Under den sitter en man och sover med huvudet på bordet.*
+>
+> *Värmen slår emot er som en vägg. En eld sprakar i den öppna härden mitt i rummet — inget skorstenshus, bara ett hål i taket där röken letar sig ut. Eller inte. Ögonen svider.*
+>
+> *Vid disken, som är en planke lagd över två tunnor, står värden — en rundlagd man med rött skägg och händer som en björns. Han torkar en trämugg med en trasa som är smutsigare än muggen.*
+>
+> *Sex, sju man sitter utspridda. Kolarbetare med sotiga ansikten. En jägare med en hund under bänken. Två bönder som pratar tyst. Alla tittar upp när dörren öppnas. Alla tittar på era vapen. Alla tittar på Emma.*
+>
+> *Det blir tyst i kanske tre hjärtslag. Sedan vänder de sig tillbaka till sina muggar. Men värden ser fortfarande på er.*
+>
+> "Resande? I oktober?" *Han lägger trasan över axeln.* "Sällan vi ser beväpnat folk som inte bär kungens färger. Öl eller brännvin? Maten är kåldolmar och vad som finns."
+
+Om de frågar om en helare:
 
 > "Greta? Ja, hon bor vid skogskanten. Följen stigen förbi kolmilorna. Men ta med er något — hon tar inte silver. Honung, tyg, eller en tjänst."
 
@@ -157,9 +205,9 @@ Om någon nämner att de behöver en helare pekar alla åt samma håll.
 
 Greta arbetar metodiskt. Örter, omslag, avkok. **Mekaniskt (Physician-talent: +1 sår/dag, totalt 2/dag):**
 
-- Lusse +2 (9/14), Finn +2 (6/12)
+- Lusse +2 (9/12), Finn +2 (6/12)
 
-*Greta prioriterar den svårast skadade (Finn) och den med mest infektionsrisk (Lusse) lika. Fyra dagars behandling för båda.*
+*Greta prioriterar den svårast skadade (Finn) och den med mest infektionsrisk (Lusse) lika. Tre dagars behandling för Lusse, fyra för Finn.*
 
 **Emma dag 1** (om spelarna tillåtit mentorskap, se nedan):
 > Emma sitter bredvid Lusse och byter omslag. Hennes händer darrar. Greta korrigerar hennes grepp: "Inte så hårt. Känn värmen. Led den."
@@ -206,13 +254,51 @@ Senare, när de skadade vilar, tar Greta Sören åt sidan:
 >
 > *Pause. Låt spelarna reagera. Detta är ett ögonblick, inte ett slag.*
 
+### Natt
+
+> *Var sover de?*
+> - Lusse och Finn hos Greta (de skadade kan inte flyttas)
+> - Sören och Emma: Gretas stuga (trångt), Skogens Krona (3 silver/natt), eller kyrkans gästkammare (gratis)
+
+> *Oktober-natten kryper in. Frosten lägger sig vit över taken. Från skogen hörs vargar — inte nära, men inte långt bort heller. Kolmilorna glöder som röda ögon i mörkret.*
+>
+> *Den som vakar sent — Perception (Lätt) — hör Det Gamla Trädet. Inte ord. Mer som ett långsamt andetag i marken, en vibration som känns i bröstkorgen snarare än hörs. Det upphör vid gryningen.*
+
+Om Emma sover hos Greta:
+> *Emma vaknar mitt i natten. Svettig. Greta sitter redan vaken vid elden, som om hon väntade.* "Mardröm?" *Emma skakar på huvudet.* "Inte mardröm. Hon ville prata med mig." *Hon säger inget mer.*
+
+*SL-notering: "Hon" är den urgamla kraften — samma som i offerlunden. Emma behöver inte förklara. Låt det hänga.*
+
+Om Sören sover på värdshuset:
+> *Värdshuset tystnar sent. Den siste kolarbetaren raglar ut. Värden släcker ljusen utom ett. Sören ligger på en halmbädd på loftet — det luktar djur och gammal öl. Björnfällen på väggen nedanför stirrar med tomma ögonhålor i skenet.*
+>
+> *Genom plankgolvet hörs råttor. Genom väggen hörs skogen. Och någonstans — långt bort eller djupt nere — den där vibrationen. Samma som vid offerlunden. Inte ett ljud. Mer som marken minns något.*
+
+**Fråga Mattias:** "Sören ligger vaken på ett värdshus i en by med ett hedniskt träd mitt på torget. Han har inget silverspjut längre. Anders bad ensam i kyrkan ikväll. Vad tänker Sören?"
+
 ---
 
 ## Dag 2: Stölder och friktion — SESSION 4a
 
+### Morgon
+
+> *Dag 2 vaknar kallare än den första. Rimfrost på marken. Solen kämpar sig upp bakom trädtopparna men ger ingen värme.*
+>
+> *Vid Gretas stuga är röken redan tät från skorstenen. Greta har kokat avkok sedan gryningen. Lusse och Finn ser bättre ut — färgen återvänder, febern har sjunkit. Men Greta skakar på huvudet åt den som frågar.*
+>
+> "Bättre är inte bra. Två dagar till, minst." *Hon sträcker sig efter en kruka.* "Gör er nyttiga. Ved behövs. Och brunnen har frusit — någon får hacka is."
+
+Om sällskapet hjälper (inga slag — vardagsarbete):
+
+> *Medan ni hugger ved och bär vatten ser ni Tierp vakna. Barn springer till kolmilorna med matpaket. En bonde driver kor längs stigen. Fader Anders går mot kyrkan med en bok under armen — han nickar kort åt er men stannar inte.*
+>
+> *Emma sitter redan inne hos Greta. Omslag, avkok, tysta instruktioner. Det är inte dramatiskt — det är arbete. Men Emmas händer darrar mindre idag.*
+
+*SL-notering: Morgonen är lugn med flit. Låt spelarna bestämma vad de gör — hjälpa Greta, utforska byn, gå till värdshuset. Henrik-konfrontationen sker senare, troligen efter middag när han druckit sig till mod.*
+
 ### Helning dag 2
 
-- Lusse +2 (11/14), Finn +2 (8/12)
+- Lusse +2 (11/12), Finn +2 (8/12)
 
 ### Emma dag 2 — FRIKTIONSSCEN
 
@@ -255,7 +341,7 @@ Henrik är berusad och arg. Hans bror Olof försöker lugna honom utan framgång
 | Charm/övertyga | Genomsnittlig (🟣🟣). Framgång: Henrik backar. Fördel: Någon annan i rummet stöder dem |
 | Hotelse        | Coercion Lätt — men bekräftar misstankarna. ⬛ på alla sociala slag i byn framöver |
 | Ignorera       | Henrik sprider rykten. Dag 3 är halva byn fientlig |
-| Berätta varifrån de kommer | Riskabelt — "Östhammar" väcker fler frågor om Inkvisitionen |
+| Berätta varifrån de kommer | Riskabelt — "Öregrund" väcker fler frågor om Inkvisitionen |
 
 ### Ulf Grönlöv erbjuder en utväg
 
@@ -275,7 +361,7 @@ Ulf är pragmatisk. Han tror inte att sällskapet är tjuvarna — men han ser e
 
 | Fråga | Ulfs svar |
 |-------|-----------|
-| Vad har stulits? | Säd, torkad fisk, verktyg, tyg, lite silver från kyrkan |
+| Vad har stulits?  | Säd, torkad fisk, verktyg, tyg, lite silver från kyrkan |
 | Hur länge? | Tre, fyra veckor. Långt innan ni kom, ja |
 | Misstänkta? | "Folk pratar om Greta. Det är skitsnack. Och nu pratar de om er. Också skitsnack." |
 | Mönster? | Eskilsta och Gryttjom drabbas mest. Alltid nattetid |
@@ -284,7 +370,9 @@ Ulf är pragmatisk. Han tror inte att sällskapet är tjuvarna — men han ser e
 
 ### Utredningen börjar
 
-Sällskapet kan nu börja utreda stölderna. Se **Referens: Utredningen** för alla ledtrådar, platser och det falska spåret (Grim Kolsson). Eskilsta och Gryttjom kräver halvdagsresor.
+Sällskapet kan nu börja utreda stölderna. Se **Referens: Utredningen** för alla ledtrådar, platser och det falska spåret (Grim Kolsson).
+
+*Timing-notering: Eskilsta och Gryttjom kräver halvdagsresor. Dag 2 är redan händelserik (Henrik, Ulf, friktionsscen). Realistiskt hinner sällskapet börja med lokala frågor i Tierp på dag 2 — resorna till Eskilsta/Gryttjom passar bättre på dag 3 (parallellt med cirkulärbrevets ankomst).*
 
 ### Fader Anders — orolig herde (valfritt)
 
@@ -312,7 +400,7 @@ Om sällskapet frågar Greta om ljusen som kolaren Evert berättade om:
 
 ### Helning dag 3
 
-- Lusse +2 (13/14), Finn +2 (10/12)
+- Lusse +1 (12/12 — fullhälad), Finn +2 (10/12)
 
 **Emma dag 3:**
 > Emma lägger handen på Finns panna. Annorlunda nu — handen öppen, inte gripande. Långsammare. Han rycker till — men febern sjunker. Ingen kyla, ingen svärta. Första gången Emma helar utan att *ta*.
@@ -331,7 +419,7 @@ En handlare från Gryttjom levererar post till Skogskyrkan — bland breven finn
 
 > *Cirkulärbrev från Biskop Marcus Lindqvist, Sigtuna:*
 >
-> *"Till alla prästgårdar i Upplands stift — Tre personer eftersöks av Inkvisitionen. Två män och en kvinna, i sällskap med en ung flicka. De flydde förhör i Östhammar rörande misstänkt häxeri. Beskrivning: en stor man med ringbrynja och kors (tempelriddare?), en smal man med långbåge, en tredje med kniv och snabba ögon. Flickan är 14–15 år, mörkhårig, tystlåten.*
+> *"Till alla prästgårdar i Upplands stift — Tre personer eftersöks av Inkvisitionen. Tre män i sällskap med en ung flicka. De flydde förhör i Öregrund rörande misstänkt häxeri. Beskrivning: en stor man med ringbrynja och kors (tempelriddare?), en smal man med långbåge, en tredje med kniv och snabba ögon. Flickan är 14–15 år, mörkhårig, tystlåten.*
 >
 > *Om de påträffas: sänd bud till Sigtuna omedelbart. Inhysande utan rapportering betraktas som medhjälp."*
 
@@ -388,9 +476,9 @@ Anders och Greta har en komplicerad relation. Offentligt är de rivaler — prä
 
 ## Dag 4: Sanningen och ultimatumet — SESSION 4a SLUT
 
-### Helning dag 4 — alla helbredade
+### Helning dag 4 — Finn helbredad
 
-- Lusse +1 (14/14 — fullhälad), Finn +2 (12/12 — fullhälad)
+- Finn +2 (12/12 — fullhälad)
 
 ### Emmas milstolpe
 
@@ -424,7 +512,7 @@ Se `event-brodernas-grav.md` för fullständigt event (~90–120 min).
 
 En flottare från Gryttjom berättar — oberoende av brevet — om inkvisitionsryttarna:
 
-> "Tre ryttare i svart har frågat efter en grupp resande i Öregrund. Två män och en kvinna, med en ung flicka. De rider söderut nu, men folk säger att de skickade brev till alla prästgårdar längs kusten."
+> "Tre ryttare i svart har frågat efter en grupp resande i Öregrund. Tre män med en ung flicka. De rider söderut nu, men folk säger att de skickade brev till alla prästgårdar längs kusten."
 
 **Innebörden:**
 - Inkvisitionen söker aktivt — cirkulärbrevet var inte tomt papper
@@ -470,7 +558,7 @@ Om Anders svar skickas tar det:
 
 **Bakgrund:** I offerlunden offrade Sören sitt silverspjut på ett hedniskt altare. Bönerna absorberades men besvarades inte. Platsen var "äldre än hans Gud — inte ond, bara likgiltig."
 
-**Mekanisk effekt:** Sören har **⬛ (setback-tärning) på Discipline-slag** tills situationen löses. Motivering: upplevelsen i lunden skakar den andliga grunden — hur det påverkar Sören avgör Mattias.
+**Mekanisk effekt (förslag till Mattias):** Om Mattias anser att troskris-upplevelsen påverkar Sörens disciplin, lägg till **⬛ (setback-tärning) på Discipline-slag** tills situationen löses. Upplevelsen i lunden skakar den andliga grunden — men graden av påverkan avgör Mattias som Sörens spelare.
 
 **Situationer som kan trigga reaktion (SL presenterar, spelaren avgör):**
 - **Det Gamla Trädet (dag 1):** Byborna lägger gåvor vid rötterna — blommor, mat, träfigurer. En hednahelgedom mitt i byn. En tempelriddare bör ha en åsikt om detta. *Fråga Mattias: hur reagerar Sören?*
@@ -485,7 +573,7 @@ Om Anders svar skickas tar det:
 | **Bikt hos Anders** (före cirkulärbrevet) | Spelaren väljer att söka bikten, Anders ger genuint stöd | ⬛ försvinner. Band mellan Sören och Anders |
 | **Brödernas Grav** | Prövningen testar tro direkt — om Sören klarar den | ⬛ försvinner. Stärkt tro, men bredare |
 | **Samtal med Emma** | Emma frågar varför Sören bad i lunden fast "det inte fungerade" | ⬛ försvinner om spelaren formulerar ett ärligt svar |
-| **Ingen resolution** | Situationen fortgår | ⬛ kvarstår till framtida session |
+| **Ingen resolution** | Situationen fortgår | ⬛ kvarstår till framtida session (om den tillämpades) |
 
 ---
 
@@ -768,7 +856,7 @@ Om sällskapet inte tar sig an utredningen, eller om den tar för lång tid:
 |-----|-----------|
 | 1 | Ankomst, söka hjälp, Greta, helning börjar |
 | 2 | Henrik konfrontation, Ulf ger uppdraget, utredning börjar, friktionsscen Emma |
-| 3 | Utredning (Eskilsta/Gryttjom). **Cirkulärbrevet anländer** — Anders vändpunkt. Predikan kväll |
-| 4 | Finna Märta & Sigrid, moraliskt val. Alla helbredade. Anders ultimatum → **CLIFFHANGER** |
+| 3 | Lusse helbredad. Utredning (Eskilsta/Gryttjom). **Cirkulärbrevet anländer** — Anders vändpunkt. Predikan kväll |
+| 4 | Finna Märta & Sigrid, moraliskt val. Finn helbredad. Anders ultimatum → **CLIFFHANGER** |
 | 5 | Brödernas Grav. Nyheter om inkvisitionsryttare |
 | 6–7 | Lösning — beroende på spelarnas val |

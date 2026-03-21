@@ -44,7 +44,7 @@ Henrik är en robust bonde i fyrtioårsåldern med breda axlar och röda kinder 
 - **Durable:** Minskar alla kritiska skador med 10
 
 ### Utrustning
-- Yxa (Melee Light; Skada 6; Kritisk 3)
+- Yxa (Melee Light; Skada 5; Kritisk 3; Vicious 1)
 - Bondekläder
 - Brännvinsflaska
 
@@ -179,9 +179,9 @@ Hon är inte en brottsling av natur. Hon är en mamma som gör vad som krävs. H
 
 ### Färdigheter
 - Deception 2 (🟢🟡🟡)
-- Stealth 2 (🟢🟡)
+- Stealth 2 (🟡🟡)
 - Survival 2 (🟢🟡🟡)
-- Skulduggery 1 (🟢🟡🟡)
+- Skulduggery 1 (🟡🟢🟢)
 - Vigilance 2 (🟢🟡🟡)
 
 ### Talanger
@@ -242,7 +242,7 @@ Sigrid är en spegel av Emma — samma gåva, samma rädsla, men yngre och utan 
 
 ### Färdigheter
 - Charm 1 (🟢🟡) — barnslig oskuld
-- Vigilance 2 (🟢) — ett alert, skrämt barn
+- Vigilance 2 (🟡🟢) — ett alert, skrämt barn
 
 ### Speciell egenskap
 - **Barnets oskuld:** 🟦 (boost-tärning) på Charm-slag som baseras på sympati eller empati

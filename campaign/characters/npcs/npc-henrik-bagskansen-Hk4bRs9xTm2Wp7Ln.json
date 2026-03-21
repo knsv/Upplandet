@@ -350,7 +350,7 @@
         "container": "",
         "quantity": 1,
         "state": "carried",
-        "baseDamage": 3,
+        "baseDamage": 2,
         "critical": 3,
         "range": "engaged",
         "skills": [

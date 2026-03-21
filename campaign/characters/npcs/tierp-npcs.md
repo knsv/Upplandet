@@ -88,10 +88,10 @@ Krokryggig gumma på 72 år med ögon skarpa som en örns och händer alltid fyl
 - Deception 2 (🟢🟢🟡🟡)
 - Discipline 2 (🟢🟢🟡🟡)
 - Knowledge (Forbidden) 2 (🟢🟡🟡)
-- Knowledge (Lore) 3 (🟢🟡🟡)
-- Medicine 3 (🟢🟡🟡)
+- Knowledge (Lore) 3 (🟡🟡🟡)
+- Medicine 3 (🟡🟡🟡)
 - Perception 2 (🟢🟢🟡🟡)
-- Survival 2 (🟢🟡🟡)
+- Survival 2 (🟡🟡🟢🟢)
 
 ### Talanger
 - **Physician:** Patienter helar +1 sår per dag

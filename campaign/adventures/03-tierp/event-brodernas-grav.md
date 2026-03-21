@@ -217,7 +217,7 @@ Om en knapphållare **svimmar av strain** (tar ut all strain) släpps knappen oc
 - **Triumf på sving:** Landar elegant, hittar dessutom en gammal munk-dagbok vid mekanismen (se *Fynd* nedan).
 
 **Fynd (valfritt, vid Triumf eller efter korsning):**
-En liten dagbok i ett stenskåp vid bromekanismen. Skriven av Broder Marcus, en av munkarna:
+En liten dagbok i ett stenskåp vid bromekanismen. Skriven av Broder Tomas, en av munkarna:
 
 > *"Broder Egil har bett oss gå. Han säger att han stannar vid den sista dörren. Att hans ed kräver det. Vi försökte övertala honom, men hans tro är starkare än vår. Må Gud förlåta oss att vi lämnade honom."*
 
@@ -316,7 +316,7 @@ Egil annonserar sig — sällskapet är inte överraskade. **Initiativ: Cool (Pr
 | Försvar (närstrid) | 1 |
 | Försvar (avstånd) | 1 |
 
-**Färdigheter:** Melee (Heavy) 3, Resilience 3, Discipline 3
+**Färdigheter:** Melee (Heavy) 3, Resilience 3, Discipline 3, Athletics 1
 
 **Vapen — Stennävar:**
 
@@ -353,7 +353,7 @@ Sällskapet kan välja att **befria** Broder Egil istället för att bara slå n
 **Steg 1 — Nå honom:**
 Om en karaktär ber en uppriktig bön för Egils själ, talar till honom med medkänsla, eller påminner honom om hans bröder:
 - Discipline (Svår ◆◆◆, eller Medel ◆◆ om Egil tagit 9+ sår)
-- **Framgång:** Egil stannar upp i 1 runda, sänker sina stennävar. Hans ögon flimrar. *"Broder... Marcus? Är ni tillbaka?"*
+- **Framgång:** Egil stannar upp i 1 runda, sänker sina stennävar. Hans ögon flimrar. *"Broder... Tomas? Är ni tillbaka?"*
 
 **Steg 2 — Övertyga:**
 - Charm, Leadership eller Cool (Svår ◆◆◆, eller Medel ◆◆ om Egil tagit 9+ sår)
