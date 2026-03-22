@@ -12,18 +12,18 @@
       "willpower": 1,
       "presence": 1
     },
-    "soak": 2,
+    "soak": 3,
     "defense": {
       "melee": 0,
       "ranged": 0
     },
-    "description": "<p><b>Svagare skuggvargar, minion-version.</b> Samma övernaturliga natur som de starkare skuggvargarna men yngre och svagare.</p><p><b>Speciell förmåga: Skuggkropp</b> — Halverar skada från icke-silvervapen (avrunda uppåt). Eld gör full skada.</p><p><b>Rekommenderat:</b> 3 st i en grupp.</p>",
+    "description": "<p><b>Skuggvargar (minion-grupp).</b> Övernaturliga rovdjur.</p><p><b>Terrifying 1:</b> Discipline Lätt vid första synen.</p><p><b>Silver Anathema:</b> Tar +2 skada från alchemiskt silver.</p><p><b>Rekommenderat:</b> 3 st i en grupp.</p>",
     "source": "Tierps hemligheter — Session 4",
     "superCharacteristics": [],
     "groupSize": 3,
     "wounds": {
       "value": 0,
-      "threshold": 5
+      "threshold": 4
     },
     "motivations": {
       "strength": {
@@ -239,11 +239,11 @@
       }
     },
     {
-      "name": "Skuggbett",
+      "name": "Käftar",
       "type": "weapon",
       "img": "icons/svg/mystery-man.svg",
       "system": {
-        "description": "<p>Övernaturligt bett av mörker.</p>",
+        "description": "<p>Skuggvargsbett.</p>",
         "source": "",
         "rarity": 0,
         "encumbrance": 0,
@@ -253,12 +253,19 @@
         "quantity": 1,
         "state": "carried",
         "baseDamage": 2,
-        "critical": 4,
+        "critical": 3,
         "range": "engaged",
         "skills": [
           "Brawl"
         ],
-        "qualities": [],
+        "qualities": [
+          {
+            "name": "vicious",
+            "rating": 1,
+            "description": "",
+            "isRated": true
+          }
+        ],
         "damageCharacteristic": "brawn"
       },
       "effects": [],

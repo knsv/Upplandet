@@ -73,6 +73,7 @@ campaign/
 - `genesys-rpg` - För regelfrågor och tärningsmekanik
 - `upplandet-campaign` - För kampanjhantering
 - `summarizer` - För att skriva sessionssammanfattningar dvs summera spelsessioner.
+- `session-redteam` - Red Team-granskning av sessionsmaterial innan spel. Hitta hål, brister och risker.
 
 ## Viktiga påminnelser
 

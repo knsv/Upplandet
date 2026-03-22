@@ -343,16 +343,31 @@ Skogsfrun är det sista av sitt slag. De andra dog i Katastrofen eller dödades 
 - **Roll:** Minns allt som hänt i byn de senaste 70 åren
 
 ### Skuggvarg
-**Typ:** Minion (grupp om 4)
+**Typ:** Minion (grupp om 3)
 **Roll:** Övernaturliga vargar som jagar efter mörkrets inbrott
 
 | Brawn | Agility | Intellect | Cunning | Willpower | Presence |
 |:-----:|:-------:|:---------:|:-------:|:---------:|:--------:|
-| 3 | 4 | 1 | 3 | 2 | 1 |
+| 3 | 3 | 1 | 2 | 1 | 1 |
 
-- **Soak:** 3 | **Sår:** 6/grupp
-- **Färdigheter (grupp):** Brawl, Perception, Stealth, Survival
-- **Förmågor:** Silver Anathema, Eyeless Sight (ser i totalt mörker)
-- **Attack:** Bett (Brawl; Skada 5; Kritisk 4; Vicious 1)
+- **Soak:** 3 | **Sår:** 4/grupp
+- **Färdigheter (grupp):** Brawl, Stealth, Survival
+- **Förmågor:** Silver Anathema, Terrifying 1 (Discipline Lätt ◆)
+- **Attack:** Käftar (Brawl; Skada 5; Kritisk 3; Vicious 1)
 - **Roll:** Skogens skräck, jagar de som bryter mot de gamla lagarna
+
+### Alfahanne
+**Typ:** Rival
+**Roll:** Skuggvargarnas flockledare
+
+| Brawn | Agility | Intellect | Cunning | Willpower | Presence |
+|:-----:|:-------:|:---------:|:-------:|:---------:|:--------:|
+| 4 | 3 | 1 | 3 | 2 | 1 |
+
+- **Soak:** 4 | **Sår:** 14
+- **Färdigheter:** Brawl 3, Survival 2
+- **Talanger:** Adversary 1
+- **Förmågor:** Silver Anathema, Terrifying 1 (Discipline Lätt ◆)
+- **Attack:** Käftar (Brawl; Skada 6; Kritisk 2; Vicious 2, Knockdown)
+- **Stridsbeteende:** Attackerar starkaste karaktären. Om alfan fälls: övriga slår Cool Genomsnittlig — misslyckas: flocken flyr.
 

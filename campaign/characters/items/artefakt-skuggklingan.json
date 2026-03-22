@@ -1,0 +1,56 @@
+{
+  "name": "Skuggklingan",
+  "type": "weapon",
+  "img": "icons/weapons/daggers/dagger-curved-dark.webp",
+  "system": {
+    "description": "<p><b>Skuggklingan</b> — en dolk av nästan svart stål som drar till sig ljus och tystnad. Hittad i Brödernas Grav.</p><p><b>Ljudlös:</b> Dolken gör inget ljud vid användning. Attacker med Skuggklingan kan inte höras — perfekt för överraskningsattacker. Lägg till 🟦 på Stealth-slag för att närma sig ett mål obemärkt med vapnet draget.</p><p><b>Mörk resonans:</b> Klingan verkar absorbera ljus runt sig. I mörker är den nästan osynlig.</p>",
+    "source": "Brödernas Grav — Session 5",
+    "rarity": 6,
+    "encumbrance": 1,
+    "price": 0,
+    "damage": "undamaged",
+    "container": "",
+    "quantity": 1,
+    "state": "carried",
+    "baseDamage": 2,
+    "critical": 2,
+    "range": "engaged",
+    "skills": [
+      "Melee (Light)"
+    ],
+    "qualities": [
+      {
+        "name": "accurate",
+        "rating": 1,
+        "description": "",
+        "isRated": true
+      },
+      {
+        "name": "pierce",
+        "rating": 1,
+        "description": "",
+        "isRated": true
+      }
+    ],
+    "damageCharacteristic": "brawn"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "genesys",
+    "systemVersion": "0.2.18",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_id": "Sk9rXs0tYu1vZw2x",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,50 +1,50 @@
 {
   "folder": "5W3s74Pq9Dq7UeZG",
-  "name": "Alfahanne (Nattmarknaden)",
+  "name": "Dimväktaren",
   "type": "rival",
   "img": "icons/svg/mystery-man.svg",
   "system": {
     "characteristics": {
       "brawn": 4,
-      "agility": 3,
-      "intellect": 1,
+      "agility": 2,
+      "intellect": 2,
       "cunning": 3,
-      "willpower": 2,
-      "presence": 1
+      "willpower": 4,
+      "presence": 3
     },
-    "soak": 4,
+    "soak": 5,
     "defense": {
       "melee": 0,
       "ranged": 0
     },
-    "description": "<p><b>Alfavarg — flockledare.</b> Större och starkare än vanliga skuggvargar.</p><p><b>Talang: Adversary 1</b> — Uppgradera svårigheten på alla stridsslag mot denna varelse.</p><p><b>Terrifying 1:</b> Discipline Lätt vid första synen.</p><p><b>Silver Anathema:</b> Tar +2 skada från alchemiskt silver.</p><p><b>Stridsbeteende:</b> Attackerar den starkaste karaktären. Om alfan fälls: övriga vargar slår Cool (Genomsnittlig) — misslyckas: flocken flyr.</p>",
+    "description": "<p><b>Marknadens yttre vakt.</b> En gestalt av levande dimma — hög som en man och en halv, smal, klädd i grått eller gjord av grått. Inga drag, inget ansikte. Bara en form av dimma som blivit fast. Bär en glödande halvmåne på handflatan — Drottning Halvmånes märke.</p><p><b>Provar besökare</b> med en personlig fråga var. Ärlighet släpper igenom. Lögn provocerar strid.</p><p><b>Dimform:</b> Halv skada från icke-magiska vapen. Silver och artefakter (Ljusbringaren, Jägarens Öga, Skuggklingan) gör full skada.</p><p><b>Kvävning:</b> Brawl-attack med Ensnare 2. Målet kan inte tala medan det är fångat i dimma.</p><p><b>Om dimväktaren dödas:</b> Återföds efter en månad. Men marknaden minns våldet — ⬛ på sociala slag med Drottningen tills sällskapet imponerar.</p>",
     "source": "Nattmarknaden — Session 6",
     "superCharacteristics": [],
     "wounds": {
       "value": 0,
-      "max": 14
+      "max": 18
     },
     "motivations": {
       "strength": {
-        "description": "",
-        "name": "Flockinstinkt"
+        "description": "Obönhörlig — utför sin plikt utan tvekan",
+        "name": "Plikttrogen"
       },
       "flaw": {
-        "description": "",
-        "name": "Vild"
+        "description": "Kan inte anpassa sig — följer provet exakt, även om svaret är tvetydigt",
+        "name": "Rigid"
       },
       "desire": {
-        "description": "",
-        "name": "Mat"
+        "description": "Skydda marknadens ingång",
+        "name": "Vakta"
       },
       "fear": {
-        "description": "",
-        "name": "Eld"
+        "description": "Att marknadens fiender tar sig in obemärkta",
+        "name": "Intrång"
       }
     }
   },
   "prototypeToken": {
-    "name": "Alfahanne",
+    "name": "Dimväktaren",
     "displayName": 0,
     "actorLink": false,
     "width": 1,
@@ -165,24 +165,24 @@
         "modifiedTime": null,
         "lastModifiedBy": null
       },
-      "_id": "Ab2cCd3eDf4eGg5h",
+      "_id": "Qr3nTv7xYa1Bc5Dg",
       "sort": 0,
       "ownership": {
         "default": 0
       }
     },
     {
-      "name": "Survival",
+      "name": "Coercion",
       "type": "skill",
       "img": "icons/svg/mystery-man.svg",
       "system": {
         "description": "",
         "source": "",
-        "characteristic": "cunning",
-        "category": "general",
+        "characteristic": "willpower",
+        "category": "social",
         "initiative": false,
         "career": false,
-        "rank": 2
+        "rank": 3
       },
       "effects": [],
       "folder": null,
@@ -198,19 +198,52 @@
         "modifiedTime": null,
         "lastModifiedBy": null
       },
-      "_id": "Ae5fFg6gHh7iJj8k",
+      "_id": "Ws4pUx8zBc2Df6Eh",
       "sort": 0,
       "ownership": {
         "default": 0
       }
     },
     {
-      "name": "Käftar",
+      "name": "Discipline",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "willpower",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 3
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Ey5rWz9aCd3Fg7Hi",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Dimgrepp",
       "type": "weapon",
       "img": "icons/svg/mystery-man.svg",
       "system": {
-        "description": "<p>Alfavargsbett. Knockdown vid Advantage.</p>",
-        "source": "",
+        "description": "<p>Dimväktaren omsluter målet med tjock, kvävande dimma. Målet kan inte tala medan det är fångat.</p>",
+        "source": "Nattmarknaden — Session 6",
         "rarity": 0,
         "encumbrance": 0,
         "price": 0,
@@ -218,24 +251,18 @@
         "container": "",
         "quantity": 1,
         "state": "carried",
-        "baseDamage": 2,
-        "critical": 2,
+        "baseDamage": 4,
+        "critical": 4,
         "range": "engaged",
         "skills": [
           "Brawl"
         ],
         "qualities": [
           {
-            "name": "vicious",
+            "name": "ensnare",
             "rating": 2,
-            "description": "",
+            "description": "Målet kan inte tala",
             "isRated": true
-          },
-          {
-            "name": "knockdown",
-            "rating": 0,
-            "description": "",
-            "isRated": false
           }
         ],
         "damageCharacteristic": "brawn"
@@ -254,7 +281,43 @@
         "modifiedTime": null,
         "lastModifiedBy": null
       },
-      "_id": "Ag7hHi8iJj9kLl0m",
+      "_id": "Ga6tXb0cEf4Hj8Kl",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Adversary",
+      "type": "talent",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<p>Upgrade the difficulty of any combat check targeting this character once per rank of Adversary.</p>",
+        "source": "CRB p.72",
+        "tier": 3,
+        "activation": {
+          "type": "passive",
+          "detail": ""
+        },
+        "ranked": "yes",
+        "scalesWithRank": "no",
+        "rank": 1
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Hb7uYc1dFg5Ik9Lm",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -268,7 +331,7 @@
     "duplicateSource": null,
     "exportSource": {
       "worldId": "genesys-test",
-      "uuid": "Actor.Af7eUv2aWp5Zs0Qr",
+      "uuid": "Actor.Dv3kMn7pRs1Tw5Xz",
       "coreVersion": "13.351",
       "systemId": "genesys",
       "systemVersion": "0.2.18"

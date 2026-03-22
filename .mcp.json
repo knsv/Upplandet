@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "foundry-mcp": {
+      "command": "node",
+      "args": ["/Users/knsv/Library/Mobile Documents/com~apple~CloudDocs/Filer/rollspel/Egna Kampanjer/foundry-vtt-mcp/packages/mcp-server/dist/index.js"],
+      "env": {
+        "FOUNDRY_HOST": "foundry.sveido.com",
+        "FOUNDRY_PORT": "31415",
+        "FOUNDRY_PROTOCOL": "wss",
+        "FOUNDRY_REMOTE_MODE": "true"
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Ljusbringaren",
+  "type": "weapon",
+  "img": "icons/weapons/polearms/spear-ornate-gold.webp",
+  "system": {
+    "description": "<p><b>Ljusbringaren</b> — ett heligt silverspjut från Brödernas Grav. Spjutspetsen pulserar med blåaktiga runor som lyser upp vid kontakt med övernaturliga varelser.</p><p><b>Silver:</b> Mot Silver Anathema-varelser: om attacken orsakar 1+ sår kan du spendera ⚡⚡ för att orsaka 2 wounds/runda i 2 rundor (totalt 4 extra wounds). Mot vanliga mål: +1 på Critical rating.</p><p><b>Blå tärning mot övernaturliga:</b> Lägg till 🟦 på stridsslag mot övernaturliga varelser (häxor, odöda, varulvar, vampyrer, korrumperade).</p><p><b>Ljussken:</b> Spjutet lyser svagt blått i närvaro av övernaturliga varelser inom short range — fungerar som varningssignal.</p>",
+    "source": "Brödernas Grav — Session 5",
+    "rarity": 6,
+    "encumbrance": 3,
+    "price": 0,
+    "damage": "undamaged",
+    "container": "",
+    "quantity": 1,
+    "state": "carried",
+    "baseDamage": 3,
+    "critical": 3,
+    "range": "engaged",
+    "skills": [
+      "Melee (Heavy)"
+    ],
+    "qualities": [
+      {
+        "name": "pierce",
+        "rating": 1,
+        "description": "",
+        "isRated": true
+      }
+    ],
+    "damageCharacteristic": "brawn"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "genesys",
+    "systemVersion": "0.2.18",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_id": "Lb1cRd2eSf3gTh4i",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

@@ -6,9 +6,18 @@
       "WebSearch",
       "WebFetch(domain:genesysref.netlify.app)",
       "Skill(adversary-creator)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Skill(session-analyzer)",
+      "Bash(claude mcp:*)",
+      "mcp__foundry-mcp__list-characters",
+      "mcp__foundry-mcp__get-character",
+      "mcp__foundry-mcp__get-character-entity"
     ],
     "deny": [],
     "ask": []
-  }
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "foundry-mcp"
+  ]
 }

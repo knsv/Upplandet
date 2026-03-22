@@ -1,0 +1,38 @@
+{
+  "name": "Jägarens Öga",
+  "type": "armor",
+  "img": "icons/equipment/neck/pendant-eye-gold.webp",
+  "system": {
+    "description": "<p><b>Jägarens Öga</b> — en bronsmedaljong i form av ett öppet öga, varm och pulserande som ett andra hjärta. Hittad i Brödernas Grav.</p><p><b>Passiv: Perception-bonus:</b> Lägg till 🟦 på alla Perception-slag.</p><p><b>Passiv: Stridbonus mot övernaturliga:</b> Lägg till 🟦 på avståndsstrid (Ranged) mot övernaturliga varelser (häxor, odöda, varulvar, vampyrer, korrumperade).</p><p><b>Varning:</b> Amuletten värms märkbart i närvaro av övernaturliga varelser — bäraren känner det mot bröstet.</p>",
+    "source": "Brödernas Grav — Session 5",
+    "rarity": 6,
+    "encumbrance": 0,
+    "price": 0,
+    "damage": "undamaged",
+    "container": "",
+    "quantity": 1,
+    "state": "carried",
+    "defense": 0,
+    "soak": 0,
+    "qualities": []
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "genesys",
+    "systemVersion": "0.2.18",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_id": "Jo5kUl6mVn7oWp8q",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,50 +1,51 @@
 {
   "folder": "5W3s74Pq9Dq7UeZG",
-  "name": "Alfahanne (Nattmarknaden)",
-  "type": "rival",
+  "name": "Vild Vittra",
+  "type": "minion",
   "img": "icons/svg/mystery-man.svg",
   "system": {
     "characteristics": {
-      "brawn": 4,
+      "brawn": 2,
       "agility": 3,
       "intellect": 1,
-      "cunning": 3,
+      "cunning": 2,
       "willpower": 2,
       "presence": 1
     },
-    "soak": 4,
+    "soak": 2,
     "defense": {
       "melee": 0,
       "ranged": 0
     },
-    "description": "<p><b>Alfavarg — flockledare.</b> Större och starkare än vanliga skuggvargar.</p><p><b>Talang: Adversary 1</b> — Uppgradera svårigheten på alla stridsslag mot denna varelse.</p><p><b>Terrifying 1:</b> Discipline Lätt vid första synen.</p><p><b>Silver Anathema:</b> Tar +2 skada från alchemiskt silver.</p><p><b>Stridsbeteende:</b> Attackerar den starkaste karaktären. Om alfan fälls: övriga vargar slår Cool (Genomsnittlig) — misslyckas: flocken flyr.</p>",
+    "description": "<p><b>Vilda vittror — naturväsen som försvarar sin kulle.</b> Små, snabba och aggressiva. Kastar sten med slungor från höjd.</p><p><b>Alternativ lösning:</b> Charm Svår — de slutar kasta sten och pekar mot stigen runt kullen. Triumf: de varnar om Nattmarknaden.</p><p><b>Flyktbeteende:</b> Om 2 faller flyr resten.</p>",
     "source": "Nattmarknaden — Session 6",
     "superCharacteristics": [],
+    "groupSize": 4,
     "wounds": {
       "value": 0,
-      "max": 14
+      "threshold": 4
     },
     "motivations": {
       "strength": {
         "description": "",
-        "name": "Flockinstinkt"
+        "name": "Kullen"
       },
       "flaw": {
         "description": "",
-        "name": "Vild"
+        "name": "Fega i grupp"
       },
       "desire": {
         "description": "",
-        "name": "Mat"
+        "name": "Skydda hemmet"
       },
       "fear": {
         "description": "",
-        "name": "Eld"
+        "name": "Eld och silver"
       }
     }
   },
   "prototypeToken": {
-    "name": "Alfahanne",
+    "name": "Vild Vittra",
     "displayName": 0,
     "actorLink": false,
     "width": 1,
@@ -71,7 +72,7 @@
       "attribute": "wounds"
     },
     "bar2": {
-      "attribute": null
+      "attribute": "members"
     },
     "light": {
       "negative": false,
@@ -139,17 +140,17 @@
   },
   "items": [
     {
-      "name": "Brawl",
+      "name": "Ranged (Light)",
       "type": "skill",
       "img": "icons/svg/mystery-man.svg",
       "system": {
         "description": "",
         "source": "",
-        "characteristic": "brawn",
+        "characteristic": "agility",
         "category": "combat",
         "initiative": false,
         "career": false,
-        "rank": 3
+        "rank": 1
       },
       "effects": [],
       "folder": null,
@@ -165,24 +166,24 @@
         "modifiedTime": null,
         "lastModifiedBy": null
       },
-      "_id": "Ab2cCd3eDf4eGg5h",
+      "_id": "Vt1aRl2bSm3cTn4d",
       "sort": 0,
       "ownership": {
         "default": 0
       }
     },
     {
-      "name": "Survival",
+      "name": "Stealth",
       "type": "skill",
       "img": "icons/svg/mystery-man.svg",
       "system": {
         "description": "",
         "source": "",
-        "characteristic": "cunning",
+        "characteristic": "agility",
         "category": "general",
         "initiative": false,
         "career": false,
-        "rank": 2
+        "rank": 1
       },
       "effects": [],
       "folder": null,
@@ -198,46 +199,33 @@
         "modifiedTime": null,
         "lastModifiedBy": null
       },
-      "_id": "Ae5fFg6gHh7iJj8k",
+      "_id": "Vt5eUo6fVp7gWq8h",
       "sort": 0,
       "ownership": {
         "default": 0
       }
     },
     {
-      "name": "Käftar",
+      "name": "Slunga",
       "type": "weapon",
       "img": "icons/svg/mystery-man.svg",
       "system": {
-        "description": "<p>Alfavargsbett. Knockdown vid Advantage.</p>",
+        "description": "<p>Enkel slunga med stenar.</p>",
         "source": "",
         "rarity": 0,
-        "encumbrance": 0,
+        "encumbrance": 1,
         "price": 0,
         "damage": "undamaged",
         "container": "",
         "quantity": 1,
         "state": "carried",
-        "baseDamage": 2,
-        "critical": 2,
-        "range": "engaged",
+        "baseDamage": 1,
+        "critical": 5,
+        "range": "medium",
         "skills": [
-          "Brawl"
+          "Ranged (Light)"
         ],
-        "qualities": [
-          {
-            "name": "vicious",
-            "rating": 2,
-            "description": "",
-            "isRated": true
-          },
-          {
-            "name": "knockdown",
-            "rating": 0,
-            "description": "",
-            "isRated": false
-          }
-        ],
+        "qualities": [],
         "damageCharacteristic": "brawn"
       },
       "effects": [],
@@ -254,7 +242,50 @@
         "modifiedTime": null,
         "lastModifiedBy": null
       },
-      "_id": "Ag7hHi8iJj9kLl0m",
+      "_id": "Vt9iXr0jYs1kZt2l",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Stenklubba",
+      "type": "weapon",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<p>Primitiv klubba av sten och trä.</p>",
+        "source": "",
+        "rarity": 0,
+        "encumbrance": 2,
+        "price": 0,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 2,
+        "critical": 5,
+        "range": "engaged",
+        "skills": [
+          "Brawl"
+        ],
+        "qualities": [],
+        "damageCharacteristic": "brawn"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Vt3mAu4nBv5oCw6p",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -266,13 +297,7 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "exportSource": {
-      "worldId": "genesys-test",
-      "uuid": "Actor.Af7eUv2aWp5Zs0Qr",
-      "coreVersion": "13.351",
-      "systemId": "genesys",
-      "systemVersion": "0.2.18"
-    },
+    "exportSource": null,
     "coreVersion": "13.351",
     "systemId": "genesys",
     "systemVersion": "0.2.18",
