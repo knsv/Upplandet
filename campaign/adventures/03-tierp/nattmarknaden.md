@@ -102,16 +102,43 @@ Tillbaka i Tierp söker Ulf upp sällskapet.
 
 > *"Tre dagar. Tre dagar har jag väntat. Och stölderna fortsätter — Henrik Bågskansen förlorade en hel tunna salt i natt. Salt! Vem stjäl salt?"*
 
-**Nya ledtrådar sedan session 4:**
+**Vad Ulf berättar (briefing i Tierp):**
+Ulf sammanfattar läget — han har pratat med folk i byarna och ger sällskapet allt han vet:
 
-| Ledtråd | Källa | Slag |
-|---------|-------|------|
-| Fotspåren vid Eskilsta är *inte riktigt mänskliga* — för korta, för breda, barfota trots frosten | Björn Eriksson | Perception Genomsnittlig ◆◆ |
-| En bonde i Gryttjom hörde *sång i skogen* vid midnatt | Gryttjom-bor | Charm Lätt ◆ |
-| Vid Henriks ladugård hittades *gåvor* — en sten med hål, en kvist bunden med rött garn | Henrik (ovillig) | Perception Svår ◆◆◆ |
-| "Ljusen i skogen har kommit närmare. Blåa, mellan träden." | Ulf själv | Inget slag |
+> *"Björn i Börde hittade fotspår vid Eskilsta. Inte mänskliga, sa han — för korta, för breda, och barfota trots frosten. Spåren pekar sydost mot Frebo."*
+>
+> *"Folk i Gryttjom har hört sång i skogen vid midnatt. Ingen vet varifrån."*
+>
+> *"Och ljusen i skogen har kommit närmare. Blåa, mellan träden."*
+>
+> *"Jag vill att ni börjar i Eskilsta. Henrik kan visa var spåren finns. Och gå till Frebo — där försvinner spåren in i skogen."*
+
+**Ulf skickar dem alltså till Eskilsta** som första stopp. De behöver inte besöka Björn i Börde eller resa till Gryttjom — Ulf vidarebefordrar deras information.
+
+**Ledtrådar på plats (Eskilsta, Del 2.1):**
+De konkreta, undersökbara ledtrådarna finns hos **Henrik Bågskansen i Eskilsta** — ekollonen, gåvorna och fotspåren. Slagen görs där, inte här.
+
+| Ledtråd | Var | Slag |
+|---------|-----|------|
+| Fotspåren — icke-mänskliga, barfota, sydost mot Frebo | Eskilsta (vid Henriks ladugård) | Perception Genomsnittlig ◆◆ |
+| Gåvor — hålsten, garnkvist (naturväsen-betalning) | Eskilsta (framför ladugårdsdörren) | Perception Svår ◆◆◆ |
+| Halvmåne-sten bland ekollonen | Eskilsta (fördel ⚡ på Perception) | — |
+| Bonden bekräftar ljus + kryddlukt i skogen | Frebo | Inget slag |
+
+**Flöde:**
+```
+Ulf (Tierp) → briefing, skickar dem till Eskilsta
+  ▼
+Eskilsta: Henrik Bågskansen → visar ekollon, gåvor, fotspår PÅ PLATS
+  ▼
+Frebo: Bonde → bekräftar ljus i skogen, kryddlukt
+  ▼
+Skogen → Encounters (Del 2)
+```
 
 **SL-notering:** Ledtrådarna pekar på att tjuven inte är mänsklig. Gåvorna (hålsten, garnkvist) är klassiska naturväsen-betalningar — de *tror* att de handlar rättvist. Spåren pekar sydost mot Frebo.
+
+**Plan B:** Om spelarna inte nappar på Ulfs uppdrag, se Del 2 — Greta-hooken ger en parallell väg in i skogen. Om BÅDA hooks ignoreras, låt en kolarbetare eller Frebo-bonde spontant nämna marknaden: *"Har ni sett ljusen? Blå, gröna. Och det luktar kryddor. Som en marknad som inte finns."*
 
 ---
 

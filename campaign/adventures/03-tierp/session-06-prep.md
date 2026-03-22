@@ -61,8 +61,39 @@ CLIFFHANGER: Sluta när de upptäcker något som hakar —
 - [ ] Sörens botgöring (kort scen)
 
 ### Del 2: Hooks
-- [ ] **Ulf** — Nya ledtrådar: icke-mänskliga fotspår, ekollon som "betalning", sång i skogen
-- [ ] **Greta** — "Långt in i skogen... befria Alva." Inga riktningar. Vag. Personlig. NÄMNER INTE FREBO.
+
+**Hook A: Ulf — Stölduppdraget**
+Ulf söker upp sällskapet i Tierp (kyrkan eller Gretas stuga). Han ger dem en **briefing** med det han vet:
+- *"Henrik Bågskansen har blivit bestulen IGEN — en hel tunna salt. Och det stod ekollon framför dörren."*
+- *"Ljusen i skogen har kommit närmare. Blåa, mellan träden."*
+- **Ulf skickar dem till Eskilsta** — Henrik bor där, och Björn Eriksson i Börde har hittat fotspår.
+
+Flödet:
+```
+Ulf (Tierp) → berättar vad han vet → skickar dem till Eskilsta
+  │
+  ▼
+Eskilsta: Henrik Bågskansen (vid sin ladugård) → visar ekollonen, gåvorna
+  │ Perception ◆◆ → fotspåren (icke-mänskliga, barfota, sydost mot Frebo)
+  │ Perception ◆◆◆ → gåvorna (hålsten, garnkvist — naturväsen-betalning)
+  ▼
+Frebo: Bonde → "Varje natt lyser det i skogen. Blått. Och det luktar kryddigt."
+  │ Spåren fortsätter in i skogen
+  ▼
+Skogen → Encounters
+```
+
+**Björn Eriksson** (bonde i Börde) behöver INTE besökas separat — Ulf kan vidarebefordra hans info: *"Björn i Börde hittade fotspår mot sydost. Inte mänskliga, sa han. För korta, för breda, barfota i frost."*
+
+**Gryttjom-bor** (sång i skogen) — kan nämnas av Ulf eller av en bonde i Eskilsta: *"Folk i Gryttjom har hört sång i skogen vid midnatt."*
+
+- [ ] **VIKTIGT:** Ulf ger briefingen, men de konkreta ledtrådarna (ekollon, fotspår, gåvor) finns **på plats** i Eskilsta/Frebo
+
+**Hook B: Greta — "Befria henne"**
+Separat scen, samma kväll, vid hennes stuga.
+- [ ] *"Långt in i skogen... befria Alva."* Inga riktningar. Vag. Personlig. NÄMNER INTE FREBO.
+- [ ] Greta vet INTE om marknaden. Hon hör bara sången.
+
 - [ ] **VIKTIGT:** Presentera hooks som helt separata uppdrag
 - [ ] **Plan B (tredje ledtråd):** Om spelarna ignorerar BÅDA hooks, låt en kolarbetare eller Frebo-bonde spontant nämna marknaden: *"Har ni sett ljusen i skogen? Blå, gröna. Varje natt sedan veckor. Och det luktar kryddor. Som en marknad som inte finns."* Alternativt: Anders nämner att Greta bett honom be sällskapet söka i skogen — *"Hon sa att det var brådskande."*
 
