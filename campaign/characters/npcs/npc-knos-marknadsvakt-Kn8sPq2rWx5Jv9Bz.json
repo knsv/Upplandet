@@ -1,0 +1,290 @@
+{
+  "folder": "5W3s74Pq9Dq7UeZG",
+  "name": "Knös (Marknadsvakten)",
+  "type": "nemesis",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "characteristics": {
+      "brawn": 6,
+      "agility": 1,
+      "intellect": 1,
+      "cunning": 1,
+      "willpower": 4,
+      "presence": 2
+    },
+    "soak": 9,
+    "defense": {
+      "melee": 1,
+      "ranged": 0
+    },
+    "description": "<p><b>Knös — Nattmarknadens ordningsvakt.</b> Ett troll stort som två oxar på varandra. Stenhud med sprickor som glöder svagt orange. Mossa växer på hans skuldror. Står alltid still — rör sig bara när reglerna bryts.</p><p><b>⚠️ VIKTIGT: SPRING.</b> Knös är INTE en fiende att slåss mot. Han är en naturkraft. Om spelarna försöker slåss mot honom — gör det tydligt att de inte kan vinna. Hans syfte är att upprätthålla marknadens regler.</p><p><b>Talang: Adversary 2</b> — Uppgradera svårigheten på alla stridsslag mot honom TVÅ gånger.</p><p><b>Talang: Durable 2</b> — Kritiska träffar: -20 på resultattabellen.</p><p><b>Förmåga: Marknadens Lag</b> — Om någon bryter en av marknadens tre regler (ingen strid, inga ångerköp, allt har ett pris): Knös får en fri attack som automatiskt träffar (8 skada + Knockdown). Offret kastas ut ur marknaden i 1 timme.</p><p><b>Förmåga: Regeneration 2</b> — Återställer 2 sår i början av varje runda.</p><p><b>Stridsbeteende:</b> Rör sig bara när reglerna bryts. Slår först, frågar aldrig. Har aldrig förlorat.</p><p><b>Dialog (korta, låga ord):</b> \"Ingen strid.\" / \"Reglerna står.\" / \"Ut.\"</p>",
+    "source": "Nattmarknaden — Marknadens ytterkant",
+    "superCharacteristics": [],
+    "wounds": {
+      "value": 0,
+      "max": 30
+    },
+    "strain": {
+      "value": 0,
+      "max": 15
+    },
+    "motivations": {
+      "strength": {
+        "description": "",
+        "name": "Ofelbar regelhävdare"
+      },
+      "flaw": {
+        "description": "",
+        "name": "Kan inte förhandla"
+      },
+      "desire": {
+        "description": "",
+        "name": "Ordning på marknaden"
+      },
+      "fear": {
+        "description": "",
+        "name": "Drottningens missnöje"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Knös",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 2,
+    "height": 2,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "wounds"
+    },
+    "bar2": {
+      "attribute": "strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Brawl",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "brawn",
+        "category": "combat",
+        "initiative": false,
+        "career": false,
+        "rank": 3
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Kn1BrwlAb4Cd7Ef2",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Vigilance",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "willpower",
+        "category": "general",
+        "initiative": true,
+        "career": false,
+        "rank": 2
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Kn2VgilGh5Ij8Kl3",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Nävar",
+      "type": "weapon",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<p>Knös massiva stennävar. Slag som berg. Knockdown ingår alltid.</p>",
+        "source": "",
+        "rarity": 0,
+        "encumbrance": 0,
+        "price": 0,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 2,
+        "critical": 4,
+        "range": "engaged",
+        "skills": [
+          "Brawl"
+        ],
+        "qualities": [
+          {
+            "name": "knockdown",
+            "rating": 0,
+            "description": "",
+            "isRated": false
+          },
+          {
+            "name": "concussive",
+            "rating": 1,
+            "description": "",
+            "isRated": true
+          }
+        ],
+        "damageCharacteristic": "brawn"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Kn3NavrMn6Op9Qr4",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "genesys-test",
+      "uuid": "Actor.Kn8sPq2rWx5Jv9Bz",
+      "coreVersion": "13.351",
+      "systemId": "genesys",
+      "systemVersion": "0.2.18"
+    },
+    "coreVersion": "13.351",
+    "systemId": "genesys",
+    "systemVersion": "0.2.18",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

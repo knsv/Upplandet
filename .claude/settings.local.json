@@ -11,7 +11,11 @@
       "Bash(claude mcp:*)",
       "mcp__foundry-mcp__list-characters",
       "mcp__foundry-mcp__get-character",
-      "mcp__foundry-mcp__get-character-entity"
+      "mcp__foundry-mcp__get-character-entity",
+      "mcp__claude_ai_Mermaid_Chart__validate_and_render_mermaid_diagram",
+      "mcp__foundry-mcp__get-world-info",
+      "Skill(session-redteam)",
+      "Skill(session-redteam:*)"
     ],
     "deny": [],
     "ask": []

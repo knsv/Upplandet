@@ -410,6 +410,12 @@ Detta är kritiskt för motivationen: de *måste* hjälpa Drottningen befria mar
                           [HEMLIG AVDELN.]
                                  │
                        ┌─────────┴────────┐
+                       │    PORTALGATAN   │
+                       │  (🔥 HOLMGÅNGEN) │
+                       │  Bergtroll-bröd. │
+                       └─────────┬────────┘
+                                 │
+                       ┌─────────┴────────┐
                        │    PORTALEN      │
                        │  (In/ut, Kvick)  │
                        └──────────────────┘
@@ -560,6 +566,91 @@ Spelhålans mästartävling. Fyra spelare sitter runt ett bord. Var och en berä
 | Misslyckande | Skuggflickan vinner. Finn förlorar insatsen (10 silver). Kan utmana igen: *"Bäst av tre?"* |
 
 **Vinst:** 30 silver + titeln + respekt. Men viktigare: **Lögnarkung-titeln öppnar dörrar.** Kvick buggar djupare. Grimske skickar blickar av motvillig respekt. Drottningen *noterar* honom.
+
+### Holmgången — Marknadens stridsarena (ligger på Portalgatan)
+
+**Plats:** På **Portalgatan**, den breda ingångsgatan precis innanför Portalen. Holmgången är det första och sista de flesta besökare ser när de kommer in på eller lämnar marknaden.
+
+> På Portalgatan, bara några steg innanför ingången: en cirkulär arena, handflatsdjupt nedsänkt, ringad av huggen sten. I själva stenringen pulserar runor svagt röda — de följer hela omkretsen som en kedja av eldslampor. Publik trängs runt ringens kant: trollungar som hojtar, vittror som slår vad, en fiolspelare som slår en takt mot en trästock.
+>
+> En skylt av bark hänger över ingången, ristad i rött:
+>
+> ***"HÄR FÅR DET BLÖDA. INGEN DÖR. MARKNADENS ED."***
+
+**Holmgången är det ENDA stället på marknaden där strid är tillåten.** Knös själv har godkänt den. Reglerna är marknadens — allt annat vore kaos.
+
+#### Ringens lagar (gäller inom stenkanten)
+
+- **Marknadsfreden upphävs** inom ringens runor. Slag, vapen, brawl — allt tillåtet
+- **Ingen dör.** PC eller motståndare som går till 0 wounds → knockout, stabiliseras automatiskt efter striden
+- Kritiska träffar gäller, men dödande resultat → medvetslöshet istället
+- **Ingen flykt.** Runringens magi håller kämparna inom ringen tills en sida är nere
+- **Vinnande sida helas automatiskt** av marknadsmagin (full wounds + strain) efter striden
+- **Förlorande sida stabiliseras** men helas inte
+- **Knös vakar.** Den som bryter reglerna (fortsätter efter knockout, drar vapen utanför ringen) får möta honom
+
+#### Utmaningar
+
+Vem som helst kan utmana vem som helst. Gäld (stake) förhandlas först:
+- Vanlig insats: 20-50 silver
+- Föremål (vapen, smycken, historier)
+- Tjänst (en dags arbete, en hemlighet)
+
+#### Sidouppdrag #7: Bergtroll-bröderna från Dannemora
+
+**Trigger:** När sällskapet rör sig genom Portalgatan (i princip varje gång de kommer in eller lämnar marknadens djupare delar). Bröderna står i ringen och letar efter nyanlända att provocera.
+
+Tre bergtroll-bröder från Dannemora står mitt i ringen. Aggressiva, stolta, fördrivna från sin gruva. De är där för att utmana — och mänskor är exotiskt färskt blod.
+
+> *Den största — gröna ränder över bröstet, tänder som filats till spetsar — pekar på er.*
+>
+> *"MÄNSKOR!"* ropar han. Publiken jublar. *"Äntligen något roligt! Kom in i ringen! Tre mot tre! Eller är ni rädda?"*
+
+**Provokationshak** (välj en — rikta mot en specifik PC):
+
+| Hak | Riktas mot | Vad sägs |
+|-----|-----------|----------|
+| Spjutet | **Sören** | *"Präst-pinnen! Låt oss se om den biter när ingen ber för dig!"* |
+| Dolken | **Finn** | *"Den där skuggdolken... den var vår, en gång. Vi vill ha den tillbaka. Kom vinn den!"* |
+| Amuletten | **Lusse** | *"Jägare med talisman? Skrattretande. En riktig jägare behöver inte smycken."* |
+| Emma | **Gruppen** | *"Ni släpar en flickunge genom farlig mark. Lär er försvara henne. Visa oss."* |
+
+**Action economy (3v3):**
+
+Grimtand **fixerar** den PC han provocerat. Lurkna och Bullrik **försöker flanka** samma PC om ingen stoppar dem.
+
+PC som vill hindra Lurkna eller Bullrik: **Athletics eller Coordination Genomsnittlig ◆◆** för att fånga dem i engaged. Lyckad: striden delar sig i 1v1 + 2v2 eller tre separata dueller.
+
+**Motståndare** (se separata NPC-filer för detaljerade stats):
+
+| Namn | Typ | Br/Ag | Soak | Wounds | Vapen | Förmåga |
+|------|-----|-------|------|--------|-------|---------|
+| **Grimtand** | Rival | 4/2 | 4 | 12 | Nävklubba (Br+2, Crit 4, Disorient 1, Knockdown) | Adversary 1, Terrifying 1, Slagregn |
+| **Lurkna** | Rival | 2/4 | 3 | 10 | Klor (Br+1, Crit 3, Accurate 1) | Flankrörelse |
+| **Bullrik** | Rival | 4/1 | 5 | 12 | Stenslag (Br+2, Crit 5, Concussive 1) | Stenhud |
+
+**Bergtroll-identifiering** (passiva Knowledge-slag):
+
+| Slag | Svårighet | Resultat |
+|------|-----------|----------|
+| Knowledge (Lore) | Lätt ◆ | "Bergtroll från berg eller gruva" |
+| Knowledge (Lore) | Genomsnittlig ◆◆ | "Bröderskapskoder. Försmå en, försmå alla tre" |
+| Knowledge (Forbidden) | Genomsnittlig ◆◆ | "Dannemora — gruvort norr om Tierp. Marken skakar där. Något driver ut dem" |
+| Sörens inkvisitions-bakgrund | +🟦 på ovanstående | — |
+
+**Vinst:**
+- FULL helning (wounds + strain) för hela sällskapet — marknadsmagin
+- 30 silver + **Rödögd Sten** (kastas i eld: ⬛ till alla fiender i short range en runda, engångs)
+- Publiken jublar. Ryktet sprids: *"Mänskorna slog Grimtands bröder"*
+- Kvick: *"Ni är inte helt hopplösa, va?"*
+
+**Förlust:**
+- Full helning ändå (marknadens regel)
+- Förlorar 20 silver som insats
+- ⬛ på Intimidation-slag resten av sessionen
+- Bergtrollen bjuder på en drink: *"Ni gjorde bra ifrån er. För mänskor."*
+
+**Efter striden (oavsett utfall):** Grimtand berättar att de flydde Dannemora för *"något som vaknade i berget"*. Marken skakade. Gruvan förseglades. De har ingen hem att återvända till. **Kampanjavbindning för framtida Dannemora-äventyr.**
 
 ---
 
@@ -1095,9 +1186,13 @@ Hon styr marknaden med absolut auktoritet — men inte genom grymhet. Genom *reg
 >
 > *"Men ni..."* Hon lutar sig framåt. Löven glittrar. *"Ni är inte bundna av mina lagar. Ni är gäster, ja. Men ni svurit inga eder. Ni bär ingen marknadsgäld."*
 >
-> *"Intressant."*
+> Löven guldgula ett långt ögonblick.
+>
+> *"Om någon — helt av egen vilja — skulle lätta den börda som ligger över min marknad... skulle jag vara mycket uppskattsam. Mycket. Sådana gärningar glöms inte på Nattmarknaden."*
+>
+> *"Intressant, ni fyra."*
 
-**SL-notering:** Drottningen *ber inte om hjälp*. Hon antyder. Hon fascineras. Hon ger bitar av information men sätter aldrig ihop pusslet åt dem. Det ska spelarna göra.
+**SL-notering:** Drottningen *ber aldrig rakt ut om hjälp*. Hon antyder, fascineras, och kan uttrycka att generös tacksamhet väntar den som agerar av egen drift — men hon namnger aldrig fienden, befaller ingenting, och sätter aldrig ihop pusslet åt spelarna. Det ska de göra själva.
 
 **Om Finn vunnit Lögnarkungen:** Drottningen *skickar efter honom* specifikt. Hon vill se "den mänsklige lögnarkungen." Hon är förtjust.
 

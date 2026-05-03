@@ -1,0 +1,352 @@
+{
+  "folder": "5W3s74Pq9Dq7UeZG",
+  "name": "Grimske (Vettarnas Badhus)",
+  "type": "rival",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "characteristics": {
+      "brawn": 3,
+      "agility": 4,
+      "intellect": 3,
+      "cunning": 4,
+      "willpower": 3,
+      "presence": 2
+    },
+    "soak": 5,
+    "defense": {
+      "melee": 0,
+      "ranged": 0
+    },
+    "description": "<p><b>Grimske — slavhandlaren på Vettarnas Badhus.</b> En vettar, men tydligare än de andra. Ansiktet stannar — skiftar inte. Kalla ögon. Mun som en rak linje. Bärt bark-hud och en liten järnnyckel runt halsen.</p><p><b>Talang: Adversary 1</b> — Uppgradera svårigheten på alla stridsslag mot honom.</p><p><b>Talang: Nobody's Fool</b> — Uppgradera svårigheten på Charm, Coercion, Deception-slag mot honom.</p><p><b>Förmåga: Skuggsmältning</b> — En gång per strid: försvinn in i skuggor, dyk upp var som helst inom Short range. Kräver manoeuvre.</p><p><b>Nyckel:</b> Bär Grimskes Nyckel — öppnar alla halsband/fotband på älvorna. Kan stjälas med Skulduggery (Genomsnittlig ◆◆) under strid.</p><p><b>Stridsbeteende:</b> Håller sig på avstånd när möjligt, använder Skuggsmältning för att flanka. Beordrar vettarvakterna att fixera den farligaste PC:n.</p><p><b>Dialog:</b> \"Ni har inget här att göra.\" / \"Älvorna är min egendom. Köpta och betalda. Marknadslagens skydd.\" / \"Bryt marknadsfreden — så dör ni alla.\"</p>",
+    "source": "Nattmarknaden — Vettarnas Badhus",
+    "superCharacteristics": [],
+    "wounds": {
+      "value": 0,
+      "max": 16
+    },
+    "motivations": {
+      "strength": {
+        "description": "",
+        "name": "Kallblodighet"
+      },
+      "flaw": {
+        "description": "",
+        "name": "Girighet"
+      },
+      "desire": {
+        "description": "",
+        "name": "Kontroll + vinst"
+      },
+      "fear": {
+        "description": "",
+        "name": "Att förlora älvorna"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Grimske",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "wounds"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Coercion",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "willpower",
+        "category": "social",
+        "initiative": false,
+        "career": false,
+        "rank": 3
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Gk1Coerc3aBcDeFg",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Melee",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "brawn",
+        "category": "combat",
+        "initiative": false,
+        "career": false,
+        "rank": 3
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Gk2Melee4bCdEfGh",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Stealth",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "agility",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 3
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Gk3Stlth5cDeFgHi",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Negotiation",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "presence",
+        "category": "social",
+        "initiative": false,
+        "career": false,
+        "rank": 2
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Gk4Negot6dEfGhIj",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Järnklor",
+      "type": "weapon",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<p>Grimskes svarta järnklor — smidda för att fånga och riva. Ensnare 1 immobiliserar offret.</p>",
+        "source": "",
+        "rarity": 0,
+        "encumbrance": 0,
+        "price": 0,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 2,
+        "critical": 3,
+        "range": "engaged",
+        "skills": [
+          "Melee"
+        ],
+        "qualities": [
+          {
+            "name": "pierce",
+            "rating": 1,
+            "description": "",
+            "isRated": true
+          },
+          {
+            "name": "ensnare",
+            "rating": 1,
+            "description": "",
+            "isRated": true
+          }
+        ],
+        "damageCharacteristic": "brawn"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Gk5Jarkl7eFgHiJk",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "genesys-test",
+      "uuid": "Actor.Gk2pVr6sWx9Ly3Mn",
+      "coreVersion": "13.351",
+      "systemId": "genesys",
+      "systemVersion": "0.2.18"
+    },
+    "coreVersion": "13.351",
+    "systemId": "genesys",
+    "systemVersion": "0.2.18",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}

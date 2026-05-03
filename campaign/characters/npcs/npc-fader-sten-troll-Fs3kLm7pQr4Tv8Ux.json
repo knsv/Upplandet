@@ -1,0 +1,313 @@
+{
+  "folder": "5W3s74Pq9Dq7UeZG",
+  "name": "Fader Sten (Trollkyrkan)",
+  "type": "rival",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "characteristics": {
+      "brawn": 5,
+      "agility": 1,
+      "intellect": 2,
+      "cunning": 2,
+      "willpower": 3,
+      "presence": 3
+    },
+    "soak": 6,
+    "defense": {
+      "melee": 0,
+      "ranged": 0
+    },
+    "description": "<p><b>Fader Sten — skogstrollpräst.</b> Tre meter hög. Grågrön hud. Klädd i stulen stola (för liten). Håller ett kors av pinnar runt halsen. Fascinerad av kristendom, menar ingen ondska, tror att kyrkans böner är trollkonst.</p><p><b>VIKTIGT: Fader Sten är INTE en fiende.</b> Han är en rollspelsscen — inte en stridsscen. Om spelarna attackerar honom: stats finns för att hantera det, men konsekvenserna (marknadsfrid bryts, Knös kommer, församlingen gråter) är stora.</p><p><b>Talang: Adversary 1</b> — Om strid (uppgradera svårighet på attacker mot honom).</p><p><b>Talang: Durable 1</b> — Kritiska träffar: -10 på resultattabellen.</p><p><b>Stridsbeteende (om provocerad):</b> Slåss motvilligt, reflexivt, är förvirrad över varför mänskor attackerar honom. \"Ni bryter mässan!\" Går ner fort om Ljusbringaren används (heligt vapen mot trollkött).</p><p><b>Dialog:</b> \"Mänskor! I kyrkan!\" / \"Jag studerar era ritualer. Mäktig magi!\" / \"Brödet blir kött. Vinet blir blod. Jag lär mig.\" / (vid dop) \"Jag döper dig i Sonen och Fadern och den Heliga Svampen.\"</p>",
+    "source": "Nattmarknaden — Trollkyrkan",
+    "superCharacteristics": [],
+    "wounds": {
+      "value": 0,
+      "max": 18
+    },
+    "motivations": {
+      "strength": {
+        "description": "",
+        "name": "Genuin fromhet"
+      },
+      "flaw": {
+        "description": "",
+        "name": "Missförstånd"
+      },
+      "desire": {
+        "description": "",
+        "name": "Lära sig det heliga"
+      },
+      "fear": {
+        "description": "",
+        "name": "Att ha fel i sin tro"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Fader Sten",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 2,
+    "height": 2,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 0,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "wounds"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Brawl",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "brawn",
+        "category": "combat",
+        "initiative": false,
+        "career": false,
+        "rank": 2
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Fs1BrwlLd3Np7Qr0",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Coercion",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "willpower",
+        "category": "social",
+        "initiative": false,
+        "career": false,
+        "rank": 1
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Fs2CoercRs8Tv4Uw",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Discipline",
+      "type": "skill",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "characteristic": "willpower",
+        "category": "general",
+        "initiative": false,
+        "career": false,
+        "rank": 2
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Fs3DisclKx9Lm1Nb",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Trollnäve",
+      "type": "weapon",
+      "img": "icons/svg/mystery-man.svg",
+      "system": {
+        "description": "<p>Fader Stens massiva näve. Han slåss motvilligt — men när han slår, slår han som ett berg.</p>",
+        "source": "",
+        "rarity": 0,
+        "encumbrance": 0,
+        "price": 0,
+        "damage": "undamaged",
+        "container": "",
+        "quantity": 1,
+        "state": "carried",
+        "baseDamage": 2,
+        "critical": 4,
+        "range": "engaged",
+        "skills": [
+          "Brawl"
+        ],
+        "qualities": [
+          {
+            "name": "knockdown",
+            "rating": 0,
+            "description": "",
+            "isRated": false
+          }
+        ],
+        "damageCharacteristic": "brawn"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "genesys",
+        "systemVersion": "0.2.18",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Fs4TrNv6Op2Qr8St",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "genesys-test",
+      "uuid": "Actor.Fs3kLm7pQr4Tv8Ux",
+      "coreVersion": "13.351",
+      "systemId": "genesys",
+      "systemVersion": "0.2.18"
+    },
+    "coreVersion": "13.351",
+    "systemId": "genesys",
+    "systemVersion": "0.2.18",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "ownership": {
+    "default": 0
+  }
+}
